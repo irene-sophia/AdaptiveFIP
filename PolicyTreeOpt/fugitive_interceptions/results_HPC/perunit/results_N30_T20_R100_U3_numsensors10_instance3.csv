@@ -1,0 +1,3001 @@
+nfe,time,best_f,best_P,instance,seed,manhattan_diam,num_units,num_sensors
+100,4,0.96,"[<ptreeopt.tree.PTree object at 0x1555281c25e0>
+ <ptreeopt.tree.PTree object at 0x1555281c2280>
+ <ptreeopt.tree.PTree object at 0x1555281c2220>]",3,0,30,3,10
+200,9,0.96,"[<ptreeopt.tree.PTree object at 0x1555281c25e0>
+ <ptreeopt.tree.PTree object at 0x1555281c2280>
+ <ptreeopt.tree.PTree object at 0x1555281c2220>]",3,0,30,3,10
+300,14,0.96,"[<ptreeopt.tree.PTree object at 0x1555281c25e0>
+ <ptreeopt.tree.PTree object at 0x1555281c2280>
+ <ptreeopt.tree.PTree object at 0x1555281c2220>]",3,0,30,3,10
+400,19,0.96,"[<ptreeopt.tree.PTree object at 0x1555281c25e0>
+ <ptreeopt.tree.PTree object at 0x1555281c2280>
+ <ptreeopt.tree.PTree object at 0x1555281c2220>]",3,0,30,3,10
+500,24,0.96,"[<ptreeopt.tree.PTree object at 0x1555281c25e0>
+ <ptreeopt.tree.PTree object at 0x1555281c2280>
+ <ptreeopt.tree.PTree object at 0x1555281c2220>]",3,0,30,3,10
+600,29,0.96,"[<ptreeopt.tree.PTree object at 0x1555281c25e0>
+ <ptreeopt.tree.PTree object at 0x1555281c2280>
+ <ptreeopt.tree.PTree object at 0x1555281c2220>]",3,0,30,3,10
+700,34,0.96,"[<ptreeopt.tree.PTree object at 0x1555281c25e0>
+ <ptreeopt.tree.PTree object at 0x1555281c2280>
+ <ptreeopt.tree.PTree object at 0x1555281c2220>]",3,0,30,3,10
+800,39,0.96,"[<ptreeopt.tree.PTree object at 0x1555281c25e0>
+ <ptreeopt.tree.PTree object at 0x1555281c2280>
+ <ptreeopt.tree.PTree object at 0x1555281c2220>]",3,0,30,3,10
+900,44,0.96,"[<ptreeopt.tree.PTree object at 0x1555281c25e0>
+ <ptreeopt.tree.PTree object at 0x1555281c2280>
+ <ptreeopt.tree.PTree object at 0x1555281c2220>]",3,0,30,3,10
+1000,49,0.96,"[<ptreeopt.tree.PTree object at 0x1555281c25e0>
+ <ptreeopt.tree.PTree object at 0x1555281c2280>
+ <ptreeopt.tree.PTree object at 0x1555281c2220>]",3,0,30,3,10
+1100,54,0.96,"[<ptreeopt.tree.PTree object at 0x1555281c25e0>
+ <ptreeopt.tree.PTree object at 0x1555281c2280>
+ <ptreeopt.tree.PTree object at 0x1555281c2220>]",3,0,30,3,10
+1200,59,0.96,"[<ptreeopt.tree.PTree object at 0x1555281c25e0>
+ <ptreeopt.tree.PTree object at 0x1555281c2280>
+ <ptreeopt.tree.PTree object at 0x1555281c2220>]",3,0,30,3,10
+1300,64,0.96,"[<ptreeopt.tree.PTree object at 0x1555281c25e0>
+ <ptreeopt.tree.PTree object at 0x1555281c2280>
+ <ptreeopt.tree.PTree object at 0x1555281c2220>]",3,0,30,3,10
+1400,69,0.96,"[<ptreeopt.tree.PTree object at 0x1555281c25e0>
+ <ptreeopt.tree.PTree object at 0x1555281c2280>
+ <ptreeopt.tree.PTree object at 0x1555281c2220>]",3,0,30,3,10
+1500,74,0.96,"[<ptreeopt.tree.PTree object at 0x1555281c25e0>
+ <ptreeopt.tree.PTree object at 0x1555281c2280>
+ <ptreeopt.tree.PTree object at 0x1555281c2220>]",3,0,30,3,10
+1600,79,0.96,"[<ptreeopt.tree.PTree object at 0x1555281c25e0>
+ <ptreeopt.tree.PTree object at 0x1555281c2280>
+ <ptreeopt.tree.PTree object at 0x1555281c2220>]",3,0,30,3,10
+1700,84,0.96,"[<ptreeopt.tree.PTree object at 0x1555281c25e0>
+ <ptreeopt.tree.PTree object at 0x1555281c2280>
+ <ptreeopt.tree.PTree object at 0x1555281c2220>]",3,0,30,3,10
+1800,89,0.96,"[<ptreeopt.tree.PTree object at 0x1555281c25e0>
+ <ptreeopt.tree.PTree object at 0x1555281c2280>
+ <ptreeopt.tree.PTree object at 0x1555281c2220>]",3,0,30,3,10
+1900,94,0.96,"[<ptreeopt.tree.PTree object at 0x1555281c25e0>
+ <ptreeopt.tree.PTree object at 0x1555281c2280>
+ <ptreeopt.tree.PTree object at 0x1555281c2220>]",3,0,30,3,10
+2000,99,0.96,"[<ptreeopt.tree.PTree object at 0x1555281c25e0>
+ <ptreeopt.tree.PTree object at 0x1555281c2280>
+ <ptreeopt.tree.PTree object at 0x1555281c2220>]",3,0,30,3,10
+2100,104,0.96,"[<ptreeopt.tree.PTree object at 0x1555281c25e0>
+ <ptreeopt.tree.PTree object at 0x1555281c2280>
+ <ptreeopt.tree.PTree object at 0x1555281c2220>]",3,0,30,3,10
+2200,109,0.96,"[<ptreeopt.tree.PTree object at 0x1555281c25e0>
+ <ptreeopt.tree.PTree object at 0x1555281c2280>
+ <ptreeopt.tree.PTree object at 0x1555281c2220>]",3,0,30,3,10
+2300,114,0.96,"[<ptreeopt.tree.PTree object at 0x1555281c25e0>
+ <ptreeopt.tree.PTree object at 0x1555281c2280>
+ <ptreeopt.tree.PTree object at 0x1555281c2220>]",3,0,30,3,10
+2400,119,0.96,"[<ptreeopt.tree.PTree object at 0x1555281c25e0>
+ <ptreeopt.tree.PTree object at 0x1555281c2280>
+ <ptreeopt.tree.PTree object at 0x1555281c2220>]",3,0,30,3,10
+2500,124,0.96,"[<ptreeopt.tree.PTree object at 0x1555281c25e0>
+ <ptreeopt.tree.PTree object at 0x1555281c2280>
+ <ptreeopt.tree.PTree object at 0x1555281c2220>]",3,0,30,3,10
+2600,129,0.96,"[<ptreeopt.tree.PTree object at 0x1555281c25e0>
+ <ptreeopt.tree.PTree object at 0x1555281c2280>
+ <ptreeopt.tree.PTree object at 0x1555281c2220>]",3,0,30,3,10
+2700,134,0.96,"[<ptreeopt.tree.PTree object at 0x1555281c25e0>
+ <ptreeopt.tree.PTree object at 0x1555281c2280>
+ <ptreeopt.tree.PTree object at 0x1555281c2220>]",3,0,30,3,10
+2800,139,0.96,"[<ptreeopt.tree.PTree object at 0x1555281c25e0>
+ <ptreeopt.tree.PTree object at 0x1555281c2280>
+ <ptreeopt.tree.PTree object at 0x1555281c2220>]",3,0,30,3,10
+2900,144,0.96,"[<ptreeopt.tree.PTree object at 0x1555281c25e0>
+ <ptreeopt.tree.PTree object at 0x1555281c2280>
+ <ptreeopt.tree.PTree object at 0x1555281c2220>]",3,0,30,3,10
+3000,150,0.96,"[<ptreeopt.tree.PTree object at 0x1555281c25e0>
+ <ptreeopt.tree.PTree object at 0x1555281c2280>
+ <ptreeopt.tree.PTree object at 0x1555281c2220>]",3,0,30,3,10
+3100,155,0.96,"[<ptreeopt.tree.PTree object at 0x1555281c25e0>
+ <ptreeopt.tree.PTree object at 0x1555281c2280>
+ <ptreeopt.tree.PTree object at 0x1555281c2220>]",3,0,30,3,10
+3200,160,0.96,"[<ptreeopt.tree.PTree object at 0x1555281c25e0>
+ <ptreeopt.tree.PTree object at 0x1555281c2280>
+ <ptreeopt.tree.PTree object at 0x1555281c2220>]",3,0,30,3,10
+3300,164,0.96,"[<ptreeopt.tree.PTree object at 0x1555281c25e0>
+ <ptreeopt.tree.PTree object at 0x1555281c2280>
+ <ptreeopt.tree.PTree object at 0x1555281c2220>]",3,0,30,3,10
+3400,169,0.96,"[<ptreeopt.tree.PTree object at 0x1555281c25e0>
+ <ptreeopt.tree.PTree object at 0x1555281c2280>
+ <ptreeopt.tree.PTree object at 0x1555281c2220>]",3,0,30,3,10
+3500,174,0.96,"[<ptreeopt.tree.PTree object at 0x1555281c25e0>
+ <ptreeopt.tree.PTree object at 0x1555281c2280>
+ <ptreeopt.tree.PTree object at 0x1555281c2220>]",3,0,30,3,10
+3600,179,0.96,"[<ptreeopt.tree.PTree object at 0x1555281c25e0>
+ <ptreeopt.tree.PTree object at 0x1555281c2280>
+ <ptreeopt.tree.PTree object at 0x1555281c2220>]",3,0,30,3,10
+3700,184,0.96,"[<ptreeopt.tree.PTree object at 0x1555281c25e0>
+ <ptreeopt.tree.PTree object at 0x1555281c2280>
+ <ptreeopt.tree.PTree object at 0x1555281c2220>]",3,0,30,3,10
+3800,189,0.96,"[<ptreeopt.tree.PTree object at 0x1555281c25e0>
+ <ptreeopt.tree.PTree object at 0x1555281c2280>
+ <ptreeopt.tree.PTree object at 0x1555281c2220>]",3,0,30,3,10
+3900,194,0.96,"[<ptreeopt.tree.PTree object at 0x1555281c25e0>
+ <ptreeopt.tree.PTree object at 0x1555281c2280>
+ <ptreeopt.tree.PTree object at 0x1555281c2220>]",3,0,30,3,10
+4000,199,0.96,"[<ptreeopt.tree.PTree object at 0x1555281c25e0>
+ <ptreeopt.tree.PTree object at 0x1555281c2280>
+ <ptreeopt.tree.PTree object at 0x1555281c2220>]",3,0,30,3,10
+4100,204,0.96,"[<ptreeopt.tree.PTree object at 0x1555281c25e0>
+ <ptreeopt.tree.PTree object at 0x1555281c2280>
+ <ptreeopt.tree.PTree object at 0x1555281c2220>]",3,0,30,3,10
+4200,208,0.96,"[<ptreeopt.tree.PTree object at 0x1555281c25e0>
+ <ptreeopt.tree.PTree object at 0x1555281c2280>
+ <ptreeopt.tree.PTree object at 0x1555281c2220>]",3,0,30,3,10
+4300,213,0.96,"[<ptreeopt.tree.PTree object at 0x1555281c25e0>
+ <ptreeopt.tree.PTree object at 0x1555281c2280>
+ <ptreeopt.tree.PTree object at 0x1555281c2220>]",3,0,30,3,10
+4400,218,0.96,"[<ptreeopt.tree.PTree object at 0x1555281c25e0>
+ <ptreeopt.tree.PTree object at 0x1555281c2280>
+ <ptreeopt.tree.PTree object at 0x1555281c2220>]",3,0,30,3,10
+4500,223,0.96,"[<ptreeopt.tree.PTree object at 0x1555281c25e0>
+ <ptreeopt.tree.PTree object at 0x1555281c2280>
+ <ptreeopt.tree.PTree object at 0x1555281c2220>]",3,0,30,3,10
+4600,228,0.96,"[<ptreeopt.tree.PTree object at 0x1555281c25e0>
+ <ptreeopt.tree.PTree object at 0x1555281c2280>
+ <ptreeopt.tree.PTree object at 0x1555281c2220>]",3,0,30,3,10
+4700,233,0.96,"[<ptreeopt.tree.PTree object at 0x1555281c25e0>
+ <ptreeopt.tree.PTree object at 0x1555281c2280>
+ <ptreeopt.tree.PTree object at 0x1555281c2220>]",3,0,30,3,10
+4800,238,0.96,"[<ptreeopt.tree.PTree object at 0x1555281c25e0>
+ <ptreeopt.tree.PTree object at 0x1555281c2280>
+ <ptreeopt.tree.PTree object at 0x1555281c2220>]",3,0,30,3,10
+4900,243,0.96,"[<ptreeopt.tree.PTree object at 0x1555281c25e0>
+ <ptreeopt.tree.PTree object at 0x1555281c2280>
+ <ptreeopt.tree.PTree object at 0x1555281c2220>]",3,0,30,3,10
+5000,248,0.96,"[<ptreeopt.tree.PTree object at 0x1555281c25e0>
+ <ptreeopt.tree.PTree object at 0x1555281c2280>
+ <ptreeopt.tree.PTree object at 0x1555281c2220>]",3,0,30,3,10
+5100,253,0.96,"[<ptreeopt.tree.PTree object at 0x1555281c25e0>
+ <ptreeopt.tree.PTree object at 0x1555281c2280>
+ <ptreeopt.tree.PTree object at 0x1555281c2220>]",3,0,30,3,10
+5200,258,0.96,"[<ptreeopt.tree.PTree object at 0x1555281c25e0>
+ <ptreeopt.tree.PTree object at 0x1555281c2280>
+ <ptreeopt.tree.PTree object at 0x1555281c2220>]",3,0,30,3,10
+5300,263,0.96,"[<ptreeopt.tree.PTree object at 0x1555281c25e0>
+ <ptreeopt.tree.PTree object at 0x1555281c2280>
+ <ptreeopt.tree.PTree object at 0x1555281c2220>]",3,0,30,3,10
+5400,268,0.96,"[<ptreeopt.tree.PTree object at 0x1555281c25e0>
+ <ptreeopt.tree.PTree object at 0x1555281c2280>
+ <ptreeopt.tree.PTree object at 0x1555281c2220>]",3,0,30,3,10
+5500,273,0.96,"[<ptreeopt.tree.PTree object at 0x1555281c25e0>
+ <ptreeopt.tree.PTree object at 0x1555281c2280>
+ <ptreeopt.tree.PTree object at 0x1555281c2220>]",3,0,30,3,10
+5600,278,0.96,"[<ptreeopt.tree.PTree object at 0x1555281c25e0>
+ <ptreeopt.tree.PTree object at 0x1555281c2280>
+ <ptreeopt.tree.PTree object at 0x1555281c2220>]",3,0,30,3,10
+5700,282,0.96,"[<ptreeopt.tree.PTree object at 0x1555281c25e0>
+ <ptreeopt.tree.PTree object at 0x1555281c2280>
+ <ptreeopt.tree.PTree object at 0x1555281c2220>]",3,0,30,3,10
+5800,287,0.96,"[<ptreeopt.tree.PTree object at 0x1555281c25e0>
+ <ptreeopt.tree.PTree object at 0x1555281c2280>
+ <ptreeopt.tree.PTree object at 0x1555281c2220>]",3,0,30,3,10
+5900,292,0.96,"[<ptreeopt.tree.PTree object at 0x1555281c25e0>
+ <ptreeopt.tree.PTree object at 0x1555281c2280>
+ <ptreeopt.tree.PTree object at 0x1555281c2220>]",3,0,30,3,10
+6000,297,0.96,"[<ptreeopt.tree.PTree object at 0x1555281c25e0>
+ <ptreeopt.tree.PTree object at 0x1555281c2280>
+ <ptreeopt.tree.PTree object at 0x1555281c2220>]",3,0,30,3,10
+6100,302,0.96,"[<ptreeopt.tree.PTree object at 0x1555281c25e0>
+ <ptreeopt.tree.PTree object at 0x1555281c2280>
+ <ptreeopt.tree.PTree object at 0x1555281c2220>]",3,0,30,3,10
+6200,307,0.96,"[<ptreeopt.tree.PTree object at 0x1555281c25e0>
+ <ptreeopt.tree.PTree object at 0x1555281c2280>
+ <ptreeopt.tree.PTree object at 0x1555281c2220>]",3,0,30,3,10
+6300,313,0.96,"[<ptreeopt.tree.PTree object at 0x1555281c25e0>
+ <ptreeopt.tree.PTree object at 0x1555281c2280>
+ <ptreeopt.tree.PTree object at 0x1555281c2220>]",3,0,30,3,10
+6400,317,0.96,"[<ptreeopt.tree.PTree object at 0x1555281c25e0>
+ <ptreeopt.tree.PTree object at 0x1555281c2280>
+ <ptreeopt.tree.PTree object at 0x1555281c2220>]",3,0,30,3,10
+6500,322,0.96,"[<ptreeopt.tree.PTree object at 0x1555281c25e0>
+ <ptreeopt.tree.PTree object at 0x1555281c2280>
+ <ptreeopt.tree.PTree object at 0x1555281c2220>]",3,0,30,3,10
+6600,327,0.96,"[<ptreeopt.tree.PTree object at 0x1555281c25e0>
+ <ptreeopt.tree.PTree object at 0x1555281c2280>
+ <ptreeopt.tree.PTree object at 0x1555281c2220>]",3,0,30,3,10
+6700,332,0.96,"[<ptreeopt.tree.PTree object at 0x1555281c25e0>
+ <ptreeopt.tree.PTree object at 0x1555281c2280>
+ <ptreeopt.tree.PTree object at 0x1555281c2220>]",3,0,30,3,10
+6800,337,0.96,"[<ptreeopt.tree.PTree object at 0x1555281c25e0>
+ <ptreeopt.tree.PTree object at 0x1555281c2280>
+ <ptreeopt.tree.PTree object at 0x1555281c2220>]",3,0,30,3,10
+6900,342,0.96,"[<ptreeopt.tree.PTree object at 0x1555281c25e0>
+ <ptreeopt.tree.PTree object at 0x1555281c2280>
+ <ptreeopt.tree.PTree object at 0x1555281c2220>]",3,0,30,3,10
+7000,347,0.96,"[<ptreeopt.tree.PTree object at 0x1555281c25e0>
+ <ptreeopt.tree.PTree object at 0x1555281c2280>
+ <ptreeopt.tree.PTree object at 0x1555281c2220>]",3,0,30,3,10
+7100,352,0.96,"[<ptreeopt.tree.PTree object at 0x1555281c25e0>
+ <ptreeopt.tree.PTree object at 0x1555281c2280>
+ <ptreeopt.tree.PTree object at 0x1555281c2220>]",3,0,30,3,10
+7200,357,0.96,"[<ptreeopt.tree.PTree object at 0x1555281c25e0>
+ <ptreeopt.tree.PTree object at 0x1555281c2280>
+ <ptreeopt.tree.PTree object at 0x1555281c2220>]",3,0,30,3,10
+7300,362,0.96,"[<ptreeopt.tree.PTree object at 0x1555281c25e0>
+ <ptreeopt.tree.PTree object at 0x1555281c2280>
+ <ptreeopt.tree.PTree object at 0x1555281c2220>]",3,0,30,3,10
+7400,367,0.96,"[<ptreeopt.tree.PTree object at 0x1555281c25e0>
+ <ptreeopt.tree.PTree object at 0x1555281c2280>
+ <ptreeopt.tree.PTree object at 0x1555281c2220>]",3,0,30,3,10
+7500,372,0.96,"[<ptreeopt.tree.PTree object at 0x1555281c25e0>
+ <ptreeopt.tree.PTree object at 0x1555281c2280>
+ <ptreeopt.tree.PTree object at 0x1555281c2220>]",3,0,30,3,10
+7600,377,0.96,"[<ptreeopt.tree.PTree object at 0x1555281c25e0>
+ <ptreeopt.tree.PTree object at 0x1555281c2280>
+ <ptreeopt.tree.PTree object at 0x1555281c2220>]",3,0,30,3,10
+7700,382,0.96,"[<ptreeopt.tree.PTree object at 0x1555281c25e0>
+ <ptreeopt.tree.PTree object at 0x1555281c2280>
+ <ptreeopt.tree.PTree object at 0x1555281c2220>]",3,0,30,3,10
+7800,387,0.96,"[<ptreeopt.tree.PTree object at 0x1555281c25e0>
+ <ptreeopt.tree.PTree object at 0x1555281c2280>
+ <ptreeopt.tree.PTree object at 0x1555281c2220>]",3,0,30,3,10
+7900,391,0.96,"[<ptreeopt.tree.PTree object at 0x1555281c25e0>
+ <ptreeopt.tree.PTree object at 0x1555281c2280>
+ <ptreeopt.tree.PTree object at 0x1555281c2220>]",3,0,30,3,10
+8000,396,0.96,"[<ptreeopt.tree.PTree object at 0x1555281c25e0>
+ <ptreeopt.tree.PTree object at 0x1555281c2280>
+ <ptreeopt.tree.PTree object at 0x1555281c2220>]",3,0,30,3,10
+8100,401,0.96,"[<ptreeopt.tree.PTree object at 0x1555281c25e0>
+ <ptreeopt.tree.PTree object at 0x1555281c2280>
+ <ptreeopt.tree.PTree object at 0x1555281c2220>]",3,0,30,3,10
+8200,406,0.96,"[<ptreeopt.tree.PTree object at 0x1555281c25e0>
+ <ptreeopt.tree.PTree object at 0x1555281c2280>
+ <ptreeopt.tree.PTree object at 0x1555281c2220>]",3,0,30,3,10
+8300,411,0.95,"[<ptreeopt.tree.PTree object at 0x15552807acd0>
+ <ptreeopt.tree.PTree object at 0x15552807a7f0>
+ <ptreeopt.tree.PTree object at 0x15552826cb50>]",3,0,30,3,10
+8400,416,0.95,"[<ptreeopt.tree.PTree object at 0x15552807acd0>
+ <ptreeopt.tree.PTree object at 0x15552807a7f0>
+ <ptreeopt.tree.PTree object at 0x15552826cb50>]",3,0,30,3,10
+8500,421,0.95,"[<ptreeopt.tree.PTree object at 0x15552807acd0>
+ <ptreeopt.tree.PTree object at 0x15552807a7f0>
+ <ptreeopt.tree.PTree object at 0x15552826cb50>]",3,0,30,3,10
+8600,426,0.95,"[<ptreeopt.tree.PTree object at 0x15552807acd0>
+ <ptreeopt.tree.PTree object at 0x15552807a7f0>
+ <ptreeopt.tree.PTree object at 0x15552826cb50>]",3,0,30,3,10
+8700,431,0.95,"[<ptreeopt.tree.PTree object at 0x15552807acd0>
+ <ptreeopt.tree.PTree object at 0x15552807a7f0>
+ <ptreeopt.tree.PTree object at 0x15552826cb50>]",3,0,30,3,10
+8800,436,0.95,"[<ptreeopt.tree.PTree object at 0x15552807acd0>
+ <ptreeopt.tree.PTree object at 0x15552807a7f0>
+ <ptreeopt.tree.PTree object at 0x15552826cb50>]",3,0,30,3,10
+8900,441,0.95,"[<ptreeopt.tree.PTree object at 0x15552807acd0>
+ <ptreeopt.tree.PTree object at 0x15552807a7f0>
+ <ptreeopt.tree.PTree object at 0x15552826cb50>]",3,0,30,3,10
+9000,446,0.95,"[<ptreeopt.tree.PTree object at 0x15552807acd0>
+ <ptreeopt.tree.PTree object at 0x15552807a7f0>
+ <ptreeopt.tree.PTree object at 0x15552826cb50>]",3,0,30,3,10
+9100,451,0.95,"[<ptreeopt.tree.PTree object at 0x15552807acd0>
+ <ptreeopt.tree.PTree object at 0x15552807a7f0>
+ <ptreeopt.tree.PTree object at 0x15552826cb50>]",3,0,30,3,10
+9200,456,0.95,"[<ptreeopt.tree.PTree object at 0x15552807acd0>
+ <ptreeopt.tree.PTree object at 0x15552807a7f0>
+ <ptreeopt.tree.PTree object at 0x15552826cb50>]",3,0,30,3,10
+9300,461,0.95,"[<ptreeopt.tree.PTree object at 0x15552807acd0>
+ <ptreeopt.tree.PTree object at 0x15552807a7f0>
+ <ptreeopt.tree.PTree object at 0x15552826cb50>]",3,0,30,3,10
+9400,466,0.95,"[<ptreeopt.tree.PTree object at 0x15552807acd0>
+ <ptreeopt.tree.PTree object at 0x15552807a7f0>
+ <ptreeopt.tree.PTree object at 0x15552826cb50>]",3,0,30,3,10
+9500,470,0.95,"[<ptreeopt.tree.PTree object at 0x15552807acd0>
+ <ptreeopt.tree.PTree object at 0x15552807a7f0>
+ <ptreeopt.tree.PTree object at 0x15552826cb50>]",3,0,30,3,10
+9600,475,0.95,"[<ptreeopt.tree.PTree object at 0x15552807acd0>
+ <ptreeopt.tree.PTree object at 0x15552807a7f0>
+ <ptreeopt.tree.PTree object at 0x15552826cb50>]",3,0,30,3,10
+9700,480,0.95,"[<ptreeopt.tree.PTree object at 0x15552807acd0>
+ <ptreeopt.tree.PTree object at 0x15552807a7f0>
+ <ptreeopt.tree.PTree object at 0x15552826cb50>]",3,0,30,3,10
+9800,485,0.95,"[<ptreeopt.tree.PTree object at 0x15552807acd0>
+ <ptreeopt.tree.PTree object at 0x15552807a7f0>
+ <ptreeopt.tree.PTree object at 0x15552826cb50>]",3,0,30,3,10
+9900,490,0.95,"[<ptreeopt.tree.PTree object at 0x15552807acd0>
+ <ptreeopt.tree.PTree object at 0x15552807a7f0>
+ <ptreeopt.tree.PTree object at 0x15552826cb50>]",3,0,30,3,10
+10000,495,0.95,"[<ptreeopt.tree.PTree object at 0x15552807acd0>
+ <ptreeopt.tree.PTree object at 0x15552807a7f0>
+ <ptreeopt.tree.PTree object at 0x15552826cb50>]",3,0,30,3,10
+100,4,0.97,"[<ptreeopt.tree.PTree object at 0x155528373130>
+ <ptreeopt.tree.PTree object at 0x155528373520>
+ <ptreeopt.tree.PTree object at 0x1555283735e0>]",3,1,30,3,10
+200,10,0.96,"[<ptreeopt.tree.PTree object at 0x1555282c2490>
+ <ptreeopt.tree.PTree object at 0x1555282c2580>
+ <ptreeopt.tree.PTree object at 0x1555282c2670>]",3,1,30,3,10
+300,14,0.96,"[<ptreeopt.tree.PTree object at 0x1555282c2490>
+ <ptreeopt.tree.PTree object at 0x1555282c2580>
+ <ptreeopt.tree.PTree object at 0x1555282c2670>]",3,1,30,3,10
+400,19,0.96,"[<ptreeopt.tree.PTree object at 0x1555282c2490>
+ <ptreeopt.tree.PTree object at 0x1555282c2580>
+ <ptreeopt.tree.PTree object at 0x1555282c2670>]",3,1,30,3,10
+500,24,0.96,"[<ptreeopt.tree.PTree object at 0x1555282c2490>
+ <ptreeopt.tree.PTree object at 0x1555282c2580>
+ <ptreeopt.tree.PTree object at 0x1555282c2670>]",3,1,30,3,10
+600,29,0.96,"[<ptreeopt.tree.PTree object at 0x1555282c2490>
+ <ptreeopt.tree.PTree object at 0x1555282c2580>
+ <ptreeopt.tree.PTree object at 0x1555282c2670>]",3,1,30,3,10
+700,34,0.96,"[<ptreeopt.tree.PTree object at 0x1555282c2490>
+ <ptreeopt.tree.PTree object at 0x1555282c2580>
+ <ptreeopt.tree.PTree object at 0x1555282c2670>]",3,1,30,3,10
+800,39,0.96,"[<ptreeopt.tree.PTree object at 0x1555282c2490>
+ <ptreeopt.tree.PTree object at 0x1555282c2580>
+ <ptreeopt.tree.PTree object at 0x1555282c2670>]",3,1,30,3,10
+900,44,0.96,"[<ptreeopt.tree.PTree object at 0x1555282c2490>
+ <ptreeopt.tree.PTree object at 0x1555282c2580>
+ <ptreeopt.tree.PTree object at 0x1555282c2670>]",3,1,30,3,10
+1000,49,0.96,"[<ptreeopt.tree.PTree object at 0x1555282c2490>
+ <ptreeopt.tree.PTree object at 0x1555282c2580>
+ <ptreeopt.tree.PTree object at 0x1555282c2670>]",3,1,30,3,10
+1100,54,0.96,"[<ptreeopt.tree.PTree object at 0x1555282c2490>
+ <ptreeopt.tree.PTree object at 0x1555282c2580>
+ <ptreeopt.tree.PTree object at 0x1555282c2670>]",3,1,30,3,10
+1200,59,0.96,"[<ptreeopt.tree.PTree object at 0x1555282c2490>
+ <ptreeopt.tree.PTree object at 0x1555282c2580>
+ <ptreeopt.tree.PTree object at 0x1555282c2670>]",3,1,30,3,10
+1300,64,0.96,"[<ptreeopt.tree.PTree object at 0x1555282c2490>
+ <ptreeopt.tree.PTree object at 0x1555282c2580>
+ <ptreeopt.tree.PTree object at 0x1555282c2670>]",3,1,30,3,10
+1400,69,0.96,"[<ptreeopt.tree.PTree object at 0x1555282c2490>
+ <ptreeopt.tree.PTree object at 0x1555282c2580>
+ <ptreeopt.tree.PTree object at 0x1555282c2670>]",3,1,30,3,10
+1500,74,0.96,"[<ptreeopt.tree.PTree object at 0x1555282c2490>
+ <ptreeopt.tree.PTree object at 0x1555282c2580>
+ <ptreeopt.tree.PTree object at 0x1555282c2670>]",3,1,30,3,10
+1600,79,0.96,"[<ptreeopt.tree.PTree object at 0x1555282c2490>
+ <ptreeopt.tree.PTree object at 0x1555282c2580>
+ <ptreeopt.tree.PTree object at 0x1555282c2670>]",3,1,30,3,10
+1700,84,0.96,"[<ptreeopt.tree.PTree object at 0x1555282c2490>
+ <ptreeopt.tree.PTree object at 0x1555282c2580>
+ <ptreeopt.tree.PTree object at 0x1555282c2670>]",3,1,30,3,10
+1800,89,0.96,"[<ptreeopt.tree.PTree object at 0x1555282c2490>
+ <ptreeopt.tree.PTree object at 0x1555282c2580>
+ <ptreeopt.tree.PTree object at 0x1555282c2670>]",3,1,30,3,10
+1900,94,0.96,"[<ptreeopt.tree.PTree object at 0x1555282c2490>
+ <ptreeopt.tree.PTree object at 0x1555282c2580>
+ <ptreeopt.tree.PTree object at 0x1555282c2670>]",3,1,30,3,10
+2000,99,0.96,"[<ptreeopt.tree.PTree object at 0x1555282c2490>
+ <ptreeopt.tree.PTree object at 0x1555282c2580>
+ <ptreeopt.tree.PTree object at 0x1555282c2670>]",3,1,30,3,10
+2100,104,0.96,"[<ptreeopt.tree.PTree object at 0x1555282c2490>
+ <ptreeopt.tree.PTree object at 0x1555282c2580>
+ <ptreeopt.tree.PTree object at 0x1555282c2670>]",3,1,30,3,10
+2200,109,0.96,"[<ptreeopt.tree.PTree object at 0x1555282c2490>
+ <ptreeopt.tree.PTree object at 0x1555282c2580>
+ <ptreeopt.tree.PTree object at 0x1555282c2670>]",3,1,30,3,10
+2300,114,0.96,"[<ptreeopt.tree.PTree object at 0x1555282c2490>
+ <ptreeopt.tree.PTree object at 0x1555282c2580>
+ <ptreeopt.tree.PTree object at 0x1555282c2670>]",3,1,30,3,10
+2400,119,0.96,"[<ptreeopt.tree.PTree object at 0x1555282c2490>
+ <ptreeopt.tree.PTree object at 0x1555282c2580>
+ <ptreeopt.tree.PTree object at 0x1555282c2670>]",3,1,30,3,10
+2500,124,0.96,"[<ptreeopt.tree.PTree object at 0x1555282c2490>
+ <ptreeopt.tree.PTree object at 0x1555282c2580>
+ <ptreeopt.tree.PTree object at 0x1555282c2670>]",3,1,30,3,10
+2600,129,0.96,"[<ptreeopt.tree.PTree object at 0x1555282c2490>
+ <ptreeopt.tree.PTree object at 0x1555282c2580>
+ <ptreeopt.tree.PTree object at 0x1555282c2670>]",3,1,30,3,10
+2700,134,0.96,"[<ptreeopt.tree.PTree object at 0x1555282c2490>
+ <ptreeopt.tree.PTree object at 0x1555282c2580>
+ <ptreeopt.tree.PTree object at 0x1555282c2670>]",3,1,30,3,10
+2800,139,0.96,"[<ptreeopt.tree.PTree object at 0x1555282c2490>
+ <ptreeopt.tree.PTree object at 0x1555282c2580>
+ <ptreeopt.tree.PTree object at 0x1555282c2670>]",3,1,30,3,10
+2900,144,0.96,"[<ptreeopt.tree.PTree object at 0x1555282c2490>
+ <ptreeopt.tree.PTree object at 0x1555282c2580>
+ <ptreeopt.tree.PTree object at 0x1555282c2670>]",3,1,30,3,10
+3000,149,0.96,"[<ptreeopt.tree.PTree object at 0x1555282c2490>
+ <ptreeopt.tree.PTree object at 0x1555282c2580>
+ <ptreeopt.tree.PTree object at 0x1555282c2670>]",3,1,30,3,10
+3100,154,0.96,"[<ptreeopt.tree.PTree object at 0x1555282c2490>
+ <ptreeopt.tree.PTree object at 0x1555282c2580>
+ <ptreeopt.tree.PTree object at 0x1555282c2670>]",3,1,30,3,10
+3200,159,0.96,"[<ptreeopt.tree.PTree object at 0x1555282c2490>
+ <ptreeopt.tree.PTree object at 0x1555282c2580>
+ <ptreeopt.tree.PTree object at 0x1555282c2670>]",3,1,30,3,10
+3300,164,0.96,"[<ptreeopt.tree.PTree object at 0x1555282c2490>
+ <ptreeopt.tree.PTree object at 0x1555282c2580>
+ <ptreeopt.tree.PTree object at 0x1555282c2670>]",3,1,30,3,10
+3400,168,0.96,"[<ptreeopt.tree.PTree object at 0x1555282c2490>
+ <ptreeopt.tree.PTree object at 0x1555282c2580>
+ <ptreeopt.tree.PTree object at 0x1555282c2670>]",3,1,30,3,10
+3500,173,0.96,"[<ptreeopt.tree.PTree object at 0x1555282c2490>
+ <ptreeopt.tree.PTree object at 0x1555282c2580>
+ <ptreeopt.tree.PTree object at 0x1555282c2670>]",3,1,30,3,10
+3600,178,0.96,"[<ptreeopt.tree.PTree object at 0x1555282c2490>
+ <ptreeopt.tree.PTree object at 0x1555282c2580>
+ <ptreeopt.tree.PTree object at 0x1555282c2670>]",3,1,30,3,10
+3700,183,0.96,"[<ptreeopt.tree.PTree object at 0x1555282c2490>
+ <ptreeopt.tree.PTree object at 0x1555282c2580>
+ <ptreeopt.tree.PTree object at 0x1555282c2670>]",3,1,30,3,10
+3800,188,0.96,"[<ptreeopt.tree.PTree object at 0x1555282c2490>
+ <ptreeopt.tree.PTree object at 0x1555282c2580>
+ <ptreeopt.tree.PTree object at 0x1555282c2670>]",3,1,30,3,10
+3900,193,0.96,"[<ptreeopt.tree.PTree object at 0x1555282c2490>
+ <ptreeopt.tree.PTree object at 0x1555282c2580>
+ <ptreeopt.tree.PTree object at 0x1555282c2670>]",3,1,30,3,10
+4000,198,0.96,"[<ptreeopt.tree.PTree object at 0x1555282c2490>
+ <ptreeopt.tree.PTree object at 0x1555282c2580>
+ <ptreeopt.tree.PTree object at 0x1555282c2670>]",3,1,30,3,10
+4100,203,0.96,"[<ptreeopt.tree.PTree object at 0x1555282c2490>
+ <ptreeopt.tree.PTree object at 0x1555282c2580>
+ <ptreeopt.tree.PTree object at 0x1555282c2670>]",3,1,30,3,10
+4200,208,0.96,"[<ptreeopt.tree.PTree object at 0x1555282c2490>
+ <ptreeopt.tree.PTree object at 0x1555282c2580>
+ <ptreeopt.tree.PTree object at 0x1555282c2670>]",3,1,30,3,10
+4300,213,0.96,"[<ptreeopt.tree.PTree object at 0x1555282c2490>
+ <ptreeopt.tree.PTree object at 0x1555282c2580>
+ <ptreeopt.tree.PTree object at 0x1555282c2670>]",3,1,30,3,10
+4400,218,0.96,"[<ptreeopt.tree.PTree object at 0x1555282c2490>
+ <ptreeopt.tree.PTree object at 0x1555282c2580>
+ <ptreeopt.tree.PTree object at 0x1555282c2670>]",3,1,30,3,10
+4500,223,0.95,"[<ptreeopt.tree.PTree object at 0x15552826d460>
+ <ptreeopt.tree.PTree object at 0x15552826d3a0>
+ <ptreeopt.tree.PTree object at 0x15552826d4f0>]",3,1,30,3,10
+4600,229,0.95,"[<ptreeopt.tree.PTree object at 0x15552826d460>
+ <ptreeopt.tree.PTree object at 0x15552826d3a0>
+ <ptreeopt.tree.PTree object at 0x15552826d4f0>]",3,1,30,3,10
+4700,234,0.95,"[<ptreeopt.tree.PTree object at 0x15552826d460>
+ <ptreeopt.tree.PTree object at 0x15552826d3a0>
+ <ptreeopt.tree.PTree object at 0x15552826d4f0>]",3,1,30,3,10
+4800,239,0.95,"[<ptreeopt.tree.PTree object at 0x15552826d460>
+ <ptreeopt.tree.PTree object at 0x15552826d3a0>
+ <ptreeopt.tree.PTree object at 0x15552826d4f0>]",3,1,30,3,10
+4900,244,0.95,"[<ptreeopt.tree.PTree object at 0x15552826d460>
+ <ptreeopt.tree.PTree object at 0x15552826d3a0>
+ <ptreeopt.tree.PTree object at 0x15552826d4f0>]",3,1,30,3,10
+5000,249,0.95,"[<ptreeopt.tree.PTree object at 0x15552826d460>
+ <ptreeopt.tree.PTree object at 0x15552826d3a0>
+ <ptreeopt.tree.PTree object at 0x15552826d4f0>]",3,1,30,3,10
+5100,254,0.95,"[<ptreeopt.tree.PTree object at 0x15552826d460>
+ <ptreeopt.tree.PTree object at 0x15552826d3a0>
+ <ptreeopt.tree.PTree object at 0x15552826d4f0>]",3,1,30,3,10
+5200,259,0.95,"[<ptreeopt.tree.PTree object at 0x15552826d460>
+ <ptreeopt.tree.PTree object at 0x15552826d3a0>
+ <ptreeopt.tree.PTree object at 0x15552826d4f0>]",3,1,30,3,10
+5300,263,0.95,"[<ptreeopt.tree.PTree object at 0x15552826d460>
+ <ptreeopt.tree.PTree object at 0x15552826d3a0>
+ <ptreeopt.tree.PTree object at 0x15552826d4f0>]",3,1,30,3,10
+5400,268,0.95,"[<ptreeopt.tree.PTree object at 0x15552826d460>
+ <ptreeopt.tree.PTree object at 0x15552826d3a0>
+ <ptreeopt.tree.PTree object at 0x15552826d4f0>]",3,1,30,3,10
+5500,273,0.95,"[<ptreeopt.tree.PTree object at 0x15552826d460>
+ <ptreeopt.tree.PTree object at 0x15552826d3a0>
+ <ptreeopt.tree.PTree object at 0x15552826d4f0>]",3,1,30,3,10
+5600,278,0.95,"[<ptreeopt.tree.PTree object at 0x15552826d460>
+ <ptreeopt.tree.PTree object at 0x15552826d3a0>
+ <ptreeopt.tree.PTree object at 0x15552826d4f0>]",3,1,30,3,10
+5700,283,0.95,"[<ptreeopt.tree.PTree object at 0x15552826d460>
+ <ptreeopt.tree.PTree object at 0x15552826d3a0>
+ <ptreeopt.tree.PTree object at 0x15552826d4f0>]",3,1,30,3,10
+5800,288,0.95,"[<ptreeopt.tree.PTree object at 0x15552826d460>
+ <ptreeopt.tree.PTree object at 0x15552826d3a0>
+ <ptreeopt.tree.PTree object at 0x15552826d4f0>]",3,1,30,3,10
+5900,293,0.95,"[<ptreeopt.tree.PTree object at 0x15552826d460>
+ <ptreeopt.tree.PTree object at 0x15552826d3a0>
+ <ptreeopt.tree.PTree object at 0x15552826d4f0>]",3,1,30,3,10
+6000,298,0.95,"[<ptreeopt.tree.PTree object at 0x15552826d460>
+ <ptreeopt.tree.PTree object at 0x15552826d3a0>
+ <ptreeopt.tree.PTree object at 0x15552826d4f0>]",3,1,30,3,10
+6100,303,0.95,"[<ptreeopt.tree.PTree object at 0x15552826d460>
+ <ptreeopt.tree.PTree object at 0x15552826d3a0>
+ <ptreeopt.tree.PTree object at 0x15552826d4f0>]",3,1,30,3,10
+6200,308,0.95,"[<ptreeopt.tree.PTree object at 0x15552826d460>
+ <ptreeopt.tree.PTree object at 0x15552826d3a0>
+ <ptreeopt.tree.PTree object at 0x15552826d4f0>]",3,1,30,3,10
+6300,312,0.95,"[<ptreeopt.tree.PTree object at 0x15552826d460>
+ <ptreeopt.tree.PTree object at 0x15552826d3a0>
+ <ptreeopt.tree.PTree object at 0x15552826d4f0>]",3,1,30,3,10
+6400,318,0.95,"[<ptreeopt.tree.PTree object at 0x15552826d460>
+ <ptreeopt.tree.PTree object at 0x15552826d3a0>
+ <ptreeopt.tree.PTree object at 0x15552826d4f0>]",3,1,30,3,10
+6500,323,0.95,"[<ptreeopt.tree.PTree object at 0x15552826d460>
+ <ptreeopt.tree.PTree object at 0x15552826d3a0>
+ <ptreeopt.tree.PTree object at 0x15552826d4f0>]",3,1,30,3,10
+6600,328,0.95,"[<ptreeopt.tree.PTree object at 0x15552826d460>
+ <ptreeopt.tree.PTree object at 0x15552826d3a0>
+ <ptreeopt.tree.PTree object at 0x15552826d4f0>]",3,1,30,3,10
+6700,333,0.95,"[<ptreeopt.tree.PTree object at 0x15552826d460>
+ <ptreeopt.tree.PTree object at 0x15552826d3a0>
+ <ptreeopt.tree.PTree object at 0x15552826d4f0>]",3,1,30,3,10
+6800,338,0.95,"[<ptreeopt.tree.PTree object at 0x15552826d460>
+ <ptreeopt.tree.PTree object at 0x15552826d3a0>
+ <ptreeopt.tree.PTree object at 0x15552826d4f0>]",3,1,30,3,10
+6900,343,0.95,"[<ptreeopt.tree.PTree object at 0x15552826d460>
+ <ptreeopt.tree.PTree object at 0x15552826d3a0>
+ <ptreeopt.tree.PTree object at 0x15552826d4f0>]",3,1,30,3,10
+7000,348,0.95,"[<ptreeopt.tree.PTree object at 0x15552826d460>
+ <ptreeopt.tree.PTree object at 0x15552826d3a0>
+ <ptreeopt.tree.PTree object at 0x15552826d4f0>]",3,1,30,3,10
+7100,353,0.95,"[<ptreeopt.tree.PTree object at 0x15552826d460>
+ <ptreeopt.tree.PTree object at 0x15552826d3a0>
+ <ptreeopt.tree.PTree object at 0x15552826d4f0>]",3,1,30,3,10
+7200,358,0.95,"[<ptreeopt.tree.PTree object at 0x15552826d460>
+ <ptreeopt.tree.PTree object at 0x15552826d3a0>
+ <ptreeopt.tree.PTree object at 0x15552826d4f0>]",3,1,30,3,10
+7300,363,0.95,"[<ptreeopt.tree.PTree object at 0x15552826d460>
+ <ptreeopt.tree.PTree object at 0x15552826d3a0>
+ <ptreeopt.tree.PTree object at 0x15552826d4f0>]",3,1,30,3,10
+7400,368,0.95,"[<ptreeopt.tree.PTree object at 0x15552826d460>
+ <ptreeopt.tree.PTree object at 0x15552826d3a0>
+ <ptreeopt.tree.PTree object at 0x15552826d4f0>]",3,1,30,3,10
+7500,373,0.95,"[<ptreeopt.tree.PTree object at 0x15552826d460>
+ <ptreeopt.tree.PTree object at 0x15552826d3a0>
+ <ptreeopt.tree.PTree object at 0x15552826d4f0>]",3,1,30,3,10
+7600,378,0.95,"[<ptreeopt.tree.PTree object at 0x15552826d460>
+ <ptreeopt.tree.PTree object at 0x15552826d3a0>
+ <ptreeopt.tree.PTree object at 0x15552826d4f0>]",3,1,30,3,10
+7700,383,0.95,"[<ptreeopt.tree.PTree object at 0x15552826d460>
+ <ptreeopt.tree.PTree object at 0x15552826d3a0>
+ <ptreeopt.tree.PTree object at 0x15552826d4f0>]",3,1,30,3,10
+7800,388,0.95,"[<ptreeopt.tree.PTree object at 0x15552826d460>
+ <ptreeopt.tree.PTree object at 0x15552826d3a0>
+ <ptreeopt.tree.PTree object at 0x15552826d4f0>]",3,1,30,3,10
+7900,393,0.95,"[<ptreeopt.tree.PTree object at 0x15552826d460>
+ <ptreeopt.tree.PTree object at 0x15552826d3a0>
+ <ptreeopt.tree.PTree object at 0x15552826d4f0>]",3,1,30,3,10
+8000,398,0.95,"[<ptreeopt.tree.PTree object at 0x15552826d460>
+ <ptreeopt.tree.PTree object at 0x15552826d3a0>
+ <ptreeopt.tree.PTree object at 0x15552826d4f0>]",3,1,30,3,10
+8100,403,0.95,"[<ptreeopt.tree.PTree object at 0x15552826d460>
+ <ptreeopt.tree.PTree object at 0x15552826d3a0>
+ <ptreeopt.tree.PTree object at 0x15552826d4f0>]",3,1,30,3,10
+8200,408,0.95,"[<ptreeopt.tree.PTree object at 0x15552826d460>
+ <ptreeopt.tree.PTree object at 0x15552826d3a0>
+ <ptreeopt.tree.PTree object at 0x15552826d4f0>]",3,1,30,3,10
+8300,413,0.95,"[<ptreeopt.tree.PTree object at 0x15552826d460>
+ <ptreeopt.tree.PTree object at 0x15552826d3a0>
+ <ptreeopt.tree.PTree object at 0x15552826d4f0>]",3,1,30,3,10
+8400,418,0.95,"[<ptreeopt.tree.PTree object at 0x15552826d460>
+ <ptreeopt.tree.PTree object at 0x15552826d3a0>
+ <ptreeopt.tree.PTree object at 0x15552826d4f0>]",3,1,30,3,10
+8500,423,0.95,"[<ptreeopt.tree.PTree object at 0x15552826d460>
+ <ptreeopt.tree.PTree object at 0x15552826d3a0>
+ <ptreeopt.tree.PTree object at 0x15552826d4f0>]",3,1,30,3,10
+8600,428,0.95,"[<ptreeopt.tree.PTree object at 0x15552826d460>
+ <ptreeopt.tree.PTree object at 0x15552826d3a0>
+ <ptreeopt.tree.PTree object at 0x15552826d4f0>]",3,1,30,3,10
+8700,433,0.95,"[<ptreeopt.tree.PTree object at 0x15552826d460>
+ <ptreeopt.tree.PTree object at 0x15552826d3a0>
+ <ptreeopt.tree.PTree object at 0x15552826d4f0>]",3,1,30,3,10
+8800,438,0.95,"[<ptreeopt.tree.PTree object at 0x15552826d460>
+ <ptreeopt.tree.PTree object at 0x15552826d3a0>
+ <ptreeopt.tree.PTree object at 0x15552826d4f0>]",3,1,30,3,10
+8900,443,0.95,"[<ptreeopt.tree.PTree object at 0x15552826d460>
+ <ptreeopt.tree.PTree object at 0x15552826d3a0>
+ <ptreeopt.tree.PTree object at 0x15552826d4f0>]",3,1,30,3,10
+9000,448,0.95,"[<ptreeopt.tree.PTree object at 0x15552826d460>
+ <ptreeopt.tree.PTree object at 0x15552826d3a0>
+ <ptreeopt.tree.PTree object at 0x15552826d4f0>]",3,1,30,3,10
+9100,453,0.95,"[<ptreeopt.tree.PTree object at 0x15552826d460>
+ <ptreeopt.tree.PTree object at 0x15552826d3a0>
+ <ptreeopt.tree.PTree object at 0x15552826d4f0>]",3,1,30,3,10
+9200,458,0.95,"[<ptreeopt.tree.PTree object at 0x15552826d460>
+ <ptreeopt.tree.PTree object at 0x15552826d3a0>
+ <ptreeopt.tree.PTree object at 0x15552826d4f0>]",3,1,30,3,10
+9300,463,0.95,"[<ptreeopt.tree.PTree object at 0x15552826d460>
+ <ptreeopt.tree.PTree object at 0x15552826d3a0>
+ <ptreeopt.tree.PTree object at 0x15552826d4f0>]",3,1,30,3,10
+9400,468,0.95,"[<ptreeopt.tree.PTree object at 0x15552826d460>
+ <ptreeopt.tree.PTree object at 0x15552826d3a0>
+ <ptreeopt.tree.PTree object at 0x15552826d4f0>]",3,1,30,3,10
+9500,473,0.95,"[<ptreeopt.tree.PTree object at 0x15552826d460>
+ <ptreeopt.tree.PTree object at 0x15552826d3a0>
+ <ptreeopt.tree.PTree object at 0x15552826d4f0>]",3,1,30,3,10
+9600,478,0.95,"[<ptreeopt.tree.PTree object at 0x15552826d460>
+ <ptreeopt.tree.PTree object at 0x15552826d3a0>
+ <ptreeopt.tree.PTree object at 0x15552826d4f0>]",3,1,30,3,10
+9700,483,0.95,"[<ptreeopt.tree.PTree object at 0x15552826d460>
+ <ptreeopt.tree.PTree object at 0x15552826d3a0>
+ <ptreeopt.tree.PTree object at 0x15552826d4f0>]",3,1,30,3,10
+9800,488,0.95,"[<ptreeopt.tree.PTree object at 0x15552826d460>
+ <ptreeopt.tree.PTree object at 0x15552826d3a0>
+ <ptreeopt.tree.PTree object at 0x15552826d4f0>]",3,1,30,3,10
+9900,493,0.95,"[<ptreeopt.tree.PTree object at 0x15552826d460>
+ <ptreeopt.tree.PTree object at 0x15552826d3a0>
+ <ptreeopt.tree.PTree object at 0x15552826d4f0>]",3,1,30,3,10
+10000,498,0.95,"[<ptreeopt.tree.PTree object at 0x15552826d460>
+ <ptreeopt.tree.PTree object at 0x15552826d3a0>
+ <ptreeopt.tree.PTree object at 0x15552826d4f0>]",3,1,30,3,10
+100,5,0.96,"[<ptreeopt.tree.PTree object at 0x1555284115e0>
+ <ptreeopt.tree.PTree object at 0x155528411a60>
+ <ptreeopt.tree.PTree object at 0x155528411a00>]",3,2,30,3,10
+200,10,0.96,"[<ptreeopt.tree.PTree object at 0x1555284115e0>
+ <ptreeopt.tree.PTree object at 0x155528411a60>
+ <ptreeopt.tree.PTree object at 0x155528411a00>]",3,2,30,3,10
+300,14,0.96,"[<ptreeopt.tree.PTree object at 0x1555284115e0>
+ <ptreeopt.tree.PTree object at 0x155528411a60>
+ <ptreeopt.tree.PTree object at 0x155528411a00>]",3,2,30,3,10
+400,19,0.96,"[<ptreeopt.tree.PTree object at 0x1555284115e0>
+ <ptreeopt.tree.PTree object at 0x155528411a60>
+ <ptreeopt.tree.PTree object at 0x155528411a00>]",3,2,30,3,10
+500,24,0.96,"[<ptreeopt.tree.PTree object at 0x1555284115e0>
+ <ptreeopt.tree.PTree object at 0x155528411a60>
+ <ptreeopt.tree.PTree object at 0x155528411a00>]",3,2,30,3,10
+600,29,0.95,"[<ptreeopt.tree.PTree object at 0x1555281a3100>
+ <ptreeopt.tree.PTree object at 0x1555281a33d0>
+ <ptreeopt.tree.PTree object at 0x1555281a3580>]",3,2,30,3,10
+700,34,0.95,"[<ptreeopt.tree.PTree object at 0x1555281a3100>
+ <ptreeopt.tree.PTree object at 0x1555281a33d0>
+ <ptreeopt.tree.PTree object at 0x1555281a3580>]",3,2,30,3,10
+800,39,0.95,"[<ptreeopt.tree.PTree object at 0x1555281a3100>
+ <ptreeopt.tree.PTree object at 0x1555281a33d0>
+ <ptreeopt.tree.PTree object at 0x1555281a3580>]",3,2,30,3,10
+900,44,0.95,"[<ptreeopt.tree.PTree object at 0x1555281a3100>
+ <ptreeopt.tree.PTree object at 0x1555281a33d0>
+ <ptreeopt.tree.PTree object at 0x1555281a3580>]",3,2,30,3,10
+1000,49,0.95,"[<ptreeopt.tree.PTree object at 0x1555281a3100>
+ <ptreeopt.tree.PTree object at 0x1555281a33d0>
+ <ptreeopt.tree.PTree object at 0x1555281a3580>]",3,2,30,3,10
+1100,54,0.95,"[<ptreeopt.tree.PTree object at 0x1555281a3100>
+ <ptreeopt.tree.PTree object at 0x1555281a33d0>
+ <ptreeopt.tree.PTree object at 0x1555281a3580>]",3,2,30,3,10
+1200,59,0.95,"[<ptreeopt.tree.PTree object at 0x1555281a3100>
+ <ptreeopt.tree.PTree object at 0x1555281a33d0>
+ <ptreeopt.tree.PTree object at 0x1555281a3580>]",3,2,30,3,10
+1300,64,0.95,"[<ptreeopt.tree.PTree object at 0x1555281a3100>
+ <ptreeopt.tree.PTree object at 0x1555281a33d0>
+ <ptreeopt.tree.PTree object at 0x1555281a3580>]",3,2,30,3,10
+1400,69,0.95,"[<ptreeopt.tree.PTree object at 0x1555281a3100>
+ <ptreeopt.tree.PTree object at 0x1555281a33d0>
+ <ptreeopt.tree.PTree object at 0x1555281a3580>]",3,2,30,3,10
+1500,74,0.95,"[<ptreeopt.tree.PTree object at 0x1555281a3100>
+ <ptreeopt.tree.PTree object at 0x1555281a33d0>
+ <ptreeopt.tree.PTree object at 0x1555281a3580>]",3,2,30,3,10
+1600,79,0.95,"[<ptreeopt.tree.PTree object at 0x1555281a3100>
+ <ptreeopt.tree.PTree object at 0x1555281a33d0>
+ <ptreeopt.tree.PTree object at 0x1555281a3580>]",3,2,30,3,10
+1700,83,0.95,"[<ptreeopt.tree.PTree object at 0x1555281a3100>
+ <ptreeopt.tree.PTree object at 0x1555281a33d0>
+ <ptreeopt.tree.PTree object at 0x1555281a3580>]",3,2,30,3,10
+1800,88,0.95,"[<ptreeopt.tree.PTree object at 0x1555281a3100>
+ <ptreeopt.tree.PTree object at 0x1555281a33d0>
+ <ptreeopt.tree.PTree object at 0x1555281a3580>]",3,2,30,3,10
+1900,93,0.95,"[<ptreeopt.tree.PTree object at 0x1555281a3100>
+ <ptreeopt.tree.PTree object at 0x1555281a33d0>
+ <ptreeopt.tree.PTree object at 0x1555281a3580>]",3,2,30,3,10
+2000,98,0.95,"[<ptreeopt.tree.PTree object at 0x1555281a3100>
+ <ptreeopt.tree.PTree object at 0x1555281a33d0>
+ <ptreeopt.tree.PTree object at 0x1555281a3580>]",3,2,30,3,10
+2100,103,0.95,"[<ptreeopt.tree.PTree object at 0x1555281a3100>
+ <ptreeopt.tree.PTree object at 0x1555281a33d0>
+ <ptreeopt.tree.PTree object at 0x1555281a3580>]",3,2,30,3,10
+2200,108,0.95,"[<ptreeopt.tree.PTree object at 0x1555281a3100>
+ <ptreeopt.tree.PTree object at 0x1555281a33d0>
+ <ptreeopt.tree.PTree object at 0x1555281a3580>]",3,2,30,3,10
+2300,113,0.95,"[<ptreeopt.tree.PTree object at 0x1555281a3100>
+ <ptreeopt.tree.PTree object at 0x1555281a33d0>
+ <ptreeopt.tree.PTree object at 0x1555281a3580>]",3,2,30,3,10
+2400,118,0.95,"[<ptreeopt.tree.PTree object at 0x1555281a3100>
+ <ptreeopt.tree.PTree object at 0x1555281a33d0>
+ <ptreeopt.tree.PTree object at 0x1555281a3580>]",3,2,30,3,10
+2500,123,0.95,"[<ptreeopt.tree.PTree object at 0x1555281a3100>
+ <ptreeopt.tree.PTree object at 0x1555281a33d0>
+ <ptreeopt.tree.PTree object at 0x1555281a3580>]",3,2,30,3,10
+2600,128,0.95,"[<ptreeopt.tree.PTree object at 0x1555281a3100>
+ <ptreeopt.tree.PTree object at 0x1555281a33d0>
+ <ptreeopt.tree.PTree object at 0x1555281a3580>]",3,2,30,3,10
+2700,133,0.95,"[<ptreeopt.tree.PTree object at 0x1555281a3100>
+ <ptreeopt.tree.PTree object at 0x1555281a33d0>
+ <ptreeopt.tree.PTree object at 0x1555281a3580>]",3,2,30,3,10
+2800,138,0.95,"[<ptreeopt.tree.PTree object at 0x1555281a3100>
+ <ptreeopt.tree.PTree object at 0x1555281a33d0>
+ <ptreeopt.tree.PTree object at 0x1555281a3580>]",3,2,30,3,10
+2900,143,0.95,"[<ptreeopt.tree.PTree object at 0x1555281a3100>
+ <ptreeopt.tree.PTree object at 0x1555281a33d0>
+ <ptreeopt.tree.PTree object at 0x1555281a3580>]",3,2,30,3,10
+3000,148,0.95,"[<ptreeopt.tree.PTree object at 0x1555281a3100>
+ <ptreeopt.tree.PTree object at 0x1555281a33d0>
+ <ptreeopt.tree.PTree object at 0x1555281a3580>]",3,2,30,3,10
+3100,153,0.95,"[<ptreeopt.tree.PTree object at 0x1555281a3100>
+ <ptreeopt.tree.PTree object at 0x1555281a33d0>
+ <ptreeopt.tree.PTree object at 0x1555281a3580>]",3,2,30,3,10
+3200,158,0.95,"[<ptreeopt.tree.PTree object at 0x1555281a3100>
+ <ptreeopt.tree.PTree object at 0x1555281a33d0>
+ <ptreeopt.tree.PTree object at 0x1555281a3580>]",3,2,30,3,10
+3300,163,0.95,"[<ptreeopt.tree.PTree object at 0x1555281a3100>
+ <ptreeopt.tree.PTree object at 0x1555281a33d0>
+ <ptreeopt.tree.PTree object at 0x1555281a3580>]",3,2,30,3,10
+3400,168,0.95,"[<ptreeopt.tree.PTree object at 0x1555281a3100>
+ <ptreeopt.tree.PTree object at 0x1555281a33d0>
+ <ptreeopt.tree.PTree object at 0x1555281a3580>]",3,2,30,3,10
+3500,173,0.95,"[<ptreeopt.tree.PTree object at 0x1555281a3100>
+ <ptreeopt.tree.PTree object at 0x1555281a33d0>
+ <ptreeopt.tree.PTree object at 0x1555281a3580>]",3,2,30,3,10
+3600,178,0.95,"[<ptreeopt.tree.PTree object at 0x1555281a3100>
+ <ptreeopt.tree.PTree object at 0x1555281a33d0>
+ <ptreeopt.tree.PTree object at 0x1555281a3580>]",3,2,30,3,10
+3700,184,0.95,"[<ptreeopt.tree.PTree object at 0x1555281a3100>
+ <ptreeopt.tree.PTree object at 0x1555281a33d0>
+ <ptreeopt.tree.PTree object at 0x1555281a3580>]",3,2,30,3,10
+3800,189,0.95,"[<ptreeopt.tree.PTree object at 0x1555281a3100>
+ <ptreeopt.tree.PTree object at 0x1555281a33d0>
+ <ptreeopt.tree.PTree object at 0x1555281a3580>]",3,2,30,3,10
+3900,194,0.95,"[<ptreeopt.tree.PTree object at 0x1555281a3100>
+ <ptreeopt.tree.PTree object at 0x1555281a33d0>
+ <ptreeopt.tree.PTree object at 0x1555281a3580>]",3,2,30,3,10
+4000,198,0.95,"[<ptreeopt.tree.PTree object at 0x1555281a3100>
+ <ptreeopt.tree.PTree object at 0x1555281a33d0>
+ <ptreeopt.tree.PTree object at 0x1555281a3580>]",3,2,30,3,10
+4100,203,0.95,"[<ptreeopt.tree.PTree object at 0x1555281a3100>
+ <ptreeopt.tree.PTree object at 0x1555281a33d0>
+ <ptreeopt.tree.PTree object at 0x1555281a3580>]",3,2,30,3,10
+4200,208,0.95,"[<ptreeopt.tree.PTree object at 0x1555281a3100>
+ <ptreeopt.tree.PTree object at 0x1555281a33d0>
+ <ptreeopt.tree.PTree object at 0x1555281a3580>]",3,2,30,3,10
+4300,213,0.95,"[<ptreeopt.tree.PTree object at 0x1555281a3100>
+ <ptreeopt.tree.PTree object at 0x1555281a33d0>
+ <ptreeopt.tree.PTree object at 0x1555281a3580>]",3,2,30,3,10
+4400,218,0.95,"[<ptreeopt.tree.PTree object at 0x1555281a3100>
+ <ptreeopt.tree.PTree object at 0x1555281a33d0>
+ <ptreeopt.tree.PTree object at 0x1555281a3580>]",3,2,30,3,10
+4500,224,0.95,"[<ptreeopt.tree.PTree object at 0x1555281a3100>
+ <ptreeopt.tree.PTree object at 0x1555281a33d0>
+ <ptreeopt.tree.PTree object at 0x1555281a3580>]",3,2,30,3,10
+4600,229,0.95,"[<ptreeopt.tree.PTree object at 0x1555281a3100>
+ <ptreeopt.tree.PTree object at 0x1555281a33d0>
+ <ptreeopt.tree.PTree object at 0x1555281a3580>]",3,2,30,3,10
+4700,234,0.95,"[<ptreeopt.tree.PTree object at 0x1555281a3100>
+ <ptreeopt.tree.PTree object at 0x1555281a33d0>
+ <ptreeopt.tree.PTree object at 0x1555281a3580>]",3,2,30,3,10
+4800,239,0.95,"[<ptreeopt.tree.PTree object at 0x1555281a3100>
+ <ptreeopt.tree.PTree object at 0x1555281a33d0>
+ <ptreeopt.tree.PTree object at 0x1555281a3580>]",3,2,30,3,10
+4900,244,0.95,"[<ptreeopt.tree.PTree object at 0x1555281a3100>
+ <ptreeopt.tree.PTree object at 0x1555281a33d0>
+ <ptreeopt.tree.PTree object at 0x1555281a3580>]",3,2,30,3,10
+5000,248,0.95,"[<ptreeopt.tree.PTree object at 0x1555281a3100>
+ <ptreeopt.tree.PTree object at 0x1555281a33d0>
+ <ptreeopt.tree.PTree object at 0x1555281a3580>]",3,2,30,3,10
+5100,253,0.95,"[<ptreeopt.tree.PTree object at 0x1555281a3100>
+ <ptreeopt.tree.PTree object at 0x1555281a33d0>
+ <ptreeopt.tree.PTree object at 0x1555281a3580>]",3,2,30,3,10
+5200,259,0.95,"[<ptreeopt.tree.PTree object at 0x1555281a3100>
+ <ptreeopt.tree.PTree object at 0x1555281a33d0>
+ <ptreeopt.tree.PTree object at 0x1555281a3580>]",3,2,30,3,10
+5300,264,0.95,"[<ptreeopt.tree.PTree object at 0x1555281a3100>
+ <ptreeopt.tree.PTree object at 0x1555281a33d0>
+ <ptreeopt.tree.PTree object at 0x1555281a3580>]",3,2,30,3,10
+5400,269,0.95,"[<ptreeopt.tree.PTree object at 0x1555281a3100>
+ <ptreeopt.tree.PTree object at 0x1555281a33d0>
+ <ptreeopt.tree.PTree object at 0x1555281a3580>]",3,2,30,3,10
+5500,274,0.95,"[<ptreeopt.tree.PTree object at 0x1555281a3100>
+ <ptreeopt.tree.PTree object at 0x1555281a33d0>
+ <ptreeopt.tree.PTree object at 0x1555281a3580>]",3,2,30,3,10
+5600,279,0.95,"[<ptreeopt.tree.PTree object at 0x1555281a3100>
+ <ptreeopt.tree.PTree object at 0x1555281a33d0>
+ <ptreeopt.tree.PTree object at 0x1555281a3580>]",3,2,30,3,10
+5700,284,0.95,"[<ptreeopt.tree.PTree object at 0x1555281a3100>
+ <ptreeopt.tree.PTree object at 0x1555281a33d0>
+ <ptreeopt.tree.PTree object at 0x1555281a3580>]",3,2,30,3,10
+5800,289,0.95,"[<ptreeopt.tree.PTree object at 0x1555281a3100>
+ <ptreeopt.tree.PTree object at 0x1555281a33d0>
+ <ptreeopt.tree.PTree object at 0x1555281a3580>]",3,2,30,3,10
+5900,294,0.95,"[<ptreeopt.tree.PTree object at 0x1555281a3100>
+ <ptreeopt.tree.PTree object at 0x1555281a33d0>
+ <ptreeopt.tree.PTree object at 0x1555281a3580>]",3,2,30,3,10
+6000,299,0.95,"[<ptreeopt.tree.PTree object at 0x1555281a3100>
+ <ptreeopt.tree.PTree object at 0x1555281a33d0>
+ <ptreeopt.tree.PTree object at 0x1555281a3580>]",3,2,30,3,10
+6100,304,0.95,"[<ptreeopt.tree.PTree object at 0x1555281a3100>
+ <ptreeopt.tree.PTree object at 0x1555281a33d0>
+ <ptreeopt.tree.PTree object at 0x1555281a3580>]",3,2,30,3,10
+6200,309,0.95,"[<ptreeopt.tree.PTree object at 0x1555281a3100>
+ <ptreeopt.tree.PTree object at 0x1555281a33d0>
+ <ptreeopt.tree.PTree object at 0x1555281a3580>]",3,2,30,3,10
+6300,313,0.95,"[<ptreeopt.tree.PTree object at 0x1555281a3100>
+ <ptreeopt.tree.PTree object at 0x1555281a33d0>
+ <ptreeopt.tree.PTree object at 0x1555281a3580>]",3,2,30,3,10
+6400,318,0.95,"[<ptreeopt.tree.PTree object at 0x1555281a3100>
+ <ptreeopt.tree.PTree object at 0x1555281a33d0>
+ <ptreeopt.tree.PTree object at 0x1555281a3580>]",3,2,30,3,10
+6500,323,0.95,"[<ptreeopt.tree.PTree object at 0x1555281a3100>
+ <ptreeopt.tree.PTree object at 0x1555281a33d0>
+ <ptreeopt.tree.PTree object at 0x1555281a3580>]",3,2,30,3,10
+6600,328,0.95,"[<ptreeopt.tree.PTree object at 0x1555281a3100>
+ <ptreeopt.tree.PTree object at 0x1555281a33d0>
+ <ptreeopt.tree.PTree object at 0x1555281a3580>]",3,2,30,3,10
+6700,333,0.95,"[<ptreeopt.tree.PTree object at 0x1555281a3100>
+ <ptreeopt.tree.PTree object at 0x1555281a33d0>
+ <ptreeopt.tree.PTree object at 0x1555281a3580>]",3,2,30,3,10
+6800,338,0.95,"[<ptreeopt.tree.PTree object at 0x1555281a3100>
+ <ptreeopt.tree.PTree object at 0x1555281a33d0>
+ <ptreeopt.tree.PTree object at 0x1555281a3580>]",3,2,30,3,10
+6900,343,0.95,"[<ptreeopt.tree.PTree object at 0x1555281a3100>
+ <ptreeopt.tree.PTree object at 0x1555281a33d0>
+ <ptreeopt.tree.PTree object at 0x1555281a3580>]",3,2,30,3,10
+7000,348,0.95,"[<ptreeopt.tree.PTree object at 0x1555281a3100>
+ <ptreeopt.tree.PTree object at 0x1555281a33d0>
+ <ptreeopt.tree.PTree object at 0x1555281a3580>]",3,2,30,3,10
+7100,353,0.95,"[<ptreeopt.tree.PTree object at 0x1555281a3100>
+ <ptreeopt.tree.PTree object at 0x1555281a33d0>
+ <ptreeopt.tree.PTree object at 0x1555281a3580>]",3,2,30,3,10
+7200,358,0.95,"[<ptreeopt.tree.PTree object at 0x1555281a3100>
+ <ptreeopt.tree.PTree object at 0x1555281a33d0>
+ <ptreeopt.tree.PTree object at 0x1555281a3580>]",3,2,30,3,10
+7300,363,0.95,"[<ptreeopt.tree.PTree object at 0x1555281a3100>
+ <ptreeopt.tree.PTree object at 0x1555281a33d0>
+ <ptreeopt.tree.PTree object at 0x1555281a3580>]",3,2,30,3,10
+7400,368,0.95,"[<ptreeopt.tree.PTree object at 0x1555281a3100>
+ <ptreeopt.tree.PTree object at 0x1555281a33d0>
+ <ptreeopt.tree.PTree object at 0x1555281a3580>]",3,2,30,3,10
+7500,373,0.95,"[<ptreeopt.tree.PTree object at 0x1555281a3100>
+ <ptreeopt.tree.PTree object at 0x1555281a33d0>
+ <ptreeopt.tree.PTree object at 0x1555281a3580>]",3,2,30,3,10
+7600,378,0.95,"[<ptreeopt.tree.PTree object at 0x1555281a3100>
+ <ptreeopt.tree.PTree object at 0x1555281a33d0>
+ <ptreeopt.tree.PTree object at 0x1555281a3580>]",3,2,30,3,10
+7700,383,0.95,"[<ptreeopt.tree.PTree object at 0x1555281a3100>
+ <ptreeopt.tree.PTree object at 0x1555281a33d0>
+ <ptreeopt.tree.PTree object at 0x1555281a3580>]",3,2,30,3,10
+7800,388,0.95,"[<ptreeopt.tree.PTree object at 0x1555281a3100>
+ <ptreeopt.tree.PTree object at 0x1555281a33d0>
+ <ptreeopt.tree.PTree object at 0x1555281a3580>]",3,2,30,3,10
+7900,393,0.95,"[<ptreeopt.tree.PTree object at 0x1555281a3100>
+ <ptreeopt.tree.PTree object at 0x1555281a33d0>
+ <ptreeopt.tree.PTree object at 0x1555281a3580>]",3,2,30,3,10
+8000,398,0.95,"[<ptreeopt.tree.PTree object at 0x1555281a3100>
+ <ptreeopt.tree.PTree object at 0x1555281a33d0>
+ <ptreeopt.tree.PTree object at 0x1555281a3580>]",3,2,30,3,10
+8100,403,0.95,"[<ptreeopt.tree.PTree object at 0x1555281a3100>
+ <ptreeopt.tree.PTree object at 0x1555281a33d0>
+ <ptreeopt.tree.PTree object at 0x1555281a3580>]",3,2,30,3,10
+8200,408,0.95,"[<ptreeopt.tree.PTree object at 0x1555281a3100>
+ <ptreeopt.tree.PTree object at 0x1555281a33d0>
+ <ptreeopt.tree.PTree object at 0x1555281a3580>]",3,2,30,3,10
+8300,412,0.95,"[<ptreeopt.tree.PTree object at 0x1555281a3100>
+ <ptreeopt.tree.PTree object at 0x1555281a33d0>
+ <ptreeopt.tree.PTree object at 0x1555281a3580>]",3,2,30,3,10
+8400,417,0.95,"[<ptreeopt.tree.PTree object at 0x1555281a3100>
+ <ptreeopt.tree.PTree object at 0x1555281a33d0>
+ <ptreeopt.tree.PTree object at 0x1555281a3580>]",3,2,30,3,10
+8500,422,0.95,"[<ptreeopt.tree.PTree object at 0x1555281a3100>
+ <ptreeopt.tree.PTree object at 0x1555281a33d0>
+ <ptreeopt.tree.PTree object at 0x1555281a3580>]",3,2,30,3,10
+8600,428,0.95,"[<ptreeopt.tree.PTree object at 0x1555281a3100>
+ <ptreeopt.tree.PTree object at 0x1555281a33d0>
+ <ptreeopt.tree.PTree object at 0x1555281a3580>]",3,2,30,3,10
+8700,433,0.95,"[<ptreeopt.tree.PTree object at 0x1555281a3100>
+ <ptreeopt.tree.PTree object at 0x1555281a33d0>
+ <ptreeopt.tree.PTree object at 0x1555281a3580>]",3,2,30,3,10
+8800,438,0.95,"[<ptreeopt.tree.PTree object at 0x1555281a3100>
+ <ptreeopt.tree.PTree object at 0x1555281a33d0>
+ <ptreeopt.tree.PTree object at 0x1555281a3580>]",3,2,30,3,10
+8900,443,0.95,"[<ptreeopt.tree.PTree object at 0x1555281a3100>
+ <ptreeopt.tree.PTree object at 0x1555281a33d0>
+ <ptreeopt.tree.PTree object at 0x1555281a3580>]",3,2,30,3,10
+9000,448,0.95,"[<ptreeopt.tree.PTree object at 0x1555281a3100>
+ <ptreeopt.tree.PTree object at 0x1555281a33d0>
+ <ptreeopt.tree.PTree object at 0x1555281a3580>]",3,2,30,3,10
+9100,453,0.95,"[<ptreeopt.tree.PTree object at 0x1555281a3100>
+ <ptreeopt.tree.PTree object at 0x1555281a33d0>
+ <ptreeopt.tree.PTree object at 0x1555281a3580>]",3,2,30,3,10
+9200,458,0.95,"[<ptreeopt.tree.PTree object at 0x1555281a3100>
+ <ptreeopt.tree.PTree object at 0x1555281a33d0>
+ <ptreeopt.tree.PTree object at 0x1555281a3580>]",3,2,30,3,10
+9300,463,0.95,"[<ptreeopt.tree.PTree object at 0x1555281a3100>
+ <ptreeopt.tree.PTree object at 0x1555281a33d0>
+ <ptreeopt.tree.PTree object at 0x1555281a3580>]",3,2,30,3,10
+9400,468,0.95,"[<ptreeopt.tree.PTree object at 0x1555281a3100>
+ <ptreeopt.tree.PTree object at 0x1555281a33d0>
+ <ptreeopt.tree.PTree object at 0x1555281a3580>]",3,2,30,3,10
+9500,473,0.95,"[<ptreeopt.tree.PTree object at 0x1555281a3100>
+ <ptreeopt.tree.PTree object at 0x1555281a33d0>
+ <ptreeopt.tree.PTree object at 0x1555281a3580>]",3,2,30,3,10
+9600,478,0.95,"[<ptreeopt.tree.PTree object at 0x1555281a3100>
+ <ptreeopt.tree.PTree object at 0x1555281a33d0>
+ <ptreeopt.tree.PTree object at 0x1555281a3580>]",3,2,30,3,10
+9700,483,0.95,"[<ptreeopt.tree.PTree object at 0x1555281a3100>
+ <ptreeopt.tree.PTree object at 0x1555281a33d0>
+ <ptreeopt.tree.PTree object at 0x1555281a3580>]",3,2,30,3,10
+9800,488,0.95,"[<ptreeopt.tree.PTree object at 0x1555281a3100>
+ <ptreeopt.tree.PTree object at 0x1555281a33d0>
+ <ptreeopt.tree.PTree object at 0x1555281a3580>]",3,2,30,3,10
+9900,493,0.95,"[<ptreeopt.tree.PTree object at 0x1555281a3100>
+ <ptreeopt.tree.PTree object at 0x1555281a33d0>
+ <ptreeopt.tree.PTree object at 0x1555281a3580>]",3,2,30,3,10
+10000,498,0.95,"[<ptreeopt.tree.PTree object at 0x1555281a3100>
+ <ptreeopt.tree.PTree object at 0x1555281a33d0>
+ <ptreeopt.tree.PTree object at 0x1555281a3580>]",3,2,30,3,10
+100,5,0.96,"[<ptreeopt.tree.PTree object at 0x1555283a4400>
+ <ptreeopt.tree.PTree object at 0x1555283a4d00>
+ <ptreeopt.tree.PTree object at 0x1555283a4a00>]",3,3,30,3,10
+200,10,0.96,"[<ptreeopt.tree.PTree object at 0x1555283a4400>
+ <ptreeopt.tree.PTree object at 0x1555283a4d00>
+ <ptreeopt.tree.PTree object at 0x1555283a4a00>]",3,3,30,3,10
+300,15,0.96,"[<ptreeopt.tree.PTree object at 0x1555283a4400>
+ <ptreeopt.tree.PTree object at 0x1555283a4d00>
+ <ptreeopt.tree.PTree object at 0x1555283a4a00>]",3,3,30,3,10
+400,19,0.96,"[<ptreeopt.tree.PTree object at 0x1555283a4400>
+ <ptreeopt.tree.PTree object at 0x1555283a4d00>
+ <ptreeopt.tree.PTree object at 0x1555283a4a00>]",3,3,30,3,10
+500,24,0.96,"[<ptreeopt.tree.PTree object at 0x1555283a4400>
+ <ptreeopt.tree.PTree object at 0x1555283a4d00>
+ <ptreeopt.tree.PTree object at 0x1555283a4a00>]",3,3,30,3,10
+600,30,0.96,"[<ptreeopt.tree.PTree object at 0x1555283a4400>
+ <ptreeopt.tree.PTree object at 0x1555283a4d00>
+ <ptreeopt.tree.PTree object at 0x1555283a4a00>]",3,3,30,3,10
+700,35,0.96,"[<ptreeopt.tree.PTree object at 0x1555283a4400>
+ <ptreeopt.tree.PTree object at 0x1555283a4d00>
+ <ptreeopt.tree.PTree object at 0x1555283a4a00>]",3,3,30,3,10
+800,39,0.96,"[<ptreeopt.tree.PTree object at 0x1555283a4400>
+ <ptreeopt.tree.PTree object at 0x1555283a4d00>
+ <ptreeopt.tree.PTree object at 0x1555283a4a00>]",3,3,30,3,10
+900,44,0.96,"[<ptreeopt.tree.PTree object at 0x1555283a4400>
+ <ptreeopt.tree.PTree object at 0x1555283a4d00>
+ <ptreeopt.tree.PTree object at 0x1555283a4a00>]",3,3,30,3,10
+1000,49,0.95,"[<ptreeopt.tree.PTree object at 0x1555281eed60>
+ <ptreeopt.tree.PTree object at 0x1555281ee820>
+ <ptreeopt.tree.PTree object at 0x1555281ee700>]",3,3,30,3,10
+1100,54,0.95,"[<ptreeopt.tree.PTree object at 0x1555281eed60>
+ <ptreeopt.tree.PTree object at 0x1555281ee820>
+ <ptreeopt.tree.PTree object at 0x1555281ee700>]",3,3,30,3,10
+1200,59,0.95,"[<ptreeopt.tree.PTree object at 0x1555281eed60>
+ <ptreeopt.tree.PTree object at 0x1555281ee820>
+ <ptreeopt.tree.PTree object at 0x1555281ee700>]",3,3,30,3,10
+1300,64,0.95,"[<ptreeopt.tree.PTree object at 0x1555281eed60>
+ <ptreeopt.tree.PTree object at 0x1555281ee820>
+ <ptreeopt.tree.PTree object at 0x1555281ee700>]",3,3,30,3,10
+1400,69,0.95,"[<ptreeopt.tree.PTree object at 0x1555281eed60>
+ <ptreeopt.tree.PTree object at 0x1555281ee820>
+ <ptreeopt.tree.PTree object at 0x1555281ee700>]",3,3,30,3,10
+1500,74,0.95,"[<ptreeopt.tree.PTree object at 0x1555281eed60>
+ <ptreeopt.tree.PTree object at 0x1555281ee820>
+ <ptreeopt.tree.PTree object at 0x1555281ee700>]",3,3,30,3,10
+1600,80,0.95,"[<ptreeopt.tree.PTree object at 0x1555281eed60>
+ <ptreeopt.tree.PTree object at 0x1555281ee820>
+ <ptreeopt.tree.PTree object at 0x1555281ee700>]",3,3,30,3,10
+1700,85,0.95,"[<ptreeopt.tree.PTree object at 0x1555281eed60>
+ <ptreeopt.tree.PTree object at 0x1555281ee820>
+ <ptreeopt.tree.PTree object at 0x1555281ee700>]",3,3,30,3,10
+1800,90,0.95,"[<ptreeopt.tree.PTree object at 0x1555281eed60>
+ <ptreeopt.tree.PTree object at 0x1555281ee820>
+ <ptreeopt.tree.PTree object at 0x1555281ee700>]",3,3,30,3,10
+1900,95,0.95,"[<ptreeopt.tree.PTree object at 0x1555281eed60>
+ <ptreeopt.tree.PTree object at 0x1555281ee820>
+ <ptreeopt.tree.PTree object at 0x1555281ee700>]",3,3,30,3,10
+2000,100,0.95,"[<ptreeopt.tree.PTree object at 0x1555281eed60>
+ <ptreeopt.tree.PTree object at 0x1555281ee820>
+ <ptreeopt.tree.PTree object at 0x1555281ee700>]",3,3,30,3,10
+2100,105,0.95,"[<ptreeopt.tree.PTree object at 0x1555281eed60>
+ <ptreeopt.tree.PTree object at 0x1555281ee820>
+ <ptreeopt.tree.PTree object at 0x1555281ee700>]",3,3,30,3,10
+2200,110,0.95,"[<ptreeopt.tree.PTree object at 0x1555281eed60>
+ <ptreeopt.tree.PTree object at 0x1555281ee820>
+ <ptreeopt.tree.PTree object at 0x1555281ee700>]",3,3,30,3,10
+2300,114,0.95,"[<ptreeopt.tree.PTree object at 0x1555281eed60>
+ <ptreeopt.tree.PTree object at 0x1555281ee820>
+ <ptreeopt.tree.PTree object at 0x1555281ee700>]",3,3,30,3,10
+2400,119,0.95,"[<ptreeopt.tree.PTree object at 0x1555281eed60>
+ <ptreeopt.tree.PTree object at 0x1555281ee820>
+ <ptreeopt.tree.PTree object at 0x1555281ee700>]",3,3,30,3,10
+2500,124,0.95,"[<ptreeopt.tree.PTree object at 0x1555281eed60>
+ <ptreeopt.tree.PTree object at 0x1555281ee820>
+ <ptreeopt.tree.PTree object at 0x1555281ee700>]",3,3,30,3,10
+2600,129,0.95,"[<ptreeopt.tree.PTree object at 0x1555281eed60>
+ <ptreeopt.tree.PTree object at 0x1555281ee820>
+ <ptreeopt.tree.PTree object at 0x1555281ee700>]",3,3,30,3,10
+2700,134,0.95,"[<ptreeopt.tree.PTree object at 0x1555281eed60>
+ <ptreeopt.tree.PTree object at 0x1555281ee820>
+ <ptreeopt.tree.PTree object at 0x1555281ee700>]",3,3,30,3,10
+2800,139,0.95,"[<ptreeopt.tree.PTree object at 0x1555281eed60>
+ <ptreeopt.tree.PTree object at 0x1555281ee820>
+ <ptreeopt.tree.PTree object at 0x1555281ee700>]",3,3,30,3,10
+2900,145,0.95,"[<ptreeopt.tree.PTree object at 0x1555281eed60>
+ <ptreeopt.tree.PTree object at 0x1555281ee820>
+ <ptreeopt.tree.PTree object at 0x1555281ee700>]",3,3,30,3,10
+3000,150,0.95,"[<ptreeopt.tree.PTree object at 0x1555281eed60>
+ <ptreeopt.tree.PTree object at 0x1555281ee820>
+ <ptreeopt.tree.PTree object at 0x1555281ee700>]",3,3,30,3,10
+3100,154,0.95,"[<ptreeopt.tree.PTree object at 0x1555281eed60>
+ <ptreeopt.tree.PTree object at 0x1555281ee820>
+ <ptreeopt.tree.PTree object at 0x1555281ee700>]",3,3,30,3,10
+3200,160,0.95,"[<ptreeopt.tree.PTree object at 0x1555281eed60>
+ <ptreeopt.tree.PTree object at 0x1555281ee820>
+ <ptreeopt.tree.PTree object at 0x1555281ee700>]",3,3,30,3,10
+3300,165,0.95,"[<ptreeopt.tree.PTree object at 0x1555281eed60>
+ <ptreeopt.tree.PTree object at 0x1555281ee820>
+ <ptreeopt.tree.PTree object at 0x1555281ee700>]",3,3,30,3,10
+3400,169,0.95,"[<ptreeopt.tree.PTree object at 0x1555281eed60>
+ <ptreeopt.tree.PTree object at 0x1555281ee820>
+ <ptreeopt.tree.PTree object at 0x1555281ee700>]",3,3,30,3,10
+3500,174,0.95,"[<ptreeopt.tree.PTree object at 0x1555281eed60>
+ <ptreeopt.tree.PTree object at 0x1555281ee820>
+ <ptreeopt.tree.PTree object at 0x1555281ee700>]",3,3,30,3,10
+3600,179,0.95,"[<ptreeopt.tree.PTree object at 0x1555281eed60>
+ <ptreeopt.tree.PTree object at 0x1555281ee820>
+ <ptreeopt.tree.PTree object at 0x1555281ee700>]",3,3,30,3,10
+3700,184,0.95,"[<ptreeopt.tree.PTree object at 0x1555281eed60>
+ <ptreeopt.tree.PTree object at 0x1555281ee820>
+ <ptreeopt.tree.PTree object at 0x1555281ee700>]",3,3,30,3,10
+3800,189,0.95,"[<ptreeopt.tree.PTree object at 0x1555281eed60>
+ <ptreeopt.tree.PTree object at 0x1555281ee820>
+ <ptreeopt.tree.PTree object at 0x1555281ee700>]",3,3,30,3,10
+3900,194,0.95,"[<ptreeopt.tree.PTree object at 0x1555281eed60>
+ <ptreeopt.tree.PTree object at 0x1555281ee820>
+ <ptreeopt.tree.PTree object at 0x1555281ee700>]",3,3,30,3,10
+4000,199,0.95,"[<ptreeopt.tree.PTree object at 0x1555281eed60>
+ <ptreeopt.tree.PTree object at 0x1555281ee820>
+ <ptreeopt.tree.PTree object at 0x1555281ee700>]",3,3,30,3,10
+4100,204,0.95,"[<ptreeopt.tree.PTree object at 0x1555281eed60>
+ <ptreeopt.tree.PTree object at 0x1555281ee820>
+ <ptreeopt.tree.PTree object at 0x1555281ee700>]",3,3,30,3,10
+4200,208,0.95,"[<ptreeopt.tree.PTree object at 0x1555281eed60>
+ <ptreeopt.tree.PTree object at 0x1555281ee820>
+ <ptreeopt.tree.PTree object at 0x1555281ee700>]",3,3,30,3,10
+4300,214,0.95,"[<ptreeopt.tree.PTree object at 0x1555281eed60>
+ <ptreeopt.tree.PTree object at 0x1555281ee820>
+ <ptreeopt.tree.PTree object at 0x1555281ee700>]",3,3,30,3,10
+4400,219,0.95,"[<ptreeopt.tree.PTree object at 0x1555281eed60>
+ <ptreeopt.tree.PTree object at 0x1555281ee820>
+ <ptreeopt.tree.PTree object at 0x1555281ee700>]",3,3,30,3,10
+4500,223,0.95,"[<ptreeopt.tree.PTree object at 0x1555281eed60>
+ <ptreeopt.tree.PTree object at 0x1555281ee820>
+ <ptreeopt.tree.PTree object at 0x1555281ee700>]",3,3,30,3,10
+4600,228,0.95,"[<ptreeopt.tree.PTree object at 0x1555281eed60>
+ <ptreeopt.tree.PTree object at 0x1555281ee820>
+ <ptreeopt.tree.PTree object at 0x1555281ee700>]",3,3,30,3,10
+4700,233,0.95,"[<ptreeopt.tree.PTree object at 0x1555281eed60>
+ <ptreeopt.tree.PTree object at 0x1555281ee820>
+ <ptreeopt.tree.PTree object at 0x1555281ee700>]",3,3,30,3,10
+4800,238,0.95,"[<ptreeopt.tree.PTree object at 0x1555281eed60>
+ <ptreeopt.tree.PTree object at 0x1555281ee820>
+ <ptreeopt.tree.PTree object at 0x1555281ee700>]",3,3,30,3,10
+4900,243,0.95,"[<ptreeopt.tree.PTree object at 0x1555281eed60>
+ <ptreeopt.tree.PTree object at 0x1555281ee820>
+ <ptreeopt.tree.PTree object at 0x1555281ee700>]",3,3,30,3,10
+5000,248,0.95,"[<ptreeopt.tree.PTree object at 0x1555281eed60>
+ <ptreeopt.tree.PTree object at 0x1555281ee820>
+ <ptreeopt.tree.PTree object at 0x1555281ee700>]",3,3,30,3,10
+5100,253,0.95,"[<ptreeopt.tree.PTree object at 0x1555281eed60>
+ <ptreeopt.tree.PTree object at 0x1555281ee820>
+ <ptreeopt.tree.PTree object at 0x1555281ee700>]",3,3,30,3,10
+5200,258,0.95,"[<ptreeopt.tree.PTree object at 0x1555281eed60>
+ <ptreeopt.tree.PTree object at 0x1555281ee820>
+ <ptreeopt.tree.PTree object at 0x1555281ee700>]",3,3,30,3,10
+5300,263,0.95,"[<ptreeopt.tree.PTree object at 0x1555281eed60>
+ <ptreeopt.tree.PTree object at 0x1555281ee820>
+ <ptreeopt.tree.PTree object at 0x1555281ee700>]",3,3,30,3,10
+5400,268,0.95,"[<ptreeopt.tree.PTree object at 0x1555281eed60>
+ <ptreeopt.tree.PTree object at 0x1555281ee820>
+ <ptreeopt.tree.PTree object at 0x1555281ee700>]",3,3,30,3,10
+5500,272,0.95,"[<ptreeopt.tree.PTree object at 0x1555281eed60>
+ <ptreeopt.tree.PTree object at 0x1555281ee820>
+ <ptreeopt.tree.PTree object at 0x1555281ee700>]",3,3,30,3,10
+5600,278,0.95,"[<ptreeopt.tree.PTree object at 0x1555281eed60>
+ <ptreeopt.tree.PTree object at 0x1555281ee820>
+ <ptreeopt.tree.PTree object at 0x1555281ee700>]",3,3,30,3,10
+5700,282,0.95,"[<ptreeopt.tree.PTree object at 0x1555281eed60>
+ <ptreeopt.tree.PTree object at 0x1555281ee820>
+ <ptreeopt.tree.PTree object at 0x1555281ee700>]",3,3,30,3,10
+5800,287,0.95,"[<ptreeopt.tree.PTree object at 0x1555281eed60>
+ <ptreeopt.tree.PTree object at 0x1555281ee820>
+ <ptreeopt.tree.PTree object at 0x1555281ee700>]",3,3,30,3,10
+5900,293,0.95,"[<ptreeopt.tree.PTree object at 0x1555281eed60>
+ <ptreeopt.tree.PTree object at 0x1555281ee820>
+ <ptreeopt.tree.PTree object at 0x1555281ee700>]",3,3,30,3,10
+6000,298,0.95,"[<ptreeopt.tree.PTree object at 0x1555281eed60>
+ <ptreeopt.tree.PTree object at 0x1555281ee820>
+ <ptreeopt.tree.PTree object at 0x1555281ee700>]",3,3,30,3,10
+6100,303,0.95,"[<ptreeopt.tree.PTree object at 0x1555281eed60>
+ <ptreeopt.tree.PTree object at 0x1555281ee820>
+ <ptreeopt.tree.PTree object at 0x1555281ee700>]",3,3,30,3,10
+6200,308,0.95,"[<ptreeopt.tree.PTree object at 0x1555281eed60>
+ <ptreeopt.tree.PTree object at 0x1555281ee820>
+ <ptreeopt.tree.PTree object at 0x1555281ee700>]",3,3,30,3,10
+6300,312,0.95,"[<ptreeopt.tree.PTree object at 0x1555281eed60>
+ <ptreeopt.tree.PTree object at 0x1555281ee820>
+ <ptreeopt.tree.PTree object at 0x1555281ee700>]",3,3,30,3,10
+6400,317,0.95,"[<ptreeopt.tree.PTree object at 0x1555281eed60>
+ <ptreeopt.tree.PTree object at 0x1555281ee820>
+ <ptreeopt.tree.PTree object at 0x1555281ee700>]",3,3,30,3,10
+6500,323,0.95,"[<ptreeopt.tree.PTree object at 0x1555281eed60>
+ <ptreeopt.tree.PTree object at 0x1555281ee820>
+ <ptreeopt.tree.PTree object at 0x1555281ee700>]",3,3,30,3,10
+6600,328,0.95,"[<ptreeopt.tree.PTree object at 0x1555281eed60>
+ <ptreeopt.tree.PTree object at 0x1555281ee820>
+ <ptreeopt.tree.PTree object at 0x1555281ee700>]",3,3,30,3,10
+6700,333,0.95,"[<ptreeopt.tree.PTree object at 0x1555281eed60>
+ <ptreeopt.tree.PTree object at 0x1555281ee820>
+ <ptreeopt.tree.PTree object at 0x1555281ee700>]",3,3,30,3,10
+6800,339,0.95,"[<ptreeopt.tree.PTree object at 0x1555281eed60>
+ <ptreeopt.tree.PTree object at 0x1555281ee820>
+ <ptreeopt.tree.PTree object at 0x1555281ee700>]",3,3,30,3,10
+6900,343,0.95,"[<ptreeopt.tree.PTree object at 0x1555281eed60>
+ <ptreeopt.tree.PTree object at 0x1555281ee820>
+ <ptreeopt.tree.PTree object at 0x1555281ee700>]",3,3,30,3,10
+7000,348,0.95,"[<ptreeopt.tree.PTree object at 0x1555281eed60>
+ <ptreeopt.tree.PTree object at 0x1555281ee820>
+ <ptreeopt.tree.PTree object at 0x1555281ee700>]",3,3,30,3,10
+7100,353,0.95,"[<ptreeopt.tree.PTree object at 0x1555281eed60>
+ <ptreeopt.tree.PTree object at 0x1555281ee820>
+ <ptreeopt.tree.PTree object at 0x1555281ee700>]",3,3,30,3,10
+7200,358,0.95,"[<ptreeopt.tree.PTree object at 0x1555281eed60>
+ <ptreeopt.tree.PTree object at 0x1555281ee820>
+ <ptreeopt.tree.PTree object at 0x1555281ee700>]",3,3,30,3,10
+7300,363,0.95,"[<ptreeopt.tree.PTree object at 0x1555281eed60>
+ <ptreeopt.tree.PTree object at 0x1555281ee820>
+ <ptreeopt.tree.PTree object at 0x1555281ee700>]",3,3,30,3,10
+7400,369,0.95,"[<ptreeopt.tree.PTree object at 0x1555281eed60>
+ <ptreeopt.tree.PTree object at 0x1555281ee820>
+ <ptreeopt.tree.PTree object at 0x1555281ee700>]",3,3,30,3,10
+7500,373,0.95,"[<ptreeopt.tree.PTree object at 0x1555281eed60>
+ <ptreeopt.tree.PTree object at 0x1555281ee820>
+ <ptreeopt.tree.PTree object at 0x1555281ee700>]",3,3,30,3,10
+7600,378,0.95,"[<ptreeopt.tree.PTree object at 0x1555281eed60>
+ <ptreeopt.tree.PTree object at 0x1555281ee820>
+ <ptreeopt.tree.PTree object at 0x1555281ee700>]",3,3,30,3,10
+7700,383,0.95,"[<ptreeopt.tree.PTree object at 0x1555281eed60>
+ <ptreeopt.tree.PTree object at 0x1555281ee820>
+ <ptreeopt.tree.PTree object at 0x1555281ee700>]",3,3,30,3,10
+7800,388,0.95,"[<ptreeopt.tree.PTree object at 0x1555281eed60>
+ <ptreeopt.tree.PTree object at 0x1555281ee820>
+ <ptreeopt.tree.PTree object at 0x1555281ee700>]",3,3,30,3,10
+7900,393,0.95,"[<ptreeopt.tree.PTree object at 0x1555281eed60>
+ <ptreeopt.tree.PTree object at 0x1555281ee820>
+ <ptreeopt.tree.PTree object at 0x1555281ee700>]",3,3,30,3,10
+8000,398,0.95,"[<ptreeopt.tree.PTree object at 0x1555281eed60>
+ <ptreeopt.tree.PTree object at 0x1555281ee820>
+ <ptreeopt.tree.PTree object at 0x1555281ee700>]",3,3,30,3,10
+8100,403,0.95,"[<ptreeopt.tree.PTree object at 0x1555281eed60>
+ <ptreeopt.tree.PTree object at 0x1555281ee820>
+ <ptreeopt.tree.PTree object at 0x1555281ee700>]",3,3,30,3,10
+8200,408,0.95,"[<ptreeopt.tree.PTree object at 0x1555281eed60>
+ <ptreeopt.tree.PTree object at 0x1555281ee820>
+ <ptreeopt.tree.PTree object at 0x1555281ee700>]",3,3,30,3,10
+8300,413,0.95,"[<ptreeopt.tree.PTree object at 0x1555281eed60>
+ <ptreeopt.tree.PTree object at 0x1555281ee820>
+ <ptreeopt.tree.PTree object at 0x1555281ee700>]",3,3,30,3,10
+8400,418,0.95,"[<ptreeopt.tree.PTree object at 0x1555281eed60>
+ <ptreeopt.tree.PTree object at 0x1555281ee820>
+ <ptreeopt.tree.PTree object at 0x1555281ee700>]",3,3,30,3,10
+8500,423,0.95,"[<ptreeopt.tree.PTree object at 0x1555281eed60>
+ <ptreeopt.tree.PTree object at 0x1555281ee820>
+ <ptreeopt.tree.PTree object at 0x1555281ee700>]",3,3,30,3,10
+8600,428,0.95,"[<ptreeopt.tree.PTree object at 0x1555281eed60>
+ <ptreeopt.tree.PTree object at 0x1555281ee820>
+ <ptreeopt.tree.PTree object at 0x1555281ee700>]",3,3,30,3,10
+8700,433,0.95,"[<ptreeopt.tree.PTree object at 0x1555281eed60>
+ <ptreeopt.tree.PTree object at 0x1555281ee820>
+ <ptreeopt.tree.PTree object at 0x1555281ee700>]",3,3,30,3,10
+8800,438,0.95,"[<ptreeopt.tree.PTree object at 0x1555281eed60>
+ <ptreeopt.tree.PTree object at 0x1555281ee820>
+ <ptreeopt.tree.PTree object at 0x1555281ee700>]",3,3,30,3,10
+8900,443,0.95,"[<ptreeopt.tree.PTree object at 0x1555281eed60>
+ <ptreeopt.tree.PTree object at 0x1555281ee820>
+ <ptreeopt.tree.PTree object at 0x1555281ee700>]",3,3,30,3,10
+9000,448,0.95,"[<ptreeopt.tree.PTree object at 0x1555281eed60>
+ <ptreeopt.tree.PTree object at 0x1555281ee820>
+ <ptreeopt.tree.PTree object at 0x1555281ee700>]",3,3,30,3,10
+9100,453,0.95,"[<ptreeopt.tree.PTree object at 0x1555281eed60>
+ <ptreeopt.tree.PTree object at 0x1555281ee820>
+ <ptreeopt.tree.PTree object at 0x1555281ee700>]",3,3,30,3,10
+9200,458,0.95,"[<ptreeopt.tree.PTree object at 0x1555281eed60>
+ <ptreeopt.tree.PTree object at 0x1555281ee820>
+ <ptreeopt.tree.PTree object at 0x1555281ee700>]",3,3,30,3,10
+9300,463,0.95,"[<ptreeopt.tree.PTree object at 0x1555281eed60>
+ <ptreeopt.tree.PTree object at 0x1555281ee820>
+ <ptreeopt.tree.PTree object at 0x1555281ee700>]",3,3,30,3,10
+9400,468,0.95,"[<ptreeopt.tree.PTree object at 0x1555281eed60>
+ <ptreeopt.tree.PTree object at 0x1555281ee820>
+ <ptreeopt.tree.PTree object at 0x1555281ee700>]",3,3,30,3,10
+9500,473,0.95,"[<ptreeopt.tree.PTree object at 0x1555281eed60>
+ <ptreeopt.tree.PTree object at 0x1555281ee820>
+ <ptreeopt.tree.PTree object at 0x1555281ee700>]",3,3,30,3,10
+9600,478,0.95,"[<ptreeopt.tree.PTree object at 0x1555281eed60>
+ <ptreeopt.tree.PTree object at 0x1555281ee820>
+ <ptreeopt.tree.PTree object at 0x1555281ee700>]",3,3,30,3,10
+9700,483,0.95,"[<ptreeopt.tree.PTree object at 0x1555281eed60>
+ <ptreeopt.tree.PTree object at 0x1555281ee820>
+ <ptreeopt.tree.PTree object at 0x1555281ee700>]",3,3,30,3,10
+9800,488,0.95,"[<ptreeopt.tree.PTree object at 0x1555281eed60>
+ <ptreeopt.tree.PTree object at 0x1555281ee820>
+ <ptreeopt.tree.PTree object at 0x1555281ee700>]",3,3,30,3,10
+9900,493,0.95,"[<ptreeopt.tree.PTree object at 0x1555281eed60>
+ <ptreeopt.tree.PTree object at 0x1555281ee820>
+ <ptreeopt.tree.PTree object at 0x1555281ee700>]",3,3,30,3,10
+10000,498,0.95,"[<ptreeopt.tree.PTree object at 0x1555281eed60>
+ <ptreeopt.tree.PTree object at 0x1555281ee820>
+ <ptreeopt.tree.PTree object at 0x1555281ee700>]",3,3,30,3,10
+100,5,0.97,"[<ptreeopt.tree.PTree object at 0x1555282da490>
+ <ptreeopt.tree.PTree object at 0x1555282daa90>
+ <ptreeopt.tree.PTree object at 0x1555282dad90>]",3,4,30,3,10
+200,10,0.96,"[<ptreeopt.tree.PTree object at 0x15552826d280>
+ <ptreeopt.tree.PTree object at 0x15552826db20>
+ <ptreeopt.tree.PTree object at 0x15552826d430>]",3,4,30,3,10
+300,15,0.96,"[<ptreeopt.tree.PTree object at 0x15552826d280>
+ <ptreeopt.tree.PTree object at 0x15552826db20>
+ <ptreeopt.tree.PTree object at 0x15552826d430>]",3,4,30,3,10
+400,20,0.96,"[<ptreeopt.tree.PTree object at 0x15552826d280>
+ <ptreeopt.tree.PTree object at 0x15552826db20>
+ <ptreeopt.tree.PTree object at 0x15552826d430>]",3,4,30,3,10
+500,25,0.96,"[<ptreeopt.tree.PTree object at 0x15552826d280>
+ <ptreeopt.tree.PTree object at 0x15552826db20>
+ <ptreeopt.tree.PTree object at 0x15552826d430>]",3,4,30,3,10
+600,29,0.96,"[<ptreeopt.tree.PTree object at 0x15552826d280>
+ <ptreeopt.tree.PTree object at 0x15552826db20>
+ <ptreeopt.tree.PTree object at 0x15552826d430>]",3,4,30,3,10
+700,34,0.96,"[<ptreeopt.tree.PTree object at 0x15552826d280>
+ <ptreeopt.tree.PTree object at 0x15552826db20>
+ <ptreeopt.tree.PTree object at 0x15552826d430>]",3,4,30,3,10
+800,39,0.96,"[<ptreeopt.tree.PTree object at 0x15552826d280>
+ <ptreeopt.tree.PTree object at 0x15552826db20>
+ <ptreeopt.tree.PTree object at 0x15552826d430>]",3,4,30,3,10
+900,44,0.96,"[<ptreeopt.tree.PTree object at 0x15552826d280>
+ <ptreeopt.tree.PTree object at 0x15552826db20>
+ <ptreeopt.tree.PTree object at 0x15552826d430>]",3,4,30,3,10
+1000,49,0.96,"[<ptreeopt.tree.PTree object at 0x15552826d280>
+ <ptreeopt.tree.PTree object at 0x15552826db20>
+ <ptreeopt.tree.PTree object at 0x15552826d430>]",3,4,30,3,10
+1100,54,0.96,"[<ptreeopt.tree.PTree object at 0x15552826d280>
+ <ptreeopt.tree.PTree object at 0x15552826db20>
+ <ptreeopt.tree.PTree object at 0x15552826d430>]",3,4,30,3,10
+1200,59,0.96,"[<ptreeopt.tree.PTree object at 0x15552826d280>
+ <ptreeopt.tree.PTree object at 0x15552826db20>
+ <ptreeopt.tree.PTree object at 0x15552826d430>]",3,4,30,3,10
+1300,64,0.96,"[<ptreeopt.tree.PTree object at 0x15552826d280>
+ <ptreeopt.tree.PTree object at 0x15552826db20>
+ <ptreeopt.tree.PTree object at 0x15552826d430>]",3,4,30,3,10
+1400,69,0.96,"[<ptreeopt.tree.PTree object at 0x15552826d280>
+ <ptreeopt.tree.PTree object at 0x15552826db20>
+ <ptreeopt.tree.PTree object at 0x15552826d430>]",3,4,30,3,10
+1500,74,0.96,"[<ptreeopt.tree.PTree object at 0x15552826d280>
+ <ptreeopt.tree.PTree object at 0x15552826db20>
+ <ptreeopt.tree.PTree object at 0x15552826d430>]",3,4,30,3,10
+1600,79,0.96,"[<ptreeopt.tree.PTree object at 0x15552826d280>
+ <ptreeopt.tree.PTree object at 0x15552826db20>
+ <ptreeopt.tree.PTree object at 0x15552826d430>]",3,4,30,3,10
+1700,84,0.96,"[<ptreeopt.tree.PTree object at 0x15552826d280>
+ <ptreeopt.tree.PTree object at 0x15552826db20>
+ <ptreeopt.tree.PTree object at 0x15552826d430>]",3,4,30,3,10
+1800,89,0.95,"[<ptreeopt.tree.PTree object at 0x155528327be0>
+ <ptreeopt.tree.PTree object at 0x155528327b80>
+ <ptreeopt.tree.PTree object at 0x1555283272e0>]",3,4,30,3,10
+1900,94,0.95,"[<ptreeopt.tree.PTree object at 0x155528327be0>
+ <ptreeopt.tree.PTree object at 0x155528327b80>
+ <ptreeopt.tree.PTree object at 0x1555283272e0>]",3,4,30,3,10
+2000,99,0.95,"[<ptreeopt.tree.PTree object at 0x155528327be0>
+ <ptreeopt.tree.PTree object at 0x155528327b80>
+ <ptreeopt.tree.PTree object at 0x1555283272e0>]",3,4,30,3,10
+2100,104,0.95,"[<ptreeopt.tree.PTree object at 0x155528327be0>
+ <ptreeopt.tree.PTree object at 0x155528327b80>
+ <ptreeopt.tree.PTree object at 0x1555283272e0>]",3,4,30,3,10
+2200,109,0.95,"[<ptreeopt.tree.PTree object at 0x155528327be0>
+ <ptreeopt.tree.PTree object at 0x155528327b80>
+ <ptreeopt.tree.PTree object at 0x1555283272e0>]",3,4,30,3,10
+2300,114,0.95,"[<ptreeopt.tree.PTree object at 0x155528327be0>
+ <ptreeopt.tree.PTree object at 0x155528327b80>
+ <ptreeopt.tree.PTree object at 0x1555283272e0>]",3,4,30,3,10
+2400,119,0.95,"[<ptreeopt.tree.PTree object at 0x155528327be0>
+ <ptreeopt.tree.PTree object at 0x155528327b80>
+ <ptreeopt.tree.PTree object at 0x1555283272e0>]",3,4,30,3,10
+2500,123,0.95,"[<ptreeopt.tree.PTree object at 0x155528327be0>
+ <ptreeopt.tree.PTree object at 0x155528327b80>
+ <ptreeopt.tree.PTree object at 0x1555283272e0>]",3,4,30,3,10
+2600,129,0.95,"[<ptreeopt.tree.PTree object at 0x155528327be0>
+ <ptreeopt.tree.PTree object at 0x155528327b80>
+ <ptreeopt.tree.PTree object at 0x1555283272e0>]",3,4,30,3,10
+2700,134,0.95,"[<ptreeopt.tree.PTree object at 0x155528327be0>
+ <ptreeopt.tree.PTree object at 0x155528327b80>
+ <ptreeopt.tree.PTree object at 0x1555283272e0>]",3,4,30,3,10
+2800,139,0.95,"[<ptreeopt.tree.PTree object at 0x155528327be0>
+ <ptreeopt.tree.PTree object at 0x155528327b80>
+ <ptreeopt.tree.PTree object at 0x1555283272e0>]",3,4,30,3,10
+2900,144,0.95,"[<ptreeopt.tree.PTree object at 0x155528327be0>
+ <ptreeopt.tree.PTree object at 0x155528327b80>
+ <ptreeopt.tree.PTree object at 0x1555283272e0>]",3,4,30,3,10
+3000,150,0.95,"[<ptreeopt.tree.PTree object at 0x155528327be0>
+ <ptreeopt.tree.PTree object at 0x155528327b80>
+ <ptreeopt.tree.PTree object at 0x1555283272e0>]",3,4,30,3,10
+3100,154,0.95,"[<ptreeopt.tree.PTree object at 0x155528327be0>
+ <ptreeopt.tree.PTree object at 0x155528327b80>
+ <ptreeopt.tree.PTree object at 0x1555283272e0>]",3,4,30,3,10
+3200,159,0.95,"[<ptreeopt.tree.PTree object at 0x155528327be0>
+ <ptreeopt.tree.PTree object at 0x155528327b80>
+ <ptreeopt.tree.PTree object at 0x1555283272e0>]",3,4,30,3,10
+3300,164,0.95,"[<ptreeopt.tree.PTree object at 0x155528327be0>
+ <ptreeopt.tree.PTree object at 0x155528327b80>
+ <ptreeopt.tree.PTree object at 0x1555283272e0>]",3,4,30,3,10
+3400,169,0.95,"[<ptreeopt.tree.PTree object at 0x155528327be0>
+ <ptreeopt.tree.PTree object at 0x155528327b80>
+ <ptreeopt.tree.PTree object at 0x1555283272e0>]",3,4,30,3,10
+3500,174,0.95,"[<ptreeopt.tree.PTree object at 0x155528327be0>
+ <ptreeopt.tree.PTree object at 0x155528327b80>
+ <ptreeopt.tree.PTree object at 0x1555283272e0>]",3,4,30,3,10
+3600,179,0.95,"[<ptreeopt.tree.PTree object at 0x155528327be0>
+ <ptreeopt.tree.PTree object at 0x155528327b80>
+ <ptreeopt.tree.PTree object at 0x1555283272e0>]",3,4,30,3,10
+3700,184,0.95,"[<ptreeopt.tree.PTree object at 0x155528327be0>
+ <ptreeopt.tree.PTree object at 0x155528327b80>
+ <ptreeopt.tree.PTree object at 0x1555283272e0>]",3,4,30,3,10
+3800,189,0.95,"[<ptreeopt.tree.PTree object at 0x155528327be0>
+ <ptreeopt.tree.PTree object at 0x155528327b80>
+ <ptreeopt.tree.PTree object at 0x1555283272e0>]",3,4,30,3,10
+3900,194,0.95,"[<ptreeopt.tree.PTree object at 0x155528327be0>
+ <ptreeopt.tree.PTree object at 0x155528327b80>
+ <ptreeopt.tree.PTree object at 0x1555283272e0>]",3,4,30,3,10
+4000,199,0.95,"[<ptreeopt.tree.PTree object at 0x155528327be0>
+ <ptreeopt.tree.PTree object at 0x155528327b80>
+ <ptreeopt.tree.PTree object at 0x1555283272e0>]",3,4,30,3,10
+4100,204,0.95,"[<ptreeopt.tree.PTree object at 0x155528327be0>
+ <ptreeopt.tree.PTree object at 0x155528327b80>
+ <ptreeopt.tree.PTree object at 0x1555283272e0>]",3,4,30,3,10
+4200,210,0.95,"[<ptreeopt.tree.PTree object at 0x155528327be0>
+ <ptreeopt.tree.PTree object at 0x155528327b80>
+ <ptreeopt.tree.PTree object at 0x1555283272e0>]",3,4,30,3,10
+4300,215,0.95,"[<ptreeopt.tree.PTree object at 0x155528327be0>
+ <ptreeopt.tree.PTree object at 0x155528327b80>
+ <ptreeopt.tree.PTree object at 0x1555283272e0>]",3,4,30,3,10
+4400,219,0.95,"[<ptreeopt.tree.PTree object at 0x155528327be0>
+ <ptreeopt.tree.PTree object at 0x155528327b80>
+ <ptreeopt.tree.PTree object at 0x1555283272e0>]",3,4,30,3,10
+4500,224,0.95,"[<ptreeopt.tree.PTree object at 0x155528327be0>
+ <ptreeopt.tree.PTree object at 0x155528327b80>
+ <ptreeopt.tree.PTree object at 0x1555283272e0>]",3,4,30,3,10
+4600,230,0.95,"[<ptreeopt.tree.PTree object at 0x155528327be0>
+ <ptreeopt.tree.PTree object at 0x155528327b80>
+ <ptreeopt.tree.PTree object at 0x1555283272e0>]",3,4,30,3,10
+4700,235,0.95,"[<ptreeopt.tree.PTree object at 0x155528327be0>
+ <ptreeopt.tree.PTree object at 0x155528327b80>
+ <ptreeopt.tree.PTree object at 0x1555283272e0>]",3,4,30,3,10
+4800,239,0.95,"[<ptreeopt.tree.PTree object at 0x155528327be0>
+ <ptreeopt.tree.PTree object at 0x155528327b80>
+ <ptreeopt.tree.PTree object at 0x1555283272e0>]",3,4,30,3,10
+4900,244,0.95,"[<ptreeopt.tree.PTree object at 0x155528327be0>
+ <ptreeopt.tree.PTree object at 0x155528327b80>
+ <ptreeopt.tree.PTree object at 0x1555283272e0>]",3,4,30,3,10
+5000,249,0.95,"[<ptreeopt.tree.PTree object at 0x155528327be0>
+ <ptreeopt.tree.PTree object at 0x155528327b80>
+ <ptreeopt.tree.PTree object at 0x1555283272e0>]",3,4,30,3,10
+5100,254,0.95,"[<ptreeopt.tree.PTree object at 0x155528327be0>
+ <ptreeopt.tree.PTree object at 0x155528327b80>
+ <ptreeopt.tree.PTree object at 0x1555283272e0>]",3,4,30,3,10
+5200,260,0.95,"[<ptreeopt.tree.PTree object at 0x155528327be0>
+ <ptreeopt.tree.PTree object at 0x155528327b80>
+ <ptreeopt.tree.PTree object at 0x1555283272e0>]",3,4,30,3,10
+5300,265,0.95,"[<ptreeopt.tree.PTree object at 0x155528327be0>
+ <ptreeopt.tree.PTree object at 0x155528327b80>
+ <ptreeopt.tree.PTree object at 0x1555283272e0>]",3,4,30,3,10
+5400,269,0.95,"[<ptreeopt.tree.PTree object at 0x155528327be0>
+ <ptreeopt.tree.PTree object at 0x155528327b80>
+ <ptreeopt.tree.PTree object at 0x1555283272e0>]",3,4,30,3,10
+5500,275,0.95,"[<ptreeopt.tree.PTree object at 0x155528327be0>
+ <ptreeopt.tree.PTree object at 0x155528327b80>
+ <ptreeopt.tree.PTree object at 0x1555283272e0>]",3,4,30,3,10
+5600,280,0.95,"[<ptreeopt.tree.PTree object at 0x155528327be0>
+ <ptreeopt.tree.PTree object at 0x155528327b80>
+ <ptreeopt.tree.PTree object at 0x1555283272e0>]",3,4,30,3,10
+5700,285,0.95,"[<ptreeopt.tree.PTree object at 0x155528327be0>
+ <ptreeopt.tree.PTree object at 0x155528327b80>
+ <ptreeopt.tree.PTree object at 0x1555283272e0>]",3,4,30,3,10
+5800,290,0.95,"[<ptreeopt.tree.PTree object at 0x155528327be0>
+ <ptreeopt.tree.PTree object at 0x155528327b80>
+ <ptreeopt.tree.PTree object at 0x1555283272e0>]",3,4,30,3,10
+5900,295,0.95,"[<ptreeopt.tree.PTree object at 0x155528327be0>
+ <ptreeopt.tree.PTree object at 0x155528327b80>
+ <ptreeopt.tree.PTree object at 0x1555283272e0>]",3,4,30,3,10
+6000,299,0.95,"[<ptreeopt.tree.PTree object at 0x155528327be0>
+ <ptreeopt.tree.PTree object at 0x155528327b80>
+ <ptreeopt.tree.PTree object at 0x1555283272e0>]",3,4,30,3,10
+6100,305,0.95,"[<ptreeopt.tree.PTree object at 0x155528327be0>
+ <ptreeopt.tree.PTree object at 0x155528327b80>
+ <ptreeopt.tree.PTree object at 0x1555283272e0>]",3,4,30,3,10
+6200,310,0.95,"[<ptreeopt.tree.PTree object at 0x155528327be0>
+ <ptreeopt.tree.PTree object at 0x155528327b80>
+ <ptreeopt.tree.PTree object at 0x1555283272e0>]",3,4,30,3,10
+6300,315,0.95,"[<ptreeopt.tree.PTree object at 0x155528327be0>
+ <ptreeopt.tree.PTree object at 0x155528327b80>
+ <ptreeopt.tree.PTree object at 0x1555283272e0>]",3,4,30,3,10
+6400,320,0.95,"[<ptreeopt.tree.PTree object at 0x155528327be0>
+ <ptreeopt.tree.PTree object at 0x155528327b80>
+ <ptreeopt.tree.PTree object at 0x1555283272e0>]",3,4,30,3,10
+6500,325,0.95,"[<ptreeopt.tree.PTree object at 0x155528327be0>
+ <ptreeopt.tree.PTree object at 0x155528327b80>
+ <ptreeopt.tree.PTree object at 0x1555283272e0>]",3,4,30,3,10
+6600,330,0.95,"[<ptreeopt.tree.PTree object at 0x155528327be0>
+ <ptreeopt.tree.PTree object at 0x155528327b80>
+ <ptreeopt.tree.PTree object at 0x1555283272e0>]",3,4,30,3,10
+6700,336,0.95,"[<ptreeopt.tree.PTree object at 0x155528327be0>
+ <ptreeopt.tree.PTree object at 0x155528327b80>
+ <ptreeopt.tree.PTree object at 0x1555283272e0>]",3,4,30,3,10
+6800,340,0.95,"[<ptreeopt.tree.PTree object at 0x155528327be0>
+ <ptreeopt.tree.PTree object at 0x155528327b80>
+ <ptreeopt.tree.PTree object at 0x1555283272e0>]",3,4,30,3,10
+6900,345,0.95,"[<ptreeopt.tree.PTree object at 0x155528327be0>
+ <ptreeopt.tree.PTree object at 0x155528327b80>
+ <ptreeopt.tree.PTree object at 0x1555283272e0>]",3,4,30,3,10
+7000,350,0.95,"[<ptreeopt.tree.PTree object at 0x155528327be0>
+ <ptreeopt.tree.PTree object at 0x155528327b80>
+ <ptreeopt.tree.PTree object at 0x1555283272e0>]",3,4,30,3,10
+7100,355,0.95,"[<ptreeopt.tree.PTree object at 0x155528327be0>
+ <ptreeopt.tree.PTree object at 0x155528327b80>
+ <ptreeopt.tree.PTree object at 0x1555283272e0>]",3,4,30,3,10
+7200,361,0.95,"[<ptreeopt.tree.PTree object at 0x155528327be0>
+ <ptreeopt.tree.PTree object at 0x155528327b80>
+ <ptreeopt.tree.PTree object at 0x1555283272e0>]",3,4,30,3,10
+7300,366,0.95,"[<ptreeopt.tree.PTree object at 0x155528327be0>
+ <ptreeopt.tree.PTree object at 0x155528327b80>
+ <ptreeopt.tree.PTree object at 0x1555283272e0>]",3,4,30,3,10
+7400,371,0.95,"[<ptreeopt.tree.PTree object at 0x155528327be0>
+ <ptreeopt.tree.PTree object at 0x155528327b80>
+ <ptreeopt.tree.PTree object at 0x1555283272e0>]",3,4,30,3,10
+7500,376,0.95,"[<ptreeopt.tree.PTree object at 0x155528327be0>
+ <ptreeopt.tree.PTree object at 0x155528327b80>
+ <ptreeopt.tree.PTree object at 0x1555283272e0>]",3,4,30,3,10
+7600,381,0.95,"[<ptreeopt.tree.PTree object at 0x155528327be0>
+ <ptreeopt.tree.PTree object at 0x155528327b80>
+ <ptreeopt.tree.PTree object at 0x1555283272e0>]",3,4,30,3,10
+7700,386,0.95,"[<ptreeopt.tree.PTree object at 0x155528327be0>
+ <ptreeopt.tree.PTree object at 0x155528327b80>
+ <ptreeopt.tree.PTree object at 0x1555283272e0>]",3,4,30,3,10
+7800,391,0.95,"[<ptreeopt.tree.PTree object at 0x155528327be0>
+ <ptreeopt.tree.PTree object at 0x155528327b80>
+ <ptreeopt.tree.PTree object at 0x1555283272e0>]",3,4,30,3,10
+7900,396,0.95,"[<ptreeopt.tree.PTree object at 0x155528327be0>
+ <ptreeopt.tree.PTree object at 0x155528327b80>
+ <ptreeopt.tree.PTree object at 0x1555283272e0>]",3,4,30,3,10
+8000,401,0.95,"[<ptreeopt.tree.PTree object at 0x155528327be0>
+ <ptreeopt.tree.PTree object at 0x155528327b80>
+ <ptreeopt.tree.PTree object at 0x1555283272e0>]",3,4,30,3,10
+8100,406,0.95,"[<ptreeopt.tree.PTree object at 0x155528327be0>
+ <ptreeopt.tree.PTree object at 0x155528327b80>
+ <ptreeopt.tree.PTree object at 0x1555283272e0>]",3,4,30,3,10
+8200,411,0.95,"[<ptreeopt.tree.PTree object at 0x155528327be0>
+ <ptreeopt.tree.PTree object at 0x155528327b80>
+ <ptreeopt.tree.PTree object at 0x1555283272e0>]",3,4,30,3,10
+8300,416,0.95,"[<ptreeopt.tree.PTree object at 0x155528327be0>
+ <ptreeopt.tree.PTree object at 0x155528327b80>
+ <ptreeopt.tree.PTree object at 0x1555283272e0>]",3,4,30,3,10
+8400,421,0.95,"[<ptreeopt.tree.PTree object at 0x155528327be0>
+ <ptreeopt.tree.PTree object at 0x155528327b80>
+ <ptreeopt.tree.PTree object at 0x1555283272e0>]",3,4,30,3,10
+8500,426,0.95,"[<ptreeopt.tree.PTree object at 0x155528327be0>
+ <ptreeopt.tree.PTree object at 0x155528327b80>
+ <ptreeopt.tree.PTree object at 0x1555283272e0>]",3,4,30,3,10
+8600,431,0.95,"[<ptreeopt.tree.PTree object at 0x155528327be0>
+ <ptreeopt.tree.PTree object at 0x155528327b80>
+ <ptreeopt.tree.PTree object at 0x1555283272e0>]",3,4,30,3,10
+8700,436,0.95,"[<ptreeopt.tree.PTree object at 0x155528327be0>
+ <ptreeopt.tree.PTree object at 0x155528327b80>
+ <ptreeopt.tree.PTree object at 0x1555283272e0>]",3,4,30,3,10
+8800,441,0.95,"[<ptreeopt.tree.PTree object at 0x155528327be0>
+ <ptreeopt.tree.PTree object at 0x155528327b80>
+ <ptreeopt.tree.PTree object at 0x1555283272e0>]",3,4,30,3,10
+8900,446,0.95,"[<ptreeopt.tree.PTree object at 0x155528327be0>
+ <ptreeopt.tree.PTree object at 0x155528327b80>
+ <ptreeopt.tree.PTree object at 0x1555283272e0>]",3,4,30,3,10
+9000,451,0.95,"[<ptreeopt.tree.PTree object at 0x155528327be0>
+ <ptreeopt.tree.PTree object at 0x155528327b80>
+ <ptreeopt.tree.PTree object at 0x1555283272e0>]",3,4,30,3,10
+9100,456,0.95,"[<ptreeopt.tree.PTree object at 0x155528327be0>
+ <ptreeopt.tree.PTree object at 0x155528327b80>
+ <ptreeopt.tree.PTree object at 0x1555283272e0>]",3,4,30,3,10
+9200,461,0.95,"[<ptreeopt.tree.PTree object at 0x155528327be0>
+ <ptreeopt.tree.PTree object at 0x155528327b80>
+ <ptreeopt.tree.PTree object at 0x1555283272e0>]",3,4,30,3,10
+9300,466,0.95,"[<ptreeopt.tree.PTree object at 0x155528327be0>
+ <ptreeopt.tree.PTree object at 0x155528327b80>
+ <ptreeopt.tree.PTree object at 0x1555283272e0>]",3,4,30,3,10
+9400,471,0.95,"[<ptreeopt.tree.PTree object at 0x155528327be0>
+ <ptreeopt.tree.PTree object at 0x155528327b80>
+ <ptreeopt.tree.PTree object at 0x1555283272e0>]",3,4,30,3,10
+9500,476,0.95,"[<ptreeopt.tree.PTree object at 0x155528327be0>
+ <ptreeopt.tree.PTree object at 0x155528327b80>
+ <ptreeopt.tree.PTree object at 0x1555283272e0>]",3,4,30,3,10
+9600,481,0.95,"[<ptreeopt.tree.PTree object at 0x155528327be0>
+ <ptreeopt.tree.PTree object at 0x155528327b80>
+ <ptreeopt.tree.PTree object at 0x1555283272e0>]",3,4,30,3,10
+9700,486,0.95,"[<ptreeopt.tree.PTree object at 0x155528327be0>
+ <ptreeopt.tree.PTree object at 0x155528327b80>
+ <ptreeopt.tree.PTree object at 0x1555283272e0>]",3,4,30,3,10
+9800,491,0.95,"[<ptreeopt.tree.PTree object at 0x155528327be0>
+ <ptreeopt.tree.PTree object at 0x155528327b80>
+ <ptreeopt.tree.PTree object at 0x1555283272e0>]",3,4,30,3,10
+9900,496,0.95,"[<ptreeopt.tree.PTree object at 0x155528327be0>
+ <ptreeopt.tree.PTree object at 0x155528327b80>
+ <ptreeopt.tree.PTree object at 0x1555283272e0>]",3,4,30,3,10
+10000,501,0.95,"[<ptreeopt.tree.PTree object at 0x155528327be0>
+ <ptreeopt.tree.PTree object at 0x155528327b80>
+ <ptreeopt.tree.PTree object at 0x1555283272e0>]",3,4,30,3,10
+100,5,0.97,"[<ptreeopt.tree.PTree object at 0x155528330610>
+ <ptreeopt.tree.PTree object at 0x155528330550>
+ <ptreeopt.tree.PTree object at 0x155528330a00>]",3,5,30,3,10
+200,10,0.96,"[<ptreeopt.tree.PTree object at 0x15552832e610>
+ <ptreeopt.tree.PTree object at 0x15552832ecd0>
+ <ptreeopt.tree.PTree object at 0x15552832e220>]",3,5,30,3,10
+300,15,0.96,"[<ptreeopt.tree.PTree object at 0x15552832e610>
+ <ptreeopt.tree.PTree object at 0x15552832ecd0>
+ <ptreeopt.tree.PTree object at 0x15552832e220>]",3,5,30,3,10
+400,19,0.96,"[<ptreeopt.tree.PTree object at 0x15552832e610>
+ <ptreeopt.tree.PTree object at 0x15552832ecd0>
+ <ptreeopt.tree.PTree object at 0x15552832e220>]",3,5,30,3,10
+500,24,0.96,"[<ptreeopt.tree.PTree object at 0x15552832e610>
+ <ptreeopt.tree.PTree object at 0x15552832ecd0>
+ <ptreeopt.tree.PTree object at 0x15552832e220>]",3,5,30,3,10
+600,29,0.96,"[<ptreeopt.tree.PTree object at 0x15552832e610>
+ <ptreeopt.tree.PTree object at 0x15552832ecd0>
+ <ptreeopt.tree.PTree object at 0x15552832e220>]",3,5,30,3,10
+700,34,0.96,"[<ptreeopt.tree.PTree object at 0x15552832e610>
+ <ptreeopt.tree.PTree object at 0x15552832ecd0>
+ <ptreeopt.tree.PTree object at 0x15552832e220>]",3,5,30,3,10
+800,39,0.96,"[<ptreeopt.tree.PTree object at 0x15552832e610>
+ <ptreeopt.tree.PTree object at 0x15552832ecd0>
+ <ptreeopt.tree.PTree object at 0x15552832e220>]",3,5,30,3,10
+900,44,0.96,"[<ptreeopt.tree.PTree object at 0x15552832e610>
+ <ptreeopt.tree.PTree object at 0x15552832ecd0>
+ <ptreeopt.tree.PTree object at 0x15552832e220>]",3,5,30,3,10
+1000,49,0.96,"[<ptreeopt.tree.PTree object at 0x15552832e610>
+ <ptreeopt.tree.PTree object at 0x15552832ecd0>
+ <ptreeopt.tree.PTree object at 0x15552832e220>]",3,5,30,3,10
+1100,54,0.96,"[<ptreeopt.tree.PTree object at 0x15552832e610>
+ <ptreeopt.tree.PTree object at 0x15552832ecd0>
+ <ptreeopt.tree.PTree object at 0x15552832e220>]",3,5,30,3,10
+1200,59,0.96,"[<ptreeopt.tree.PTree object at 0x15552832e610>
+ <ptreeopt.tree.PTree object at 0x15552832ecd0>
+ <ptreeopt.tree.PTree object at 0x15552832e220>]",3,5,30,3,10
+1300,64,0.95,"[<ptreeopt.tree.PTree object at 0x155528299730>
+ <ptreeopt.tree.PTree object at 0x155528299640>
+ <ptreeopt.tree.PTree object at 0x1555282997c0>]",3,5,30,3,10
+1400,69,0.95,"[<ptreeopt.tree.PTree object at 0x155528299730>
+ <ptreeopt.tree.PTree object at 0x155528299640>
+ <ptreeopt.tree.PTree object at 0x1555282997c0>]",3,5,30,3,10
+1500,74,0.95,"[<ptreeopt.tree.PTree object at 0x155528299730>
+ <ptreeopt.tree.PTree object at 0x155528299640>
+ <ptreeopt.tree.PTree object at 0x1555282997c0>]",3,5,30,3,10
+1600,79,0.95,"[<ptreeopt.tree.PTree object at 0x155528299730>
+ <ptreeopt.tree.PTree object at 0x155528299640>
+ <ptreeopt.tree.PTree object at 0x1555282997c0>]",3,5,30,3,10
+1700,84,0.95,"[<ptreeopt.tree.PTree object at 0x155528299730>
+ <ptreeopt.tree.PTree object at 0x155528299640>
+ <ptreeopt.tree.PTree object at 0x1555282997c0>]",3,5,30,3,10
+1800,89,0.95,"[<ptreeopt.tree.PTree object at 0x155528299730>
+ <ptreeopt.tree.PTree object at 0x155528299640>
+ <ptreeopt.tree.PTree object at 0x1555282997c0>]",3,5,30,3,10
+1900,94,0.95,"[<ptreeopt.tree.PTree object at 0x155528299730>
+ <ptreeopt.tree.PTree object at 0x155528299640>
+ <ptreeopt.tree.PTree object at 0x1555282997c0>]",3,5,30,3,10
+2000,99,0.95,"[<ptreeopt.tree.PTree object at 0x155528299730>
+ <ptreeopt.tree.PTree object at 0x155528299640>
+ <ptreeopt.tree.PTree object at 0x1555282997c0>]",3,5,30,3,10
+2100,104,0.95,"[<ptreeopt.tree.PTree object at 0x155528299730>
+ <ptreeopt.tree.PTree object at 0x155528299640>
+ <ptreeopt.tree.PTree object at 0x1555282997c0>]",3,5,30,3,10
+2200,109,0.95,"[<ptreeopt.tree.PTree object at 0x155528299730>
+ <ptreeopt.tree.PTree object at 0x155528299640>
+ <ptreeopt.tree.PTree object at 0x1555282997c0>]",3,5,30,3,10
+2300,114,0.95,"[<ptreeopt.tree.PTree object at 0x155528299730>
+ <ptreeopt.tree.PTree object at 0x155528299640>
+ <ptreeopt.tree.PTree object at 0x1555282997c0>]",3,5,30,3,10
+2400,119,0.95,"[<ptreeopt.tree.PTree object at 0x155528299730>
+ <ptreeopt.tree.PTree object at 0x155528299640>
+ <ptreeopt.tree.PTree object at 0x1555282997c0>]",3,5,30,3,10
+2500,124,0.95,"[<ptreeopt.tree.PTree object at 0x155528299730>
+ <ptreeopt.tree.PTree object at 0x155528299640>
+ <ptreeopt.tree.PTree object at 0x1555282997c0>]",3,5,30,3,10
+2600,129,0.95,"[<ptreeopt.tree.PTree object at 0x155528299730>
+ <ptreeopt.tree.PTree object at 0x155528299640>
+ <ptreeopt.tree.PTree object at 0x1555282997c0>]",3,5,30,3,10
+2700,134,0.95,"[<ptreeopt.tree.PTree object at 0x155528299730>
+ <ptreeopt.tree.PTree object at 0x155528299640>
+ <ptreeopt.tree.PTree object at 0x1555282997c0>]",3,5,30,3,10
+2800,139,0.95,"[<ptreeopt.tree.PTree object at 0x155528299730>
+ <ptreeopt.tree.PTree object at 0x155528299640>
+ <ptreeopt.tree.PTree object at 0x1555282997c0>]",3,5,30,3,10
+2900,144,0.95,"[<ptreeopt.tree.PTree object at 0x155528299730>
+ <ptreeopt.tree.PTree object at 0x155528299640>
+ <ptreeopt.tree.PTree object at 0x1555282997c0>]",3,5,30,3,10
+3000,149,0.95,"[<ptreeopt.tree.PTree object at 0x155528299730>
+ <ptreeopt.tree.PTree object at 0x155528299640>
+ <ptreeopt.tree.PTree object at 0x1555282997c0>]",3,5,30,3,10
+3100,154,0.95,"[<ptreeopt.tree.PTree object at 0x155528299730>
+ <ptreeopt.tree.PTree object at 0x155528299640>
+ <ptreeopt.tree.PTree object at 0x1555282997c0>]",3,5,30,3,10
+3200,159,0.95,"[<ptreeopt.tree.PTree object at 0x155528299730>
+ <ptreeopt.tree.PTree object at 0x155528299640>
+ <ptreeopt.tree.PTree object at 0x1555282997c0>]",3,5,30,3,10
+3300,164,0.95,"[<ptreeopt.tree.PTree object at 0x155528299730>
+ <ptreeopt.tree.PTree object at 0x155528299640>
+ <ptreeopt.tree.PTree object at 0x1555282997c0>]",3,5,30,3,10
+3400,169,0.95,"[<ptreeopt.tree.PTree object at 0x155528299730>
+ <ptreeopt.tree.PTree object at 0x155528299640>
+ <ptreeopt.tree.PTree object at 0x1555282997c0>]",3,5,30,3,10
+3500,174,0.95,"[<ptreeopt.tree.PTree object at 0x155528299730>
+ <ptreeopt.tree.PTree object at 0x155528299640>
+ <ptreeopt.tree.PTree object at 0x1555282997c0>]",3,5,30,3,10
+3600,179,0.95,"[<ptreeopt.tree.PTree object at 0x155528299730>
+ <ptreeopt.tree.PTree object at 0x155528299640>
+ <ptreeopt.tree.PTree object at 0x1555282997c0>]",3,5,30,3,10
+3700,184,0.95,"[<ptreeopt.tree.PTree object at 0x155528299730>
+ <ptreeopt.tree.PTree object at 0x155528299640>
+ <ptreeopt.tree.PTree object at 0x1555282997c0>]",3,5,30,3,10
+3800,189,0.95,"[<ptreeopt.tree.PTree object at 0x155528299730>
+ <ptreeopt.tree.PTree object at 0x155528299640>
+ <ptreeopt.tree.PTree object at 0x1555282997c0>]",3,5,30,3,10
+3900,194,0.95,"[<ptreeopt.tree.PTree object at 0x155528299730>
+ <ptreeopt.tree.PTree object at 0x155528299640>
+ <ptreeopt.tree.PTree object at 0x1555282997c0>]",3,5,30,3,10
+4000,199,0.95,"[<ptreeopt.tree.PTree object at 0x155528299730>
+ <ptreeopt.tree.PTree object at 0x155528299640>
+ <ptreeopt.tree.PTree object at 0x1555282997c0>]",3,5,30,3,10
+4100,204,0.95,"[<ptreeopt.tree.PTree object at 0x155528299730>
+ <ptreeopt.tree.PTree object at 0x155528299640>
+ <ptreeopt.tree.PTree object at 0x1555282997c0>]",3,5,30,3,10
+4200,209,0.95,"[<ptreeopt.tree.PTree object at 0x155528299730>
+ <ptreeopt.tree.PTree object at 0x155528299640>
+ <ptreeopt.tree.PTree object at 0x1555282997c0>]",3,5,30,3,10
+4300,214,0.95,"[<ptreeopt.tree.PTree object at 0x155528299730>
+ <ptreeopt.tree.PTree object at 0x155528299640>
+ <ptreeopt.tree.PTree object at 0x1555282997c0>]",3,5,30,3,10
+4400,219,0.95,"[<ptreeopt.tree.PTree object at 0x155528299730>
+ <ptreeopt.tree.PTree object at 0x155528299640>
+ <ptreeopt.tree.PTree object at 0x1555282997c0>]",3,5,30,3,10
+4500,224,0.95,"[<ptreeopt.tree.PTree object at 0x155528299730>
+ <ptreeopt.tree.PTree object at 0x155528299640>
+ <ptreeopt.tree.PTree object at 0x1555282997c0>]",3,5,30,3,10
+4600,229,0.95,"[<ptreeopt.tree.PTree object at 0x155528299730>
+ <ptreeopt.tree.PTree object at 0x155528299640>
+ <ptreeopt.tree.PTree object at 0x1555282997c0>]",3,5,30,3,10
+4700,234,0.95,"[<ptreeopt.tree.PTree object at 0x155528299730>
+ <ptreeopt.tree.PTree object at 0x155528299640>
+ <ptreeopt.tree.PTree object at 0x1555282997c0>]",3,5,30,3,10
+4800,239,0.95,"[<ptreeopt.tree.PTree object at 0x155528299730>
+ <ptreeopt.tree.PTree object at 0x155528299640>
+ <ptreeopt.tree.PTree object at 0x1555282997c0>]",3,5,30,3,10
+4900,244,0.95,"[<ptreeopt.tree.PTree object at 0x155528299730>
+ <ptreeopt.tree.PTree object at 0x155528299640>
+ <ptreeopt.tree.PTree object at 0x1555282997c0>]",3,5,30,3,10
+5000,249,0.95,"[<ptreeopt.tree.PTree object at 0x155528299730>
+ <ptreeopt.tree.PTree object at 0x155528299640>
+ <ptreeopt.tree.PTree object at 0x1555282997c0>]",3,5,30,3,10
+5100,254,0.95,"[<ptreeopt.tree.PTree object at 0x155528299730>
+ <ptreeopt.tree.PTree object at 0x155528299640>
+ <ptreeopt.tree.PTree object at 0x1555282997c0>]",3,5,30,3,10
+5200,259,0.95,"[<ptreeopt.tree.PTree object at 0x155528299730>
+ <ptreeopt.tree.PTree object at 0x155528299640>
+ <ptreeopt.tree.PTree object at 0x1555282997c0>]",3,5,30,3,10
+5300,264,0.95,"[<ptreeopt.tree.PTree object at 0x155528299730>
+ <ptreeopt.tree.PTree object at 0x155528299640>
+ <ptreeopt.tree.PTree object at 0x1555282997c0>]",3,5,30,3,10
+5400,269,0.95,"[<ptreeopt.tree.PTree object at 0x155528299730>
+ <ptreeopt.tree.PTree object at 0x155528299640>
+ <ptreeopt.tree.PTree object at 0x1555282997c0>]",3,5,30,3,10
+5500,274,0.95,"[<ptreeopt.tree.PTree object at 0x155528299730>
+ <ptreeopt.tree.PTree object at 0x155528299640>
+ <ptreeopt.tree.PTree object at 0x1555282997c0>]",3,5,30,3,10
+5600,279,0.95,"[<ptreeopt.tree.PTree object at 0x155528299730>
+ <ptreeopt.tree.PTree object at 0x155528299640>
+ <ptreeopt.tree.PTree object at 0x1555282997c0>]",3,5,30,3,10
+5700,284,0.95,"[<ptreeopt.tree.PTree object at 0x155528299730>
+ <ptreeopt.tree.PTree object at 0x155528299640>
+ <ptreeopt.tree.PTree object at 0x1555282997c0>]",3,5,30,3,10
+5800,289,0.95,"[<ptreeopt.tree.PTree object at 0x155528299730>
+ <ptreeopt.tree.PTree object at 0x155528299640>
+ <ptreeopt.tree.PTree object at 0x1555282997c0>]",3,5,30,3,10
+5900,294,0.95,"[<ptreeopt.tree.PTree object at 0x155528299730>
+ <ptreeopt.tree.PTree object at 0x155528299640>
+ <ptreeopt.tree.PTree object at 0x1555282997c0>]",3,5,30,3,10
+6000,299,0.95,"[<ptreeopt.tree.PTree object at 0x155528299730>
+ <ptreeopt.tree.PTree object at 0x155528299640>
+ <ptreeopt.tree.PTree object at 0x1555282997c0>]",3,5,30,3,10
+6100,305,0.95,"[<ptreeopt.tree.PTree object at 0x155528299730>
+ <ptreeopt.tree.PTree object at 0x155528299640>
+ <ptreeopt.tree.PTree object at 0x1555282997c0>]",3,5,30,3,10
+6200,310,0.95,"[<ptreeopt.tree.PTree object at 0x155528299730>
+ <ptreeopt.tree.PTree object at 0x155528299640>
+ <ptreeopt.tree.PTree object at 0x1555282997c0>]",3,5,30,3,10
+6300,315,0.95,"[<ptreeopt.tree.PTree object at 0x155528299730>
+ <ptreeopt.tree.PTree object at 0x155528299640>
+ <ptreeopt.tree.PTree object at 0x1555282997c0>]",3,5,30,3,10
+6400,320,0.95,"[<ptreeopt.tree.PTree object at 0x155528299730>
+ <ptreeopt.tree.PTree object at 0x155528299640>
+ <ptreeopt.tree.PTree object at 0x1555282997c0>]",3,5,30,3,10
+6500,326,0.95,"[<ptreeopt.tree.PTree object at 0x155528299730>
+ <ptreeopt.tree.PTree object at 0x155528299640>
+ <ptreeopt.tree.PTree object at 0x1555282997c0>]",3,5,30,3,10
+6600,330,0.95,"[<ptreeopt.tree.PTree object at 0x155528299730>
+ <ptreeopt.tree.PTree object at 0x155528299640>
+ <ptreeopt.tree.PTree object at 0x1555282997c0>]",3,5,30,3,10
+6700,335,0.95,"[<ptreeopt.tree.PTree object at 0x155528299730>
+ <ptreeopt.tree.PTree object at 0x155528299640>
+ <ptreeopt.tree.PTree object at 0x1555282997c0>]",3,5,30,3,10
+6800,340,0.95,"[<ptreeopt.tree.PTree object at 0x155528299730>
+ <ptreeopt.tree.PTree object at 0x155528299640>
+ <ptreeopt.tree.PTree object at 0x1555282997c0>]",3,5,30,3,10
+6900,345,0.95,"[<ptreeopt.tree.PTree object at 0x155528299730>
+ <ptreeopt.tree.PTree object at 0x155528299640>
+ <ptreeopt.tree.PTree object at 0x1555282997c0>]",3,5,30,3,10
+7000,350,0.95,"[<ptreeopt.tree.PTree object at 0x155528299730>
+ <ptreeopt.tree.PTree object at 0x155528299640>
+ <ptreeopt.tree.PTree object at 0x1555282997c0>]",3,5,30,3,10
+7100,355,0.95,"[<ptreeopt.tree.PTree object at 0x155528299730>
+ <ptreeopt.tree.PTree object at 0x155528299640>
+ <ptreeopt.tree.PTree object at 0x1555282997c0>]",3,5,30,3,10
+7200,360,0.95,"[<ptreeopt.tree.PTree object at 0x155528299730>
+ <ptreeopt.tree.PTree object at 0x155528299640>
+ <ptreeopt.tree.PTree object at 0x1555282997c0>]",3,5,30,3,10
+7300,365,0.95,"[<ptreeopt.tree.PTree object at 0x155528299730>
+ <ptreeopt.tree.PTree object at 0x155528299640>
+ <ptreeopt.tree.PTree object at 0x1555282997c0>]",3,5,30,3,10
+7400,370,0.95,"[<ptreeopt.tree.PTree object at 0x155528299730>
+ <ptreeopt.tree.PTree object at 0x155528299640>
+ <ptreeopt.tree.PTree object at 0x1555282997c0>]",3,5,30,3,10
+7500,375,0.95,"[<ptreeopt.tree.PTree object at 0x155528299730>
+ <ptreeopt.tree.PTree object at 0x155528299640>
+ <ptreeopt.tree.PTree object at 0x1555282997c0>]",3,5,30,3,10
+7600,380,0.95,"[<ptreeopt.tree.PTree object at 0x155528299730>
+ <ptreeopt.tree.PTree object at 0x155528299640>
+ <ptreeopt.tree.PTree object at 0x1555282997c0>]",3,5,30,3,10
+7700,385,0.95,"[<ptreeopt.tree.PTree object at 0x155528299730>
+ <ptreeopt.tree.PTree object at 0x155528299640>
+ <ptreeopt.tree.PTree object at 0x1555282997c0>]",3,5,30,3,10
+7800,390,0.95,"[<ptreeopt.tree.PTree object at 0x155528299730>
+ <ptreeopt.tree.PTree object at 0x155528299640>
+ <ptreeopt.tree.PTree object at 0x1555282997c0>]",3,5,30,3,10
+7900,395,0.95,"[<ptreeopt.tree.PTree object at 0x155528299730>
+ <ptreeopt.tree.PTree object at 0x155528299640>
+ <ptreeopt.tree.PTree object at 0x1555282997c0>]",3,5,30,3,10
+8000,400,0.95,"[<ptreeopt.tree.PTree object at 0x155528299730>
+ <ptreeopt.tree.PTree object at 0x155528299640>
+ <ptreeopt.tree.PTree object at 0x1555282997c0>]",3,5,30,3,10
+8100,405,0.95,"[<ptreeopt.tree.PTree object at 0x155528299730>
+ <ptreeopt.tree.PTree object at 0x155528299640>
+ <ptreeopt.tree.PTree object at 0x1555282997c0>]",3,5,30,3,10
+8200,410,0.95,"[<ptreeopt.tree.PTree object at 0x155528299730>
+ <ptreeopt.tree.PTree object at 0x155528299640>
+ <ptreeopt.tree.PTree object at 0x1555282997c0>]",3,5,30,3,10
+8300,415,0.95,"[<ptreeopt.tree.PTree object at 0x155528299730>
+ <ptreeopt.tree.PTree object at 0x155528299640>
+ <ptreeopt.tree.PTree object at 0x1555282997c0>]",3,5,30,3,10
+8400,420,0.95,"[<ptreeopt.tree.PTree object at 0x155528299730>
+ <ptreeopt.tree.PTree object at 0x155528299640>
+ <ptreeopt.tree.PTree object at 0x1555282997c0>]",3,5,30,3,10
+8500,425,0.95,"[<ptreeopt.tree.PTree object at 0x155528299730>
+ <ptreeopt.tree.PTree object at 0x155528299640>
+ <ptreeopt.tree.PTree object at 0x1555282997c0>]",3,5,30,3,10
+8600,430,0.95,"[<ptreeopt.tree.PTree object at 0x155528299730>
+ <ptreeopt.tree.PTree object at 0x155528299640>
+ <ptreeopt.tree.PTree object at 0x1555282997c0>]",3,5,30,3,10
+8700,435,0.95,"[<ptreeopt.tree.PTree object at 0x155528299730>
+ <ptreeopt.tree.PTree object at 0x155528299640>
+ <ptreeopt.tree.PTree object at 0x1555282997c0>]",3,5,30,3,10
+8800,440,0.95,"[<ptreeopt.tree.PTree object at 0x155528299730>
+ <ptreeopt.tree.PTree object at 0x155528299640>
+ <ptreeopt.tree.PTree object at 0x1555282997c0>]",3,5,30,3,10
+8900,445,0.95,"[<ptreeopt.tree.PTree object at 0x155528299730>
+ <ptreeopt.tree.PTree object at 0x155528299640>
+ <ptreeopt.tree.PTree object at 0x1555282997c0>]",3,5,30,3,10
+9000,450,0.95,"[<ptreeopt.tree.PTree object at 0x155528299730>
+ <ptreeopt.tree.PTree object at 0x155528299640>
+ <ptreeopt.tree.PTree object at 0x1555282997c0>]",3,5,30,3,10
+9100,455,0.95,"[<ptreeopt.tree.PTree object at 0x155528299730>
+ <ptreeopt.tree.PTree object at 0x155528299640>
+ <ptreeopt.tree.PTree object at 0x1555282997c0>]",3,5,30,3,10
+9200,460,0.95,"[<ptreeopt.tree.PTree object at 0x155528299730>
+ <ptreeopt.tree.PTree object at 0x155528299640>
+ <ptreeopt.tree.PTree object at 0x1555282997c0>]",3,5,30,3,10
+9300,465,0.95,"[<ptreeopt.tree.PTree object at 0x155528299730>
+ <ptreeopt.tree.PTree object at 0x155528299640>
+ <ptreeopt.tree.PTree object at 0x1555282997c0>]",3,5,30,3,10
+9400,470,0.95,"[<ptreeopt.tree.PTree object at 0x155528299730>
+ <ptreeopt.tree.PTree object at 0x155528299640>
+ <ptreeopt.tree.PTree object at 0x1555282997c0>]",3,5,30,3,10
+9500,476,0.95,"[<ptreeopt.tree.PTree object at 0x155528299730>
+ <ptreeopt.tree.PTree object at 0x155528299640>
+ <ptreeopt.tree.PTree object at 0x1555282997c0>]",3,5,30,3,10
+9600,481,0.95,"[<ptreeopt.tree.PTree object at 0x155528299730>
+ <ptreeopt.tree.PTree object at 0x155528299640>
+ <ptreeopt.tree.PTree object at 0x1555282997c0>]",3,5,30,3,10
+9700,486,0.95,"[<ptreeopt.tree.PTree object at 0x155528299730>
+ <ptreeopt.tree.PTree object at 0x155528299640>
+ <ptreeopt.tree.PTree object at 0x1555282997c0>]",3,5,30,3,10
+9800,491,0.95,"[<ptreeopt.tree.PTree object at 0x155528299730>
+ <ptreeopt.tree.PTree object at 0x155528299640>
+ <ptreeopt.tree.PTree object at 0x1555282997c0>]",3,5,30,3,10
+9900,496,0.95,"[<ptreeopt.tree.PTree object at 0x155528299730>
+ <ptreeopt.tree.PTree object at 0x155528299640>
+ <ptreeopt.tree.PTree object at 0x1555282997c0>]",3,5,30,3,10
+10000,500,0.95,"[<ptreeopt.tree.PTree object at 0x155528299730>
+ <ptreeopt.tree.PTree object at 0x155528299640>
+ <ptreeopt.tree.PTree object at 0x1555282997c0>]",3,5,30,3,10
+100,5,0.97,"[<ptreeopt.tree.PTree object at 0x155528436b50>
+ <ptreeopt.tree.PTree object at 0x155528436d30>
+ <ptreeopt.tree.PTree object at 0x155528436cd0>]",3,6,30,3,10
+200,10,0.97,"[<ptreeopt.tree.PTree object at 0x155528436b50>
+ <ptreeopt.tree.PTree object at 0x155528436d30>
+ <ptreeopt.tree.PTree object at 0x155528436cd0>]",3,6,30,3,10
+300,15,0.96,"[<ptreeopt.tree.PTree object at 0x155528244820>
+ <ptreeopt.tree.PTree object at 0x155528244b20>
+ <ptreeopt.tree.PTree object at 0x155528244730>]",3,6,30,3,10
+400,20,0.96,"[<ptreeopt.tree.PTree object at 0x155528244820>
+ <ptreeopt.tree.PTree object at 0x155528244b20>
+ <ptreeopt.tree.PTree object at 0x155528244730>]",3,6,30,3,10
+500,25,0.96,"[<ptreeopt.tree.PTree object at 0x155528244820>
+ <ptreeopt.tree.PTree object at 0x155528244b20>
+ <ptreeopt.tree.PTree object at 0x155528244730>]",3,6,30,3,10
+600,30,0.96,"[<ptreeopt.tree.PTree object at 0x155528244820>
+ <ptreeopt.tree.PTree object at 0x155528244b20>
+ <ptreeopt.tree.PTree object at 0x155528244730>]",3,6,30,3,10
+700,34,0.96,"[<ptreeopt.tree.PTree object at 0x155528244820>
+ <ptreeopt.tree.PTree object at 0x155528244b20>
+ <ptreeopt.tree.PTree object at 0x155528244730>]",3,6,30,3,10
+800,39,0.96,"[<ptreeopt.tree.PTree object at 0x155528244820>
+ <ptreeopt.tree.PTree object at 0x155528244b20>
+ <ptreeopt.tree.PTree object at 0x155528244730>]",3,6,30,3,10
+900,44,0.96,"[<ptreeopt.tree.PTree object at 0x155528244820>
+ <ptreeopt.tree.PTree object at 0x155528244b20>
+ <ptreeopt.tree.PTree object at 0x155528244730>]",3,6,30,3,10
+1000,49,0.96,"[<ptreeopt.tree.PTree object at 0x155528244820>
+ <ptreeopt.tree.PTree object at 0x155528244b20>
+ <ptreeopt.tree.PTree object at 0x155528244730>]",3,6,30,3,10
+1100,54,0.96,"[<ptreeopt.tree.PTree object at 0x155528244820>
+ <ptreeopt.tree.PTree object at 0x155528244b20>
+ <ptreeopt.tree.PTree object at 0x155528244730>]",3,6,30,3,10
+1200,59,0.96,"[<ptreeopt.tree.PTree object at 0x155528244820>
+ <ptreeopt.tree.PTree object at 0x155528244b20>
+ <ptreeopt.tree.PTree object at 0x155528244730>]",3,6,30,3,10
+1300,64,0.96,"[<ptreeopt.tree.PTree object at 0x155528244820>
+ <ptreeopt.tree.PTree object at 0x155528244b20>
+ <ptreeopt.tree.PTree object at 0x155528244730>]",3,6,30,3,10
+1400,69,0.96,"[<ptreeopt.tree.PTree object at 0x155528244820>
+ <ptreeopt.tree.PTree object at 0x155528244b20>
+ <ptreeopt.tree.PTree object at 0x155528244730>]",3,6,30,3,10
+1500,74,0.96,"[<ptreeopt.tree.PTree object at 0x155528244820>
+ <ptreeopt.tree.PTree object at 0x155528244b20>
+ <ptreeopt.tree.PTree object at 0x155528244730>]",3,6,30,3,10
+1600,79,0.96,"[<ptreeopt.tree.PTree object at 0x155528244820>
+ <ptreeopt.tree.PTree object at 0x155528244b20>
+ <ptreeopt.tree.PTree object at 0x155528244730>]",3,6,30,3,10
+1700,83,0.96,"[<ptreeopt.tree.PTree object at 0x155528244820>
+ <ptreeopt.tree.PTree object at 0x155528244b20>
+ <ptreeopt.tree.PTree object at 0x155528244730>]",3,6,30,3,10
+1800,89,0.95,"[<ptreeopt.tree.PTree object at 0x1555282d1d60>
+ <ptreeopt.tree.PTree object at 0x1555282d1ac0>
+ <ptreeopt.tree.PTree object at 0x1555282d15b0>]",3,6,30,3,10
+1900,93,0.95,"[<ptreeopt.tree.PTree object at 0x1555282d1d60>
+ <ptreeopt.tree.PTree object at 0x1555282d1ac0>
+ <ptreeopt.tree.PTree object at 0x1555282d15b0>]",3,6,30,3,10
+2000,99,0.95,"[<ptreeopt.tree.PTree object at 0x1555282d1d60>
+ <ptreeopt.tree.PTree object at 0x1555282d1ac0>
+ <ptreeopt.tree.PTree object at 0x1555282d15b0>]",3,6,30,3,10
+2100,104,0.95,"[<ptreeopt.tree.PTree object at 0x1555282d1d60>
+ <ptreeopt.tree.PTree object at 0x1555282d1ac0>
+ <ptreeopt.tree.PTree object at 0x1555282d15b0>]",3,6,30,3,10
+2200,108,0.95,"[<ptreeopt.tree.PTree object at 0x1555282d1d60>
+ <ptreeopt.tree.PTree object at 0x1555282d1ac0>
+ <ptreeopt.tree.PTree object at 0x1555282d15b0>]",3,6,30,3,10
+2300,113,0.95,"[<ptreeopt.tree.PTree object at 0x1555282d1d60>
+ <ptreeopt.tree.PTree object at 0x1555282d1ac0>
+ <ptreeopt.tree.PTree object at 0x1555282d15b0>]",3,6,30,3,10
+2400,118,0.95,"[<ptreeopt.tree.PTree object at 0x1555282d1d60>
+ <ptreeopt.tree.PTree object at 0x1555282d1ac0>
+ <ptreeopt.tree.PTree object at 0x1555282d15b0>]",3,6,30,3,10
+2500,123,0.95,"[<ptreeopt.tree.PTree object at 0x1555282d1d60>
+ <ptreeopt.tree.PTree object at 0x1555282d1ac0>
+ <ptreeopt.tree.PTree object at 0x1555282d15b0>]",3,6,30,3,10
+2600,128,0.95,"[<ptreeopt.tree.PTree object at 0x1555282d1d60>
+ <ptreeopt.tree.PTree object at 0x1555282d1ac0>
+ <ptreeopt.tree.PTree object at 0x1555282d15b0>]",3,6,30,3,10
+2700,133,0.95,"[<ptreeopt.tree.PTree object at 0x1555282d1d60>
+ <ptreeopt.tree.PTree object at 0x1555282d1ac0>
+ <ptreeopt.tree.PTree object at 0x1555282d15b0>]",3,6,30,3,10
+2800,138,0.95,"[<ptreeopt.tree.PTree object at 0x1555282d1d60>
+ <ptreeopt.tree.PTree object at 0x1555282d1ac0>
+ <ptreeopt.tree.PTree object at 0x1555282d15b0>]",3,6,30,3,10
+2900,143,0.95,"[<ptreeopt.tree.PTree object at 0x1555282d1d60>
+ <ptreeopt.tree.PTree object at 0x1555282d1ac0>
+ <ptreeopt.tree.PTree object at 0x1555282d15b0>]",3,6,30,3,10
+3000,148,0.95,"[<ptreeopt.tree.PTree object at 0x1555282d1d60>
+ <ptreeopt.tree.PTree object at 0x1555282d1ac0>
+ <ptreeopt.tree.PTree object at 0x1555282d15b0>]",3,6,30,3,10
+3100,153,0.95,"[<ptreeopt.tree.PTree object at 0x1555282d1d60>
+ <ptreeopt.tree.PTree object at 0x1555282d1ac0>
+ <ptreeopt.tree.PTree object at 0x1555282d15b0>]",3,6,30,3,10
+3200,158,0.95,"[<ptreeopt.tree.PTree object at 0x1555282d1d60>
+ <ptreeopt.tree.PTree object at 0x1555282d1ac0>
+ <ptreeopt.tree.PTree object at 0x1555282d15b0>]",3,6,30,3,10
+3300,163,0.95,"[<ptreeopt.tree.PTree object at 0x1555282d1d60>
+ <ptreeopt.tree.PTree object at 0x1555282d1ac0>
+ <ptreeopt.tree.PTree object at 0x1555282d15b0>]",3,6,30,3,10
+3400,168,0.95,"[<ptreeopt.tree.PTree object at 0x1555282d1d60>
+ <ptreeopt.tree.PTree object at 0x1555282d1ac0>
+ <ptreeopt.tree.PTree object at 0x1555282d15b0>]",3,6,30,3,10
+3500,173,0.95,"[<ptreeopt.tree.PTree object at 0x1555282d1d60>
+ <ptreeopt.tree.PTree object at 0x1555282d1ac0>
+ <ptreeopt.tree.PTree object at 0x1555282d15b0>]",3,6,30,3,10
+3600,178,0.95,"[<ptreeopt.tree.PTree object at 0x1555282d1d60>
+ <ptreeopt.tree.PTree object at 0x1555282d1ac0>
+ <ptreeopt.tree.PTree object at 0x1555282d15b0>]",3,6,30,3,10
+3700,183,0.95,"[<ptreeopt.tree.PTree object at 0x1555282d1d60>
+ <ptreeopt.tree.PTree object at 0x1555282d1ac0>
+ <ptreeopt.tree.PTree object at 0x1555282d15b0>]",3,6,30,3,10
+3800,188,0.95,"[<ptreeopt.tree.PTree object at 0x1555282d1d60>
+ <ptreeopt.tree.PTree object at 0x1555282d1ac0>
+ <ptreeopt.tree.PTree object at 0x1555282d15b0>]",3,6,30,3,10
+3900,193,0.95,"[<ptreeopt.tree.PTree object at 0x1555282d1d60>
+ <ptreeopt.tree.PTree object at 0x1555282d1ac0>
+ <ptreeopt.tree.PTree object at 0x1555282d15b0>]",3,6,30,3,10
+4000,198,0.95,"[<ptreeopt.tree.PTree object at 0x1555282d1d60>
+ <ptreeopt.tree.PTree object at 0x1555282d1ac0>
+ <ptreeopt.tree.PTree object at 0x1555282d15b0>]",3,6,30,3,10
+4100,203,0.95,"[<ptreeopt.tree.PTree object at 0x1555282d1d60>
+ <ptreeopt.tree.PTree object at 0x1555282d1ac0>
+ <ptreeopt.tree.PTree object at 0x1555282d15b0>]",3,6,30,3,10
+4200,209,0.95,"[<ptreeopt.tree.PTree object at 0x1555282d1d60>
+ <ptreeopt.tree.PTree object at 0x1555282d1ac0>
+ <ptreeopt.tree.PTree object at 0x1555282d15b0>]",3,6,30,3,10
+4300,214,0.95,"[<ptreeopt.tree.PTree object at 0x1555282d1d60>
+ <ptreeopt.tree.PTree object at 0x1555282d1ac0>
+ <ptreeopt.tree.PTree object at 0x1555282d15b0>]",3,6,30,3,10
+4400,219,0.95,"[<ptreeopt.tree.PTree object at 0x1555282d1d60>
+ <ptreeopt.tree.PTree object at 0x1555282d1ac0>
+ <ptreeopt.tree.PTree object at 0x1555282d15b0>]",3,6,30,3,10
+4500,223,0.95,"[<ptreeopt.tree.PTree object at 0x1555282d1d60>
+ <ptreeopt.tree.PTree object at 0x1555282d1ac0>
+ <ptreeopt.tree.PTree object at 0x1555282d15b0>]",3,6,30,3,10
+4600,228,0.95,"[<ptreeopt.tree.PTree object at 0x1555282d1d60>
+ <ptreeopt.tree.PTree object at 0x1555282d1ac0>
+ <ptreeopt.tree.PTree object at 0x1555282d15b0>]",3,6,30,3,10
+4700,233,0.95,"[<ptreeopt.tree.PTree object at 0x1555282d1d60>
+ <ptreeopt.tree.PTree object at 0x1555282d1ac0>
+ <ptreeopt.tree.PTree object at 0x1555282d15b0>]",3,6,30,3,10
+4800,238,0.95,"[<ptreeopt.tree.PTree object at 0x1555282d1d60>
+ <ptreeopt.tree.PTree object at 0x1555282d1ac0>
+ <ptreeopt.tree.PTree object at 0x1555282d15b0>]",3,6,30,3,10
+4900,243,0.95,"[<ptreeopt.tree.PTree object at 0x1555282d1d60>
+ <ptreeopt.tree.PTree object at 0x1555282d1ac0>
+ <ptreeopt.tree.PTree object at 0x1555282d15b0>]",3,6,30,3,10
+5000,249,0.95,"[<ptreeopt.tree.PTree object at 0x1555282d1d60>
+ <ptreeopt.tree.PTree object at 0x1555282d1ac0>
+ <ptreeopt.tree.PTree object at 0x1555282d15b0>]",3,6,30,3,10
+5100,253,0.95,"[<ptreeopt.tree.PTree object at 0x1555282d1d60>
+ <ptreeopt.tree.PTree object at 0x1555282d1ac0>
+ <ptreeopt.tree.PTree object at 0x1555282d15b0>]",3,6,30,3,10
+5200,259,0.95,"[<ptreeopt.tree.PTree object at 0x1555282d1d60>
+ <ptreeopt.tree.PTree object at 0x1555282d1ac0>
+ <ptreeopt.tree.PTree object at 0x1555282d15b0>]",3,6,30,3,10
+5300,264,0.95,"[<ptreeopt.tree.PTree object at 0x1555282d1d60>
+ <ptreeopt.tree.PTree object at 0x1555282d1ac0>
+ <ptreeopt.tree.PTree object at 0x1555282d15b0>]",3,6,30,3,10
+5400,269,0.95,"[<ptreeopt.tree.PTree object at 0x1555282d1d60>
+ <ptreeopt.tree.PTree object at 0x1555282d1ac0>
+ <ptreeopt.tree.PTree object at 0x1555282d15b0>]",3,6,30,3,10
+5500,274,0.95,"[<ptreeopt.tree.PTree object at 0x1555282d1d60>
+ <ptreeopt.tree.PTree object at 0x1555282d1ac0>
+ <ptreeopt.tree.PTree object at 0x1555282d15b0>]",3,6,30,3,10
+5600,279,0.95,"[<ptreeopt.tree.PTree object at 0x1555282d1d60>
+ <ptreeopt.tree.PTree object at 0x1555282d1ac0>
+ <ptreeopt.tree.PTree object at 0x1555282d15b0>]",3,6,30,3,10
+5700,284,0.95,"[<ptreeopt.tree.PTree object at 0x1555282d1d60>
+ <ptreeopt.tree.PTree object at 0x1555282d1ac0>
+ <ptreeopt.tree.PTree object at 0x1555282d15b0>]",3,6,30,3,10
+5800,289,0.95,"[<ptreeopt.tree.PTree object at 0x1555282d1d60>
+ <ptreeopt.tree.PTree object at 0x1555282d1ac0>
+ <ptreeopt.tree.PTree object at 0x1555282d15b0>]",3,6,30,3,10
+5900,294,0.95,"[<ptreeopt.tree.PTree object at 0x1555282d1d60>
+ <ptreeopt.tree.PTree object at 0x1555282d1ac0>
+ <ptreeopt.tree.PTree object at 0x1555282d15b0>]",3,6,30,3,10
+6000,299,0.95,"[<ptreeopt.tree.PTree object at 0x1555282d1d60>
+ <ptreeopt.tree.PTree object at 0x1555282d1ac0>
+ <ptreeopt.tree.PTree object at 0x1555282d15b0>]",3,6,30,3,10
+6100,304,0.95,"[<ptreeopt.tree.PTree object at 0x1555282d1d60>
+ <ptreeopt.tree.PTree object at 0x1555282d1ac0>
+ <ptreeopt.tree.PTree object at 0x1555282d15b0>]",3,6,30,3,10
+6200,309,0.95,"[<ptreeopt.tree.PTree object at 0x1555282d1d60>
+ <ptreeopt.tree.PTree object at 0x1555282d1ac0>
+ <ptreeopt.tree.PTree object at 0x1555282d15b0>]",3,6,30,3,10
+6300,313,0.95,"[<ptreeopt.tree.PTree object at 0x1555282d1d60>
+ <ptreeopt.tree.PTree object at 0x1555282d1ac0>
+ <ptreeopt.tree.PTree object at 0x1555282d15b0>]",3,6,30,3,10
+6400,318,0.95,"[<ptreeopt.tree.PTree object at 0x1555282d1d60>
+ <ptreeopt.tree.PTree object at 0x1555282d1ac0>
+ <ptreeopt.tree.PTree object at 0x1555282d15b0>]",3,6,30,3,10
+6500,323,0.95,"[<ptreeopt.tree.PTree object at 0x1555282d1d60>
+ <ptreeopt.tree.PTree object at 0x1555282d1ac0>
+ <ptreeopt.tree.PTree object at 0x1555282d15b0>]",3,6,30,3,10
+6600,328,0.95,"[<ptreeopt.tree.PTree object at 0x1555282d1d60>
+ <ptreeopt.tree.PTree object at 0x1555282d1ac0>
+ <ptreeopt.tree.PTree object at 0x1555282d15b0>]",3,6,30,3,10
+6700,333,0.95,"[<ptreeopt.tree.PTree object at 0x1555282d1d60>
+ <ptreeopt.tree.PTree object at 0x1555282d1ac0>
+ <ptreeopt.tree.PTree object at 0x1555282d15b0>]",3,6,30,3,10
+6800,338,0.95,"[<ptreeopt.tree.PTree object at 0x1555282d1d60>
+ <ptreeopt.tree.PTree object at 0x1555282d1ac0>
+ <ptreeopt.tree.PTree object at 0x1555282d15b0>]",3,6,30,3,10
+6900,343,0.95,"[<ptreeopt.tree.PTree object at 0x1555282d1d60>
+ <ptreeopt.tree.PTree object at 0x1555282d1ac0>
+ <ptreeopt.tree.PTree object at 0x1555282d15b0>]",3,6,30,3,10
+7000,348,0.95,"[<ptreeopt.tree.PTree object at 0x1555282d1d60>
+ <ptreeopt.tree.PTree object at 0x1555282d1ac0>
+ <ptreeopt.tree.PTree object at 0x1555282d15b0>]",3,6,30,3,10
+7100,353,0.95,"[<ptreeopt.tree.PTree object at 0x1555282d1d60>
+ <ptreeopt.tree.PTree object at 0x1555282d1ac0>
+ <ptreeopt.tree.PTree object at 0x1555282d15b0>]",3,6,30,3,10
+7200,358,0.95,"[<ptreeopt.tree.PTree object at 0x1555282d1d60>
+ <ptreeopt.tree.PTree object at 0x1555282d1ac0>
+ <ptreeopt.tree.PTree object at 0x1555282d15b0>]",3,6,30,3,10
+7300,364,0.95,"[<ptreeopt.tree.PTree object at 0x1555282d1d60>
+ <ptreeopt.tree.PTree object at 0x1555282d1ac0>
+ <ptreeopt.tree.PTree object at 0x1555282d15b0>]",3,6,30,3,10
+7400,368,0.95,"[<ptreeopt.tree.PTree object at 0x1555282d1d60>
+ <ptreeopt.tree.PTree object at 0x1555282d1ac0>
+ <ptreeopt.tree.PTree object at 0x1555282d15b0>]",3,6,30,3,10
+7500,373,0.95,"[<ptreeopt.tree.PTree object at 0x1555282d1d60>
+ <ptreeopt.tree.PTree object at 0x1555282d1ac0>
+ <ptreeopt.tree.PTree object at 0x1555282d15b0>]",3,6,30,3,10
+7600,378,0.95,"[<ptreeopt.tree.PTree object at 0x1555282d1d60>
+ <ptreeopt.tree.PTree object at 0x1555282d1ac0>
+ <ptreeopt.tree.PTree object at 0x1555282d15b0>]",3,6,30,3,10
+7700,383,0.95,"[<ptreeopt.tree.PTree object at 0x1555282d1d60>
+ <ptreeopt.tree.PTree object at 0x1555282d1ac0>
+ <ptreeopt.tree.PTree object at 0x1555282d15b0>]",3,6,30,3,10
+7800,388,0.95,"[<ptreeopt.tree.PTree object at 0x1555282d1d60>
+ <ptreeopt.tree.PTree object at 0x1555282d1ac0>
+ <ptreeopt.tree.PTree object at 0x1555282d15b0>]",3,6,30,3,10
+7900,393,0.95,"[<ptreeopt.tree.PTree object at 0x1555282d1d60>
+ <ptreeopt.tree.PTree object at 0x1555282d1ac0>
+ <ptreeopt.tree.PTree object at 0x1555282d15b0>]",3,6,30,3,10
+8000,399,0.95,"[<ptreeopt.tree.PTree object at 0x1555282d1d60>
+ <ptreeopt.tree.PTree object at 0x1555282d1ac0>
+ <ptreeopt.tree.PTree object at 0x1555282d15b0>]",3,6,30,3,10
+8100,404,0.95,"[<ptreeopt.tree.PTree object at 0x1555282d1d60>
+ <ptreeopt.tree.PTree object at 0x1555282d1ac0>
+ <ptreeopt.tree.PTree object at 0x1555282d15b0>]",3,6,30,3,10
+8200,409,0.95,"[<ptreeopt.tree.PTree object at 0x1555282d1d60>
+ <ptreeopt.tree.PTree object at 0x1555282d1ac0>
+ <ptreeopt.tree.PTree object at 0x1555282d15b0>]",3,6,30,3,10
+8300,414,0.95,"[<ptreeopt.tree.PTree object at 0x1555282d1d60>
+ <ptreeopt.tree.PTree object at 0x1555282d1ac0>
+ <ptreeopt.tree.PTree object at 0x1555282d15b0>]",3,6,30,3,10
+8400,419,0.95,"[<ptreeopt.tree.PTree object at 0x1555282d1d60>
+ <ptreeopt.tree.PTree object at 0x1555282d1ac0>
+ <ptreeopt.tree.PTree object at 0x1555282d15b0>]",3,6,30,3,10
+8500,424,0.95,"[<ptreeopt.tree.PTree object at 0x1555282d1d60>
+ <ptreeopt.tree.PTree object at 0x1555282d1ac0>
+ <ptreeopt.tree.PTree object at 0x1555282d15b0>]",3,6,30,3,10
+8600,429,0.95,"[<ptreeopt.tree.PTree object at 0x1555282d1d60>
+ <ptreeopt.tree.PTree object at 0x1555282d1ac0>
+ <ptreeopt.tree.PTree object at 0x1555282d15b0>]",3,6,30,3,10
+8700,434,0.95,"[<ptreeopt.tree.PTree object at 0x1555282d1d60>
+ <ptreeopt.tree.PTree object at 0x1555282d1ac0>
+ <ptreeopt.tree.PTree object at 0x1555282d15b0>]",3,6,30,3,10
+8800,439,0.95,"[<ptreeopt.tree.PTree object at 0x1555282d1d60>
+ <ptreeopt.tree.PTree object at 0x1555282d1ac0>
+ <ptreeopt.tree.PTree object at 0x1555282d15b0>]",3,6,30,3,10
+8900,444,0.95,"[<ptreeopt.tree.PTree object at 0x1555282d1d60>
+ <ptreeopt.tree.PTree object at 0x1555282d1ac0>
+ <ptreeopt.tree.PTree object at 0x1555282d15b0>]",3,6,30,3,10
+9000,448,0.95,"[<ptreeopt.tree.PTree object at 0x1555282d1d60>
+ <ptreeopt.tree.PTree object at 0x1555282d1ac0>
+ <ptreeopt.tree.PTree object at 0x1555282d15b0>]",3,6,30,3,10
+9100,453,0.95,"[<ptreeopt.tree.PTree object at 0x1555282d1d60>
+ <ptreeopt.tree.PTree object at 0x1555282d1ac0>
+ <ptreeopt.tree.PTree object at 0x1555282d15b0>]",3,6,30,3,10
+9200,458,0.95,"[<ptreeopt.tree.PTree object at 0x1555282d1d60>
+ <ptreeopt.tree.PTree object at 0x1555282d1ac0>
+ <ptreeopt.tree.PTree object at 0x1555282d15b0>]",3,6,30,3,10
+9300,463,0.95,"[<ptreeopt.tree.PTree object at 0x1555282d1d60>
+ <ptreeopt.tree.PTree object at 0x1555282d1ac0>
+ <ptreeopt.tree.PTree object at 0x1555282d15b0>]",3,6,30,3,10
+9400,468,0.95,"[<ptreeopt.tree.PTree object at 0x1555282d1d60>
+ <ptreeopt.tree.PTree object at 0x1555282d1ac0>
+ <ptreeopt.tree.PTree object at 0x1555282d15b0>]",3,6,30,3,10
+9500,473,0.95,"[<ptreeopt.tree.PTree object at 0x1555282d1d60>
+ <ptreeopt.tree.PTree object at 0x1555282d1ac0>
+ <ptreeopt.tree.PTree object at 0x1555282d15b0>]",3,6,30,3,10
+9600,478,0.95,"[<ptreeopt.tree.PTree object at 0x1555282d1d60>
+ <ptreeopt.tree.PTree object at 0x1555282d1ac0>
+ <ptreeopt.tree.PTree object at 0x1555282d15b0>]",3,6,30,3,10
+9700,483,0.95,"[<ptreeopt.tree.PTree object at 0x1555282d1d60>
+ <ptreeopt.tree.PTree object at 0x1555282d1ac0>
+ <ptreeopt.tree.PTree object at 0x1555282d15b0>]",3,6,30,3,10
+9800,488,0.95,"[<ptreeopt.tree.PTree object at 0x1555282d1d60>
+ <ptreeopt.tree.PTree object at 0x1555282d1ac0>
+ <ptreeopt.tree.PTree object at 0x1555282d15b0>]",3,6,30,3,10
+9900,493,0.95,"[<ptreeopt.tree.PTree object at 0x1555282d1d60>
+ <ptreeopt.tree.PTree object at 0x1555282d1ac0>
+ <ptreeopt.tree.PTree object at 0x1555282d15b0>]",3,6,30,3,10
+10000,497,0.95,"[<ptreeopt.tree.PTree object at 0x1555282d1d60>
+ <ptreeopt.tree.PTree object at 0x1555282d1ac0>
+ <ptreeopt.tree.PTree object at 0x1555282d15b0>]",3,6,30,3,10
+100,4,0.97,"[<ptreeopt.tree.PTree object at 0x1555282e2280>
+ <ptreeopt.tree.PTree object at 0x1555282e24f0>
+ <ptreeopt.tree.PTree object at 0x1555282e2640>]",3,7,30,3,10
+200,10,0.96,"[<ptreeopt.tree.PTree object at 0x1555281ae220>
+ <ptreeopt.tree.PTree object at 0x1555281aed90>
+ <ptreeopt.tree.PTree object at 0x1555281ae040>]",3,7,30,3,10
+300,15,0.96,"[<ptreeopt.tree.PTree object at 0x1555281ae220>
+ <ptreeopt.tree.PTree object at 0x1555281aed90>
+ <ptreeopt.tree.PTree object at 0x1555281ae040>]",3,7,30,3,10
+400,20,0.96,"[<ptreeopt.tree.PTree object at 0x1555281ae220>
+ <ptreeopt.tree.PTree object at 0x1555281aed90>
+ <ptreeopt.tree.PTree object at 0x1555281ae040>]",3,7,30,3,10
+500,25,0.96,"[<ptreeopt.tree.PTree object at 0x1555281ae220>
+ <ptreeopt.tree.PTree object at 0x1555281aed90>
+ <ptreeopt.tree.PTree object at 0x1555281ae040>]",3,7,30,3,10
+600,30,0.96,"[<ptreeopt.tree.PTree object at 0x1555281ae220>
+ <ptreeopt.tree.PTree object at 0x1555281aed90>
+ <ptreeopt.tree.PTree object at 0x1555281ae040>]",3,7,30,3,10
+700,35,0.96,"[<ptreeopt.tree.PTree object at 0x1555281ae220>
+ <ptreeopt.tree.PTree object at 0x1555281aed90>
+ <ptreeopt.tree.PTree object at 0x1555281ae040>]",3,7,30,3,10
+800,40,0.96,"[<ptreeopt.tree.PTree object at 0x1555281ae220>
+ <ptreeopt.tree.PTree object at 0x1555281aed90>
+ <ptreeopt.tree.PTree object at 0x1555281ae040>]",3,7,30,3,10
+900,45,0.96,"[<ptreeopt.tree.PTree object at 0x1555281ae220>
+ <ptreeopt.tree.PTree object at 0x1555281aed90>
+ <ptreeopt.tree.PTree object at 0x1555281ae040>]",3,7,30,3,10
+1000,49,0.96,"[<ptreeopt.tree.PTree object at 0x1555281ae220>
+ <ptreeopt.tree.PTree object at 0x1555281aed90>
+ <ptreeopt.tree.PTree object at 0x1555281ae040>]",3,7,30,3,10
+1100,54,0.96,"[<ptreeopt.tree.PTree object at 0x1555281ae220>
+ <ptreeopt.tree.PTree object at 0x1555281aed90>
+ <ptreeopt.tree.PTree object at 0x1555281ae040>]",3,7,30,3,10
+1200,59,0.96,"[<ptreeopt.tree.PTree object at 0x1555281ae220>
+ <ptreeopt.tree.PTree object at 0x1555281aed90>
+ <ptreeopt.tree.PTree object at 0x1555281ae040>]",3,7,30,3,10
+1300,64,0.96,"[<ptreeopt.tree.PTree object at 0x1555281ae220>
+ <ptreeopt.tree.PTree object at 0x1555281aed90>
+ <ptreeopt.tree.PTree object at 0x1555281ae040>]",3,7,30,3,10
+1400,69,0.96,"[<ptreeopt.tree.PTree object at 0x1555281ae220>
+ <ptreeopt.tree.PTree object at 0x1555281aed90>
+ <ptreeopt.tree.PTree object at 0x1555281ae040>]",3,7,30,3,10
+1500,74,0.96,"[<ptreeopt.tree.PTree object at 0x1555281ae220>
+ <ptreeopt.tree.PTree object at 0x1555281aed90>
+ <ptreeopt.tree.PTree object at 0x1555281ae040>]",3,7,30,3,10
+1600,79,0.96,"[<ptreeopt.tree.PTree object at 0x1555281ae220>
+ <ptreeopt.tree.PTree object at 0x1555281aed90>
+ <ptreeopt.tree.PTree object at 0x1555281ae040>]",3,7,30,3,10
+1700,85,0.96,"[<ptreeopt.tree.PTree object at 0x1555281ae220>
+ <ptreeopt.tree.PTree object at 0x1555281aed90>
+ <ptreeopt.tree.PTree object at 0x1555281ae040>]",3,7,30,3,10
+1800,89,0.96,"[<ptreeopt.tree.PTree object at 0x1555281ae220>
+ <ptreeopt.tree.PTree object at 0x1555281aed90>
+ <ptreeopt.tree.PTree object at 0x1555281ae040>]",3,7,30,3,10
+1900,94,0.95,"[<ptreeopt.tree.PTree object at 0x15552814e340>
+ <ptreeopt.tree.PTree object at 0x15552814e790>
+ <ptreeopt.tree.PTree object at 0x15552814eb50>]",3,7,30,3,10
+2000,99,0.95,"[<ptreeopt.tree.PTree object at 0x15552814e340>
+ <ptreeopt.tree.PTree object at 0x15552814e790>
+ <ptreeopt.tree.PTree object at 0x15552814eb50>]",3,7,30,3,10
+2100,104,0.95,"[<ptreeopt.tree.PTree object at 0x15552814e340>
+ <ptreeopt.tree.PTree object at 0x15552814e790>
+ <ptreeopt.tree.PTree object at 0x15552814eb50>]",3,7,30,3,10
+2200,109,0.95,"[<ptreeopt.tree.PTree object at 0x15552814e340>
+ <ptreeopt.tree.PTree object at 0x15552814e790>
+ <ptreeopt.tree.PTree object at 0x15552814eb50>]",3,7,30,3,10
+2300,114,0.95,"[<ptreeopt.tree.PTree object at 0x15552814e340>
+ <ptreeopt.tree.PTree object at 0x15552814e790>
+ <ptreeopt.tree.PTree object at 0x15552814eb50>]",3,7,30,3,10
+2400,119,0.95,"[<ptreeopt.tree.PTree object at 0x15552814e340>
+ <ptreeopt.tree.PTree object at 0x15552814e790>
+ <ptreeopt.tree.PTree object at 0x15552814eb50>]",3,7,30,3,10
+2500,124,0.95,"[<ptreeopt.tree.PTree object at 0x15552814e340>
+ <ptreeopt.tree.PTree object at 0x15552814e790>
+ <ptreeopt.tree.PTree object at 0x15552814eb50>]",3,7,30,3,10
+2600,129,0.95,"[<ptreeopt.tree.PTree object at 0x15552814e340>
+ <ptreeopt.tree.PTree object at 0x15552814e790>
+ <ptreeopt.tree.PTree object at 0x15552814eb50>]",3,7,30,3,10
+2700,134,0.95,"[<ptreeopt.tree.PTree object at 0x15552814e340>
+ <ptreeopt.tree.PTree object at 0x15552814e790>
+ <ptreeopt.tree.PTree object at 0x15552814eb50>]",3,7,30,3,10
+2800,139,0.95,"[<ptreeopt.tree.PTree object at 0x15552814e340>
+ <ptreeopt.tree.PTree object at 0x15552814e790>
+ <ptreeopt.tree.PTree object at 0x15552814eb50>]",3,7,30,3,10
+2900,144,0.95,"[<ptreeopt.tree.PTree object at 0x15552814e340>
+ <ptreeopt.tree.PTree object at 0x15552814e790>
+ <ptreeopt.tree.PTree object at 0x15552814eb50>]",3,7,30,3,10
+3000,150,0.95,"[<ptreeopt.tree.PTree object at 0x15552814e340>
+ <ptreeopt.tree.PTree object at 0x15552814e790>
+ <ptreeopt.tree.PTree object at 0x15552814eb50>]",3,7,30,3,10
+3100,155,0.95,"[<ptreeopt.tree.PTree object at 0x15552814e340>
+ <ptreeopt.tree.PTree object at 0x15552814e790>
+ <ptreeopt.tree.PTree object at 0x15552814eb50>]",3,7,30,3,10
+3200,160,0.95,"[<ptreeopt.tree.PTree object at 0x15552814e340>
+ <ptreeopt.tree.PTree object at 0x15552814e790>
+ <ptreeopt.tree.PTree object at 0x15552814eb50>]",3,7,30,3,10
+3300,164,0.95,"[<ptreeopt.tree.PTree object at 0x15552814e340>
+ <ptreeopt.tree.PTree object at 0x15552814e790>
+ <ptreeopt.tree.PTree object at 0x15552814eb50>]",3,7,30,3,10
+3400,170,0.95,"[<ptreeopt.tree.PTree object at 0x15552814e340>
+ <ptreeopt.tree.PTree object at 0x15552814e790>
+ <ptreeopt.tree.PTree object at 0x15552814eb50>]",3,7,30,3,10
+3500,175,0.95,"[<ptreeopt.tree.PTree object at 0x15552814e340>
+ <ptreeopt.tree.PTree object at 0x15552814e790>
+ <ptreeopt.tree.PTree object at 0x15552814eb50>]",3,7,30,3,10
+3600,180,0.95,"[<ptreeopt.tree.PTree object at 0x15552814e340>
+ <ptreeopt.tree.PTree object at 0x15552814e790>
+ <ptreeopt.tree.PTree object at 0x15552814eb50>]",3,7,30,3,10
+3700,186,0.95,"[<ptreeopt.tree.PTree object at 0x15552814e340>
+ <ptreeopt.tree.PTree object at 0x15552814e790>
+ <ptreeopt.tree.PTree object at 0x15552814eb50>]",3,7,30,3,10
+3800,191,0.95,"[<ptreeopt.tree.PTree object at 0x15552814e340>
+ <ptreeopt.tree.PTree object at 0x15552814e790>
+ <ptreeopt.tree.PTree object at 0x15552814eb50>]",3,7,30,3,10
+3900,196,0.95,"[<ptreeopt.tree.PTree object at 0x15552814e340>
+ <ptreeopt.tree.PTree object at 0x15552814e790>
+ <ptreeopt.tree.PTree object at 0x15552814eb50>]",3,7,30,3,10
+4000,201,0.95,"[<ptreeopt.tree.PTree object at 0x15552814e340>
+ <ptreeopt.tree.PTree object at 0x15552814e790>
+ <ptreeopt.tree.PTree object at 0x15552814eb50>]",3,7,30,3,10
+4100,205,0.95,"[<ptreeopt.tree.PTree object at 0x15552814e340>
+ <ptreeopt.tree.PTree object at 0x15552814e790>
+ <ptreeopt.tree.PTree object at 0x15552814eb50>]",3,7,30,3,10
+4200,210,0.95,"[<ptreeopt.tree.PTree object at 0x15552814e340>
+ <ptreeopt.tree.PTree object at 0x15552814e790>
+ <ptreeopt.tree.PTree object at 0x15552814eb50>]",3,7,30,3,10
+4300,215,0.95,"[<ptreeopt.tree.PTree object at 0x15552814e340>
+ <ptreeopt.tree.PTree object at 0x15552814e790>
+ <ptreeopt.tree.PTree object at 0x15552814eb50>]",3,7,30,3,10
+4400,220,0.95,"[<ptreeopt.tree.PTree object at 0x15552814e340>
+ <ptreeopt.tree.PTree object at 0x15552814e790>
+ <ptreeopt.tree.PTree object at 0x15552814eb50>]",3,7,30,3,10
+4500,225,0.95,"[<ptreeopt.tree.PTree object at 0x15552814e340>
+ <ptreeopt.tree.PTree object at 0x15552814e790>
+ <ptreeopt.tree.PTree object at 0x15552814eb50>]",3,7,30,3,10
+4600,230,0.95,"[<ptreeopt.tree.PTree object at 0x15552814e340>
+ <ptreeopt.tree.PTree object at 0x15552814e790>
+ <ptreeopt.tree.PTree object at 0x15552814eb50>]",3,7,30,3,10
+4700,236,0.95,"[<ptreeopt.tree.PTree object at 0x15552814e340>
+ <ptreeopt.tree.PTree object at 0x15552814e790>
+ <ptreeopt.tree.PTree object at 0x15552814eb50>]",3,7,30,3,10
+4800,241,0.95,"[<ptreeopt.tree.PTree object at 0x15552814e340>
+ <ptreeopt.tree.PTree object at 0x15552814e790>
+ <ptreeopt.tree.PTree object at 0x15552814eb50>]",3,7,30,3,10
+4900,246,0.95,"[<ptreeopt.tree.PTree object at 0x15552814e340>
+ <ptreeopt.tree.PTree object at 0x15552814e790>
+ <ptreeopt.tree.PTree object at 0x15552814eb50>]",3,7,30,3,10
+5000,252,0.95,"[<ptreeopt.tree.PTree object at 0x15552814e340>
+ <ptreeopt.tree.PTree object at 0x15552814e790>
+ <ptreeopt.tree.PTree object at 0x15552814eb50>]",3,7,30,3,10
+5100,257,0.95,"[<ptreeopt.tree.PTree object at 0x15552814e340>
+ <ptreeopt.tree.PTree object at 0x15552814e790>
+ <ptreeopt.tree.PTree object at 0x15552814eb50>]",3,7,30,3,10
+5200,262,0.95,"[<ptreeopt.tree.PTree object at 0x15552814e340>
+ <ptreeopt.tree.PTree object at 0x15552814e790>
+ <ptreeopt.tree.PTree object at 0x15552814eb50>]",3,7,30,3,10
+5300,267,0.95,"[<ptreeopt.tree.PTree object at 0x15552814e340>
+ <ptreeopt.tree.PTree object at 0x15552814e790>
+ <ptreeopt.tree.PTree object at 0x15552814eb50>]",3,7,30,3,10
+5400,272,0.95,"[<ptreeopt.tree.PTree object at 0x15552814e340>
+ <ptreeopt.tree.PTree object at 0x15552814e790>
+ <ptreeopt.tree.PTree object at 0x15552814eb50>]",3,7,30,3,10
+5500,277,0.95,"[<ptreeopt.tree.PTree object at 0x15552814e340>
+ <ptreeopt.tree.PTree object at 0x15552814e790>
+ <ptreeopt.tree.PTree object at 0x15552814eb50>]",3,7,30,3,10
+5600,282,0.95,"[<ptreeopt.tree.PTree object at 0x15552814e340>
+ <ptreeopt.tree.PTree object at 0x15552814e790>
+ <ptreeopt.tree.PTree object at 0x15552814eb50>]",3,7,30,3,10
+5700,287,0.95,"[<ptreeopt.tree.PTree object at 0x15552814e340>
+ <ptreeopt.tree.PTree object at 0x15552814e790>
+ <ptreeopt.tree.PTree object at 0x15552814eb50>]",3,7,30,3,10
+5800,292,0.95,"[<ptreeopt.tree.PTree object at 0x15552814e340>
+ <ptreeopt.tree.PTree object at 0x15552814e790>
+ <ptreeopt.tree.PTree object at 0x15552814eb50>]",3,7,30,3,10
+5900,297,0.95,"[<ptreeopt.tree.PTree object at 0x15552814e340>
+ <ptreeopt.tree.PTree object at 0x15552814e790>
+ <ptreeopt.tree.PTree object at 0x15552814eb50>]",3,7,30,3,10
+6000,302,0.95,"[<ptreeopt.tree.PTree object at 0x15552814e340>
+ <ptreeopt.tree.PTree object at 0x15552814e790>
+ <ptreeopt.tree.PTree object at 0x15552814eb50>]",3,7,30,3,10
+6100,307,0.95,"[<ptreeopt.tree.PTree object at 0x15552814e340>
+ <ptreeopt.tree.PTree object at 0x15552814e790>
+ <ptreeopt.tree.PTree object at 0x15552814eb50>]",3,7,30,3,10
+6200,312,0.95,"[<ptreeopt.tree.PTree object at 0x15552814e340>
+ <ptreeopt.tree.PTree object at 0x15552814e790>
+ <ptreeopt.tree.PTree object at 0x15552814eb50>]",3,7,30,3,10
+6300,317,0.95,"[<ptreeopt.tree.PTree object at 0x15552814e340>
+ <ptreeopt.tree.PTree object at 0x15552814e790>
+ <ptreeopt.tree.PTree object at 0x15552814eb50>]",3,7,30,3,10
+6400,323,0.95,"[<ptreeopt.tree.PTree object at 0x15552814e340>
+ <ptreeopt.tree.PTree object at 0x15552814e790>
+ <ptreeopt.tree.PTree object at 0x15552814eb50>]",3,7,30,3,10
+6500,328,0.95,"[<ptreeopt.tree.PTree object at 0x15552814e340>
+ <ptreeopt.tree.PTree object at 0x15552814e790>
+ <ptreeopt.tree.PTree object at 0x15552814eb50>]",3,7,30,3,10
+6600,333,0.95,"[<ptreeopt.tree.PTree object at 0x15552814e340>
+ <ptreeopt.tree.PTree object at 0x15552814e790>
+ <ptreeopt.tree.PTree object at 0x15552814eb50>]",3,7,30,3,10
+6700,338,0.95,"[<ptreeopt.tree.PTree object at 0x15552814e340>
+ <ptreeopt.tree.PTree object at 0x15552814e790>
+ <ptreeopt.tree.PTree object at 0x15552814eb50>]",3,7,30,3,10
+6800,343,0.95,"[<ptreeopt.tree.PTree object at 0x15552814e340>
+ <ptreeopt.tree.PTree object at 0x15552814e790>
+ <ptreeopt.tree.PTree object at 0x15552814eb50>]",3,7,30,3,10
+6900,348,0.95,"[<ptreeopt.tree.PTree object at 0x15552814e340>
+ <ptreeopt.tree.PTree object at 0x15552814e790>
+ <ptreeopt.tree.PTree object at 0x15552814eb50>]",3,7,30,3,10
+7000,353,0.95,"[<ptreeopt.tree.PTree object at 0x15552814e340>
+ <ptreeopt.tree.PTree object at 0x15552814e790>
+ <ptreeopt.tree.PTree object at 0x15552814eb50>]",3,7,30,3,10
+7100,358,0.95,"[<ptreeopt.tree.PTree object at 0x15552814e340>
+ <ptreeopt.tree.PTree object at 0x15552814e790>
+ <ptreeopt.tree.PTree object at 0x15552814eb50>]",3,7,30,3,10
+7200,363,0.95,"[<ptreeopt.tree.PTree object at 0x15552814e340>
+ <ptreeopt.tree.PTree object at 0x15552814e790>
+ <ptreeopt.tree.PTree object at 0x15552814eb50>]",3,7,30,3,10
+7300,368,0.95,"[<ptreeopt.tree.PTree object at 0x15552814e340>
+ <ptreeopt.tree.PTree object at 0x15552814e790>
+ <ptreeopt.tree.PTree object at 0x15552814eb50>]",3,7,30,3,10
+7400,374,0.95,"[<ptreeopt.tree.PTree object at 0x15552814e340>
+ <ptreeopt.tree.PTree object at 0x15552814e790>
+ <ptreeopt.tree.PTree object at 0x15552814eb50>]",3,7,30,3,10
+7500,379,0.95,"[<ptreeopt.tree.PTree object at 0x15552814e340>
+ <ptreeopt.tree.PTree object at 0x15552814e790>
+ <ptreeopt.tree.PTree object at 0x15552814eb50>]",3,7,30,3,10
+7600,384,0.95,"[<ptreeopt.tree.PTree object at 0x15552814e340>
+ <ptreeopt.tree.PTree object at 0x15552814e790>
+ <ptreeopt.tree.PTree object at 0x15552814eb50>]",3,7,30,3,10
+7700,389,0.95,"[<ptreeopt.tree.PTree object at 0x15552814e340>
+ <ptreeopt.tree.PTree object at 0x15552814e790>
+ <ptreeopt.tree.PTree object at 0x15552814eb50>]",3,7,30,3,10
+7800,394,0.95,"[<ptreeopt.tree.PTree object at 0x15552814e340>
+ <ptreeopt.tree.PTree object at 0x15552814e790>
+ <ptreeopt.tree.PTree object at 0x15552814eb50>]",3,7,30,3,10
+7900,399,0.95,"[<ptreeopt.tree.PTree object at 0x15552814e340>
+ <ptreeopt.tree.PTree object at 0x15552814e790>
+ <ptreeopt.tree.PTree object at 0x15552814eb50>]",3,7,30,3,10
+8000,405,0.95,"[<ptreeopt.tree.PTree object at 0x15552814e340>
+ <ptreeopt.tree.PTree object at 0x15552814e790>
+ <ptreeopt.tree.PTree object at 0x15552814eb50>]",3,7,30,3,10
+8100,410,0.95,"[<ptreeopt.tree.PTree object at 0x15552814e340>
+ <ptreeopt.tree.PTree object at 0x15552814e790>
+ <ptreeopt.tree.PTree object at 0x15552814eb50>]",3,7,30,3,10
+8200,415,0.95,"[<ptreeopt.tree.PTree object at 0x15552814e340>
+ <ptreeopt.tree.PTree object at 0x15552814e790>
+ <ptreeopt.tree.PTree object at 0x15552814eb50>]",3,7,30,3,10
+8300,420,0.95,"[<ptreeopt.tree.PTree object at 0x15552814e340>
+ <ptreeopt.tree.PTree object at 0x15552814e790>
+ <ptreeopt.tree.PTree object at 0x15552814eb50>]",3,7,30,3,10
+8400,425,0.95,"[<ptreeopt.tree.PTree object at 0x15552814e340>
+ <ptreeopt.tree.PTree object at 0x15552814e790>
+ <ptreeopt.tree.PTree object at 0x15552814eb50>]",3,7,30,3,10
+8500,430,0.95,"[<ptreeopt.tree.PTree object at 0x15552814e340>
+ <ptreeopt.tree.PTree object at 0x15552814e790>
+ <ptreeopt.tree.PTree object at 0x15552814eb50>]",3,7,30,3,10
+8600,435,0.95,"[<ptreeopt.tree.PTree object at 0x15552814e340>
+ <ptreeopt.tree.PTree object at 0x15552814e790>
+ <ptreeopt.tree.PTree object at 0x15552814eb50>]",3,7,30,3,10
+8700,441,0.95,"[<ptreeopt.tree.PTree object at 0x15552814e340>
+ <ptreeopt.tree.PTree object at 0x15552814e790>
+ <ptreeopt.tree.PTree object at 0x15552814eb50>]",3,7,30,3,10
+8800,446,0.95,"[<ptreeopt.tree.PTree object at 0x15552814e340>
+ <ptreeopt.tree.PTree object at 0x15552814e790>
+ <ptreeopt.tree.PTree object at 0x15552814eb50>]",3,7,30,3,10
+8900,451,0.95,"[<ptreeopt.tree.PTree object at 0x15552814e340>
+ <ptreeopt.tree.PTree object at 0x15552814e790>
+ <ptreeopt.tree.PTree object at 0x15552814eb50>]",3,7,30,3,10
+9000,456,0.95,"[<ptreeopt.tree.PTree object at 0x15552814e340>
+ <ptreeopt.tree.PTree object at 0x15552814e790>
+ <ptreeopt.tree.PTree object at 0x15552814eb50>]",3,7,30,3,10
+9100,462,0.95,"[<ptreeopt.tree.PTree object at 0x15552814e340>
+ <ptreeopt.tree.PTree object at 0x15552814e790>
+ <ptreeopt.tree.PTree object at 0x15552814eb50>]",3,7,30,3,10
+9200,468,0.95,"[<ptreeopt.tree.PTree object at 0x15552814e340>
+ <ptreeopt.tree.PTree object at 0x15552814e790>
+ <ptreeopt.tree.PTree object at 0x15552814eb50>]",3,7,30,3,10
+9300,473,0.95,"[<ptreeopt.tree.PTree object at 0x15552814e340>
+ <ptreeopt.tree.PTree object at 0x15552814e790>
+ <ptreeopt.tree.PTree object at 0x15552814eb50>]",3,7,30,3,10
+9400,478,0.95,"[<ptreeopt.tree.PTree object at 0x15552814e340>
+ <ptreeopt.tree.PTree object at 0x15552814e790>
+ <ptreeopt.tree.PTree object at 0x15552814eb50>]",3,7,30,3,10
+9500,483,0.95,"[<ptreeopt.tree.PTree object at 0x15552814e340>
+ <ptreeopt.tree.PTree object at 0x15552814e790>
+ <ptreeopt.tree.PTree object at 0x15552814eb50>]",3,7,30,3,10
+9600,489,0.95,"[<ptreeopt.tree.PTree object at 0x15552814e340>
+ <ptreeopt.tree.PTree object at 0x15552814e790>
+ <ptreeopt.tree.PTree object at 0x15552814eb50>]",3,7,30,3,10
+9700,494,0.95,"[<ptreeopt.tree.PTree object at 0x15552814e340>
+ <ptreeopt.tree.PTree object at 0x15552814e790>
+ <ptreeopt.tree.PTree object at 0x15552814eb50>]",3,7,30,3,10
+9800,499,0.95,"[<ptreeopt.tree.PTree object at 0x15552814e340>
+ <ptreeopt.tree.PTree object at 0x15552814e790>
+ <ptreeopt.tree.PTree object at 0x15552814eb50>]",3,7,30,3,10
+9900,504,0.95,"[<ptreeopt.tree.PTree object at 0x15552814e340>
+ <ptreeopt.tree.PTree object at 0x15552814e790>
+ <ptreeopt.tree.PTree object at 0x15552814eb50>]",3,7,30,3,10
+10000,509,0.95,"[<ptreeopt.tree.PTree object at 0x15552814e340>
+ <ptreeopt.tree.PTree object at 0x15552814e790>
+ <ptreeopt.tree.PTree object at 0x15552814eb50>]",3,7,30,3,10
+100,4,0.97,"[<ptreeopt.tree.PTree object at 0x1555283548e0>
+ <ptreeopt.tree.PTree object at 0x155528354280>
+ <ptreeopt.tree.PTree object at 0x1555283540d0>]",3,8,30,3,10
+200,9,0.97,"[<ptreeopt.tree.PTree object at 0x1555283548e0>
+ <ptreeopt.tree.PTree object at 0x155528354280>
+ <ptreeopt.tree.PTree object at 0x1555283540d0>]",3,8,30,3,10
+300,14,0.96,"[<ptreeopt.tree.PTree object at 0x1555282a6b80>
+ <ptreeopt.tree.PTree object at 0x1555282a6a60>
+ <ptreeopt.tree.PTree object at 0x1555282a6e20>]",3,8,30,3,10
+400,19,0.96,"[<ptreeopt.tree.PTree object at 0x1555282a6b80>
+ <ptreeopt.tree.PTree object at 0x1555282a6a60>
+ <ptreeopt.tree.PTree object at 0x1555282a6e20>]",3,8,30,3,10
+500,24,0.96,"[<ptreeopt.tree.PTree object at 0x1555282a6b80>
+ <ptreeopt.tree.PTree object at 0x1555282a6a60>
+ <ptreeopt.tree.PTree object at 0x1555282a6e20>]",3,8,30,3,10
+600,29,0.96,"[<ptreeopt.tree.PTree object at 0x1555282a6b80>
+ <ptreeopt.tree.PTree object at 0x1555282a6a60>
+ <ptreeopt.tree.PTree object at 0x1555282a6e20>]",3,8,30,3,10
+700,34,0.95,"[<ptreeopt.tree.PTree object at 0x155528204bb0>
+ <ptreeopt.tree.PTree object at 0x155528204a30>
+ <ptreeopt.tree.PTree object at 0x155528204550>]",3,8,30,3,10
+800,40,0.95,"[<ptreeopt.tree.PTree object at 0x155528204bb0>
+ <ptreeopt.tree.PTree object at 0x155528204a30>
+ <ptreeopt.tree.PTree object at 0x155528204550>]",3,8,30,3,10
+900,45,0.95,"[<ptreeopt.tree.PTree object at 0x155528204bb0>
+ <ptreeopt.tree.PTree object at 0x155528204a30>
+ <ptreeopt.tree.PTree object at 0x155528204550>]",3,8,30,3,10
+1000,50,0.95,"[<ptreeopt.tree.PTree object at 0x155528204bb0>
+ <ptreeopt.tree.PTree object at 0x155528204a30>
+ <ptreeopt.tree.PTree object at 0x155528204550>]",3,8,30,3,10
+1100,55,0.95,"[<ptreeopt.tree.PTree object at 0x155528204bb0>
+ <ptreeopt.tree.PTree object at 0x155528204a30>
+ <ptreeopt.tree.PTree object at 0x155528204550>]",3,8,30,3,10
+1200,60,0.95,"[<ptreeopt.tree.PTree object at 0x155528204bb0>
+ <ptreeopt.tree.PTree object at 0x155528204a30>
+ <ptreeopt.tree.PTree object at 0x155528204550>]",3,8,30,3,10
+1300,65,0.95,"[<ptreeopt.tree.PTree object at 0x155528204bb0>
+ <ptreeopt.tree.PTree object at 0x155528204a30>
+ <ptreeopt.tree.PTree object at 0x155528204550>]",3,8,30,3,10
+1400,70,0.95,"[<ptreeopt.tree.PTree object at 0x155528204bb0>
+ <ptreeopt.tree.PTree object at 0x155528204a30>
+ <ptreeopt.tree.PTree object at 0x155528204550>]",3,8,30,3,10
+1500,75,0.95,"[<ptreeopt.tree.PTree object at 0x155528204bb0>
+ <ptreeopt.tree.PTree object at 0x155528204a30>
+ <ptreeopt.tree.PTree object at 0x155528204550>]",3,8,30,3,10
+1600,80,0.95,"[<ptreeopt.tree.PTree object at 0x155528204bb0>
+ <ptreeopt.tree.PTree object at 0x155528204a30>
+ <ptreeopt.tree.PTree object at 0x155528204550>]",3,8,30,3,10
+1700,85,0.95,"[<ptreeopt.tree.PTree object at 0x155528204bb0>
+ <ptreeopt.tree.PTree object at 0x155528204a30>
+ <ptreeopt.tree.PTree object at 0x155528204550>]",3,8,30,3,10
+1800,90,0.95,"[<ptreeopt.tree.PTree object at 0x155528204bb0>
+ <ptreeopt.tree.PTree object at 0x155528204a30>
+ <ptreeopt.tree.PTree object at 0x155528204550>]",3,8,30,3,10
+1900,95,0.95,"[<ptreeopt.tree.PTree object at 0x155528204bb0>
+ <ptreeopt.tree.PTree object at 0x155528204a30>
+ <ptreeopt.tree.PTree object at 0x155528204550>]",3,8,30,3,10
+2000,100,0.95,"[<ptreeopt.tree.PTree object at 0x155528204bb0>
+ <ptreeopt.tree.PTree object at 0x155528204a30>
+ <ptreeopt.tree.PTree object at 0x155528204550>]",3,8,30,3,10
+2100,105,0.95,"[<ptreeopt.tree.PTree object at 0x155528204bb0>
+ <ptreeopt.tree.PTree object at 0x155528204a30>
+ <ptreeopt.tree.PTree object at 0x155528204550>]",3,8,30,3,10
+2200,110,0.95,"[<ptreeopt.tree.PTree object at 0x155528204bb0>
+ <ptreeopt.tree.PTree object at 0x155528204a30>
+ <ptreeopt.tree.PTree object at 0x155528204550>]",3,8,30,3,10
+2300,115,0.95,"[<ptreeopt.tree.PTree object at 0x155528204bb0>
+ <ptreeopt.tree.PTree object at 0x155528204a30>
+ <ptreeopt.tree.PTree object at 0x155528204550>]",3,8,30,3,10
+2400,120,0.95,"[<ptreeopt.tree.PTree object at 0x155528204bb0>
+ <ptreeopt.tree.PTree object at 0x155528204a30>
+ <ptreeopt.tree.PTree object at 0x155528204550>]",3,8,30,3,10
+2500,125,0.95,"[<ptreeopt.tree.PTree object at 0x155528204bb0>
+ <ptreeopt.tree.PTree object at 0x155528204a30>
+ <ptreeopt.tree.PTree object at 0x155528204550>]",3,8,30,3,10
+2600,130,0.95,"[<ptreeopt.tree.PTree object at 0x155528204bb0>
+ <ptreeopt.tree.PTree object at 0x155528204a30>
+ <ptreeopt.tree.PTree object at 0x155528204550>]",3,8,30,3,10
+2700,135,0.95,"[<ptreeopt.tree.PTree object at 0x155528204bb0>
+ <ptreeopt.tree.PTree object at 0x155528204a30>
+ <ptreeopt.tree.PTree object at 0x155528204550>]",3,8,30,3,10
+2800,141,0.95,"[<ptreeopt.tree.PTree object at 0x155528204bb0>
+ <ptreeopt.tree.PTree object at 0x155528204a30>
+ <ptreeopt.tree.PTree object at 0x155528204550>]",3,8,30,3,10
+2900,146,0.95,"[<ptreeopt.tree.PTree object at 0x155528204bb0>
+ <ptreeopt.tree.PTree object at 0x155528204a30>
+ <ptreeopt.tree.PTree object at 0x155528204550>]",3,8,30,3,10
+3000,151,0.95,"[<ptreeopt.tree.PTree object at 0x155528204bb0>
+ <ptreeopt.tree.PTree object at 0x155528204a30>
+ <ptreeopt.tree.PTree object at 0x155528204550>]",3,8,30,3,10
+3100,156,0.95,"[<ptreeopt.tree.PTree object at 0x155528204bb0>
+ <ptreeopt.tree.PTree object at 0x155528204a30>
+ <ptreeopt.tree.PTree object at 0x155528204550>]",3,8,30,3,10
+3200,161,0.95,"[<ptreeopt.tree.PTree object at 0x155528204bb0>
+ <ptreeopt.tree.PTree object at 0x155528204a30>
+ <ptreeopt.tree.PTree object at 0x155528204550>]",3,8,30,3,10
+3300,166,0.95,"[<ptreeopt.tree.PTree object at 0x155528204bb0>
+ <ptreeopt.tree.PTree object at 0x155528204a30>
+ <ptreeopt.tree.PTree object at 0x155528204550>]",3,8,30,3,10
+3400,171,0.95,"[<ptreeopt.tree.PTree object at 0x155528204bb0>
+ <ptreeopt.tree.PTree object at 0x155528204a30>
+ <ptreeopt.tree.PTree object at 0x155528204550>]",3,8,30,3,10
+3500,176,0.95,"[<ptreeopt.tree.PTree object at 0x155528204bb0>
+ <ptreeopt.tree.PTree object at 0x155528204a30>
+ <ptreeopt.tree.PTree object at 0x155528204550>]",3,8,30,3,10
+3600,181,0.95,"[<ptreeopt.tree.PTree object at 0x155528204bb0>
+ <ptreeopt.tree.PTree object at 0x155528204a30>
+ <ptreeopt.tree.PTree object at 0x155528204550>]",3,8,30,3,10
+3700,185,0.95,"[<ptreeopt.tree.PTree object at 0x155528204bb0>
+ <ptreeopt.tree.PTree object at 0x155528204a30>
+ <ptreeopt.tree.PTree object at 0x155528204550>]",3,8,30,3,10
+3800,191,0.95,"[<ptreeopt.tree.PTree object at 0x155528204bb0>
+ <ptreeopt.tree.PTree object at 0x155528204a30>
+ <ptreeopt.tree.PTree object at 0x155528204550>]",3,8,30,3,10
+3900,196,0.95,"[<ptreeopt.tree.PTree object at 0x155528204bb0>
+ <ptreeopt.tree.PTree object at 0x155528204a30>
+ <ptreeopt.tree.PTree object at 0x155528204550>]",3,8,30,3,10
+4000,200,0.95,"[<ptreeopt.tree.PTree object at 0x155528204bb0>
+ <ptreeopt.tree.PTree object at 0x155528204a30>
+ <ptreeopt.tree.PTree object at 0x155528204550>]",3,8,30,3,10
+4100,205,0.95,"[<ptreeopt.tree.PTree object at 0x155528204bb0>
+ <ptreeopt.tree.PTree object at 0x155528204a30>
+ <ptreeopt.tree.PTree object at 0x155528204550>]",3,8,30,3,10
+4200,210,0.95,"[<ptreeopt.tree.PTree object at 0x155528204bb0>
+ <ptreeopt.tree.PTree object at 0x155528204a30>
+ <ptreeopt.tree.PTree object at 0x155528204550>]",3,8,30,3,10
+4300,215,0.95,"[<ptreeopt.tree.PTree object at 0x155528204bb0>
+ <ptreeopt.tree.PTree object at 0x155528204a30>
+ <ptreeopt.tree.PTree object at 0x155528204550>]",3,8,30,3,10
+4400,219,0.95,"[<ptreeopt.tree.PTree object at 0x155528204bb0>
+ <ptreeopt.tree.PTree object at 0x155528204a30>
+ <ptreeopt.tree.PTree object at 0x155528204550>]",3,8,30,3,10
+4500,224,0.95,"[<ptreeopt.tree.PTree object at 0x155528204bb0>
+ <ptreeopt.tree.PTree object at 0x155528204a30>
+ <ptreeopt.tree.PTree object at 0x155528204550>]",3,8,30,3,10
+4600,230,0.95,"[<ptreeopt.tree.PTree object at 0x155528204bb0>
+ <ptreeopt.tree.PTree object at 0x155528204a30>
+ <ptreeopt.tree.PTree object at 0x155528204550>]",3,8,30,3,10
+4700,234,0.95,"[<ptreeopt.tree.PTree object at 0x155528204bb0>
+ <ptreeopt.tree.PTree object at 0x155528204a30>
+ <ptreeopt.tree.PTree object at 0x155528204550>]",3,8,30,3,10
+4800,239,0.95,"[<ptreeopt.tree.PTree object at 0x155528204bb0>
+ <ptreeopt.tree.PTree object at 0x155528204a30>
+ <ptreeopt.tree.PTree object at 0x155528204550>]",3,8,30,3,10
+4900,245,0.95,"[<ptreeopt.tree.PTree object at 0x155528204bb0>
+ <ptreeopt.tree.PTree object at 0x155528204a30>
+ <ptreeopt.tree.PTree object at 0x155528204550>]",3,8,30,3,10
+5000,250,0.95,"[<ptreeopt.tree.PTree object at 0x155528204bb0>
+ <ptreeopt.tree.PTree object at 0x155528204a30>
+ <ptreeopt.tree.PTree object at 0x155528204550>]",3,8,30,3,10
+5100,255,0.95,"[<ptreeopt.tree.PTree object at 0x155528204bb0>
+ <ptreeopt.tree.PTree object at 0x155528204a30>
+ <ptreeopt.tree.PTree object at 0x155528204550>]",3,8,30,3,10
+5200,260,0.95,"[<ptreeopt.tree.PTree object at 0x155528204bb0>
+ <ptreeopt.tree.PTree object at 0x155528204a30>
+ <ptreeopt.tree.PTree object at 0x155528204550>]",3,8,30,3,10
+5300,265,0.95,"[<ptreeopt.tree.PTree object at 0x155528204bb0>
+ <ptreeopt.tree.PTree object at 0x155528204a30>
+ <ptreeopt.tree.PTree object at 0x155528204550>]",3,8,30,3,10
+5400,270,0.95,"[<ptreeopt.tree.PTree object at 0x155528204bb0>
+ <ptreeopt.tree.PTree object at 0x155528204a30>
+ <ptreeopt.tree.PTree object at 0x155528204550>]",3,8,30,3,10
+5500,275,0.95,"[<ptreeopt.tree.PTree object at 0x155528204bb0>
+ <ptreeopt.tree.PTree object at 0x155528204a30>
+ <ptreeopt.tree.PTree object at 0x155528204550>]",3,8,30,3,10
+5600,280,0.95,"[<ptreeopt.tree.PTree object at 0x155528204bb0>
+ <ptreeopt.tree.PTree object at 0x155528204a30>
+ <ptreeopt.tree.PTree object at 0x155528204550>]",3,8,30,3,10
+5700,284,0.95,"[<ptreeopt.tree.PTree object at 0x155528204bb0>
+ <ptreeopt.tree.PTree object at 0x155528204a30>
+ <ptreeopt.tree.PTree object at 0x155528204550>]",3,8,30,3,10
+5800,289,0.95,"[<ptreeopt.tree.PTree object at 0x155528204bb0>
+ <ptreeopt.tree.PTree object at 0x155528204a30>
+ <ptreeopt.tree.PTree object at 0x155528204550>]",3,8,30,3,10
+5900,294,0.95,"[<ptreeopt.tree.PTree object at 0x155528204bb0>
+ <ptreeopt.tree.PTree object at 0x155528204a30>
+ <ptreeopt.tree.PTree object at 0x155528204550>]",3,8,30,3,10
+6000,299,0.95,"[<ptreeopt.tree.PTree object at 0x155528204bb0>
+ <ptreeopt.tree.PTree object at 0x155528204a30>
+ <ptreeopt.tree.PTree object at 0x155528204550>]",3,8,30,3,10
+6100,304,0.95,"[<ptreeopt.tree.PTree object at 0x155528204bb0>
+ <ptreeopt.tree.PTree object at 0x155528204a30>
+ <ptreeopt.tree.PTree object at 0x155528204550>]",3,8,30,3,10
+6200,309,0.95,"[<ptreeopt.tree.PTree object at 0x155528204bb0>
+ <ptreeopt.tree.PTree object at 0x155528204a30>
+ <ptreeopt.tree.PTree object at 0x155528204550>]",3,8,30,3,10
+6300,314,0.95,"[<ptreeopt.tree.PTree object at 0x155528204bb0>
+ <ptreeopt.tree.PTree object at 0x155528204a30>
+ <ptreeopt.tree.PTree object at 0x155528204550>]",3,8,30,3,10
+6400,319,0.95,"[<ptreeopt.tree.PTree object at 0x155528204bb0>
+ <ptreeopt.tree.PTree object at 0x155528204a30>
+ <ptreeopt.tree.PTree object at 0x155528204550>]",3,8,30,3,10
+6500,324,0.95,"[<ptreeopt.tree.PTree object at 0x155528204bb0>
+ <ptreeopt.tree.PTree object at 0x155528204a30>
+ <ptreeopt.tree.PTree object at 0x155528204550>]",3,8,30,3,10
+6600,329,0.95,"[<ptreeopt.tree.PTree object at 0x155528204bb0>
+ <ptreeopt.tree.PTree object at 0x155528204a30>
+ <ptreeopt.tree.PTree object at 0x155528204550>]",3,8,30,3,10
+6700,334,0.95,"[<ptreeopt.tree.PTree object at 0x155528204bb0>
+ <ptreeopt.tree.PTree object at 0x155528204a30>
+ <ptreeopt.tree.PTree object at 0x155528204550>]",3,8,30,3,10
+6800,339,0.95,"[<ptreeopt.tree.PTree object at 0x155528204bb0>
+ <ptreeopt.tree.PTree object at 0x155528204a30>
+ <ptreeopt.tree.PTree object at 0x155528204550>]",3,8,30,3,10
+6900,344,0.95,"[<ptreeopt.tree.PTree object at 0x155528204bb0>
+ <ptreeopt.tree.PTree object at 0x155528204a30>
+ <ptreeopt.tree.PTree object at 0x155528204550>]",3,8,30,3,10
+7000,349,0.95,"[<ptreeopt.tree.PTree object at 0x155528204bb0>
+ <ptreeopt.tree.PTree object at 0x155528204a30>
+ <ptreeopt.tree.PTree object at 0x155528204550>]",3,8,30,3,10
+7100,353,0.95,"[<ptreeopt.tree.PTree object at 0x155528204bb0>
+ <ptreeopt.tree.PTree object at 0x155528204a30>
+ <ptreeopt.tree.PTree object at 0x155528204550>]",3,8,30,3,10
+7200,358,0.95,"[<ptreeopt.tree.PTree object at 0x155528204bb0>
+ <ptreeopt.tree.PTree object at 0x155528204a30>
+ <ptreeopt.tree.PTree object at 0x155528204550>]",3,8,30,3,10
+7300,364,0.95,"[<ptreeopt.tree.PTree object at 0x155528204bb0>
+ <ptreeopt.tree.PTree object at 0x155528204a30>
+ <ptreeopt.tree.PTree object at 0x155528204550>]",3,8,30,3,10
+7400,369,0.95,"[<ptreeopt.tree.PTree object at 0x155528204bb0>
+ <ptreeopt.tree.PTree object at 0x155528204a30>
+ <ptreeopt.tree.PTree object at 0x155528204550>]",3,8,30,3,10
+7500,374,0.95,"[<ptreeopt.tree.PTree object at 0x155528204bb0>
+ <ptreeopt.tree.PTree object at 0x155528204a30>
+ <ptreeopt.tree.PTree object at 0x155528204550>]",3,8,30,3,10
+7600,378,0.95,"[<ptreeopt.tree.PTree object at 0x155528204bb0>
+ <ptreeopt.tree.PTree object at 0x155528204a30>
+ <ptreeopt.tree.PTree object at 0x155528204550>]",3,8,30,3,10
+7700,383,0.95,"[<ptreeopt.tree.PTree object at 0x155528204bb0>
+ <ptreeopt.tree.PTree object at 0x155528204a30>
+ <ptreeopt.tree.PTree object at 0x155528204550>]",3,8,30,3,10
+7800,388,0.95,"[<ptreeopt.tree.PTree object at 0x155528204bb0>
+ <ptreeopt.tree.PTree object at 0x155528204a30>
+ <ptreeopt.tree.PTree object at 0x155528204550>]",3,8,30,3,10
+7900,393,0.95,"[<ptreeopt.tree.PTree object at 0x155528204bb0>
+ <ptreeopt.tree.PTree object at 0x155528204a30>
+ <ptreeopt.tree.PTree object at 0x155528204550>]",3,8,30,3,10
+8000,398,0.95,"[<ptreeopt.tree.PTree object at 0x155528204bb0>
+ <ptreeopt.tree.PTree object at 0x155528204a30>
+ <ptreeopt.tree.PTree object at 0x155528204550>]",3,8,30,3,10
+8100,403,0.95,"[<ptreeopt.tree.PTree object at 0x155528204bb0>
+ <ptreeopt.tree.PTree object at 0x155528204a30>
+ <ptreeopt.tree.PTree object at 0x155528204550>]",3,8,30,3,10
+8200,408,0.95,"[<ptreeopt.tree.PTree object at 0x155528204bb0>
+ <ptreeopt.tree.PTree object at 0x155528204a30>
+ <ptreeopt.tree.PTree object at 0x155528204550>]",3,8,30,3,10
+8300,413,0.95,"[<ptreeopt.tree.PTree object at 0x155528204bb0>
+ <ptreeopt.tree.PTree object at 0x155528204a30>
+ <ptreeopt.tree.PTree object at 0x155528204550>]",3,8,30,3,10
+8400,418,0.95,"[<ptreeopt.tree.PTree object at 0x155528204bb0>
+ <ptreeopt.tree.PTree object at 0x155528204a30>
+ <ptreeopt.tree.PTree object at 0x155528204550>]",3,8,30,3,10
+8500,423,0.95,"[<ptreeopt.tree.PTree object at 0x155528204bb0>
+ <ptreeopt.tree.PTree object at 0x155528204a30>
+ <ptreeopt.tree.PTree object at 0x155528204550>]",3,8,30,3,10
+8600,428,0.95,"[<ptreeopt.tree.PTree object at 0x155528204bb0>
+ <ptreeopt.tree.PTree object at 0x155528204a30>
+ <ptreeopt.tree.PTree object at 0x155528204550>]",3,8,30,3,10
+8700,433,0.95,"[<ptreeopt.tree.PTree object at 0x155528204bb0>
+ <ptreeopt.tree.PTree object at 0x155528204a30>
+ <ptreeopt.tree.PTree object at 0x155528204550>]",3,8,30,3,10
+8800,438,0.95,"[<ptreeopt.tree.PTree object at 0x155528204bb0>
+ <ptreeopt.tree.PTree object at 0x155528204a30>
+ <ptreeopt.tree.PTree object at 0x155528204550>]",3,8,30,3,10
+8900,443,0.95,"[<ptreeopt.tree.PTree object at 0x155528204bb0>
+ <ptreeopt.tree.PTree object at 0x155528204a30>
+ <ptreeopt.tree.PTree object at 0x155528204550>]",3,8,30,3,10
+9000,447,0.95,"[<ptreeopt.tree.PTree object at 0x155528204bb0>
+ <ptreeopt.tree.PTree object at 0x155528204a30>
+ <ptreeopt.tree.PTree object at 0x155528204550>]",3,8,30,3,10
+9100,452,0.95,"[<ptreeopt.tree.PTree object at 0x155528204bb0>
+ <ptreeopt.tree.PTree object at 0x155528204a30>
+ <ptreeopt.tree.PTree object at 0x155528204550>]",3,8,30,3,10
+9200,457,0.95,"[<ptreeopt.tree.PTree object at 0x155528204bb0>
+ <ptreeopt.tree.PTree object at 0x155528204a30>
+ <ptreeopt.tree.PTree object at 0x155528204550>]",3,8,30,3,10
+9300,462,0.95,"[<ptreeopt.tree.PTree object at 0x155528204bb0>
+ <ptreeopt.tree.PTree object at 0x155528204a30>
+ <ptreeopt.tree.PTree object at 0x155528204550>]",3,8,30,3,10
+9400,467,0.95,"[<ptreeopt.tree.PTree object at 0x155528204bb0>
+ <ptreeopt.tree.PTree object at 0x155528204a30>
+ <ptreeopt.tree.PTree object at 0x155528204550>]",3,8,30,3,10
+9500,472,0.95,"[<ptreeopt.tree.PTree object at 0x155528204bb0>
+ <ptreeopt.tree.PTree object at 0x155528204a30>
+ <ptreeopt.tree.PTree object at 0x155528204550>]",3,8,30,3,10
+9600,477,0.95,"[<ptreeopt.tree.PTree object at 0x155528204bb0>
+ <ptreeopt.tree.PTree object at 0x155528204a30>
+ <ptreeopt.tree.PTree object at 0x155528204550>]",3,8,30,3,10
+9700,482,0.95,"[<ptreeopt.tree.PTree object at 0x155528204bb0>
+ <ptreeopt.tree.PTree object at 0x155528204a30>
+ <ptreeopt.tree.PTree object at 0x155528204550>]",3,8,30,3,10
+9800,487,0.95,"[<ptreeopt.tree.PTree object at 0x155528204bb0>
+ <ptreeopt.tree.PTree object at 0x155528204a30>
+ <ptreeopt.tree.PTree object at 0x155528204550>]",3,8,30,3,10
+9900,492,0.95,"[<ptreeopt.tree.PTree object at 0x155528204bb0>
+ <ptreeopt.tree.PTree object at 0x155528204a30>
+ <ptreeopt.tree.PTree object at 0x155528204550>]",3,8,30,3,10
+10000,496,0.95,"[<ptreeopt.tree.PTree object at 0x155528204bb0>
+ <ptreeopt.tree.PTree object at 0x155528204a30>
+ <ptreeopt.tree.PTree object at 0x155528204550>]",3,8,30,3,10
+100,5,0.97,"[<ptreeopt.tree.PTree object at 0x15552837a400>
+ <ptreeopt.tree.PTree object at 0x15552837a490>
+ <ptreeopt.tree.PTree object at 0x15552837aaf0>]",3,9,30,3,10
+200,11,0.97,"[<ptreeopt.tree.PTree object at 0x15552837a400>
+ <ptreeopt.tree.PTree object at 0x15552837a490>
+ <ptreeopt.tree.PTree object at 0x15552837aaf0>]",3,9,30,3,10
+300,16,0.96,"[<ptreeopt.tree.PTree object at 0x15552813abb0>
+ <ptreeopt.tree.PTree object at 0x15552813aaf0>
+ <ptreeopt.tree.PTree object at 0x155528116eb0>]",3,9,30,3,10
+400,21,0.96,"[<ptreeopt.tree.PTree object at 0x15552813abb0>
+ <ptreeopt.tree.PTree object at 0x15552813aaf0>
+ <ptreeopt.tree.PTree object at 0x155528116eb0>]",3,9,30,3,10
+500,26,0.96,"[<ptreeopt.tree.PTree object at 0x15552813abb0>
+ <ptreeopt.tree.PTree object at 0x15552813aaf0>
+ <ptreeopt.tree.PTree object at 0x155528116eb0>]",3,9,30,3,10
+600,31,0.95,"[<ptreeopt.tree.PTree object at 0x1555286a8940>
+ <ptreeopt.tree.PTree object at 0x1555286a8070>
+ <ptreeopt.tree.PTree object at 0x1555286a8820>]",3,9,30,3,10
+700,36,0.95,"[<ptreeopt.tree.PTree object at 0x1555286a8940>
+ <ptreeopt.tree.PTree object at 0x1555286a8070>
+ <ptreeopt.tree.PTree object at 0x1555286a8820>]",3,9,30,3,10
+800,41,0.95,"[<ptreeopt.tree.PTree object at 0x1555286a8940>
+ <ptreeopt.tree.PTree object at 0x1555286a8070>
+ <ptreeopt.tree.PTree object at 0x1555286a8820>]",3,9,30,3,10
+900,45,0.95,"[<ptreeopt.tree.PTree object at 0x1555286a8940>
+ <ptreeopt.tree.PTree object at 0x1555286a8070>
+ <ptreeopt.tree.PTree object at 0x1555286a8820>]",3,9,30,3,10
+1000,50,0.95,"[<ptreeopt.tree.PTree object at 0x1555286a8940>
+ <ptreeopt.tree.PTree object at 0x1555286a8070>
+ <ptreeopt.tree.PTree object at 0x1555286a8820>]",3,9,30,3,10
+1100,55,0.95,"[<ptreeopt.tree.PTree object at 0x1555286a8940>
+ <ptreeopt.tree.PTree object at 0x1555286a8070>
+ <ptreeopt.tree.PTree object at 0x1555286a8820>]",3,9,30,3,10
+1200,60,0.95,"[<ptreeopt.tree.PTree object at 0x1555286a8940>
+ <ptreeopt.tree.PTree object at 0x1555286a8070>
+ <ptreeopt.tree.PTree object at 0x1555286a8820>]",3,9,30,3,10
+1300,65,0.95,"[<ptreeopt.tree.PTree object at 0x1555286a8940>
+ <ptreeopt.tree.PTree object at 0x1555286a8070>
+ <ptreeopt.tree.PTree object at 0x1555286a8820>]",3,9,30,3,10
+1400,70,0.95,"[<ptreeopt.tree.PTree object at 0x1555286a8940>
+ <ptreeopt.tree.PTree object at 0x1555286a8070>
+ <ptreeopt.tree.PTree object at 0x1555286a8820>]",3,9,30,3,10
+1500,75,0.95,"[<ptreeopt.tree.PTree object at 0x1555286a8940>
+ <ptreeopt.tree.PTree object at 0x1555286a8070>
+ <ptreeopt.tree.PTree object at 0x1555286a8820>]",3,9,30,3,10
+1600,80,0.95,"[<ptreeopt.tree.PTree object at 0x1555286a8940>
+ <ptreeopt.tree.PTree object at 0x1555286a8070>
+ <ptreeopt.tree.PTree object at 0x1555286a8820>]",3,9,30,3,10
+1700,85,0.95,"[<ptreeopt.tree.PTree object at 0x1555286a8940>
+ <ptreeopt.tree.PTree object at 0x1555286a8070>
+ <ptreeopt.tree.PTree object at 0x1555286a8820>]",3,9,30,3,10
+1800,90,0.95,"[<ptreeopt.tree.PTree object at 0x1555286a8940>
+ <ptreeopt.tree.PTree object at 0x1555286a8070>
+ <ptreeopt.tree.PTree object at 0x1555286a8820>]",3,9,30,3,10
+1900,95,0.95,"[<ptreeopt.tree.PTree object at 0x1555286a8940>
+ <ptreeopt.tree.PTree object at 0x1555286a8070>
+ <ptreeopt.tree.PTree object at 0x1555286a8820>]",3,9,30,3,10
+2000,101,0.95,"[<ptreeopt.tree.PTree object at 0x1555286a8940>
+ <ptreeopt.tree.PTree object at 0x1555286a8070>
+ <ptreeopt.tree.PTree object at 0x1555286a8820>]",3,9,30,3,10
+2100,105,0.95,"[<ptreeopt.tree.PTree object at 0x1555286a8940>
+ <ptreeopt.tree.PTree object at 0x1555286a8070>
+ <ptreeopt.tree.PTree object at 0x1555286a8820>]",3,9,30,3,10
+2200,110,0.95,"[<ptreeopt.tree.PTree object at 0x1555286a8940>
+ <ptreeopt.tree.PTree object at 0x1555286a8070>
+ <ptreeopt.tree.PTree object at 0x1555286a8820>]",3,9,30,3,10
+2300,115,0.95,"[<ptreeopt.tree.PTree object at 0x1555286a8940>
+ <ptreeopt.tree.PTree object at 0x1555286a8070>
+ <ptreeopt.tree.PTree object at 0x1555286a8820>]",3,9,30,3,10
+2400,120,0.95,"[<ptreeopt.tree.PTree object at 0x1555286a8940>
+ <ptreeopt.tree.PTree object at 0x1555286a8070>
+ <ptreeopt.tree.PTree object at 0x1555286a8820>]",3,9,30,3,10
+2500,125,0.95,"[<ptreeopt.tree.PTree object at 0x1555286a8940>
+ <ptreeopt.tree.PTree object at 0x1555286a8070>
+ <ptreeopt.tree.PTree object at 0x1555286a8820>]",3,9,30,3,10
+2600,130,0.95,"[<ptreeopt.tree.PTree object at 0x1555286a8940>
+ <ptreeopt.tree.PTree object at 0x1555286a8070>
+ <ptreeopt.tree.PTree object at 0x1555286a8820>]",3,9,30,3,10
+2700,135,0.95,"[<ptreeopt.tree.PTree object at 0x1555286a8940>
+ <ptreeopt.tree.PTree object at 0x1555286a8070>
+ <ptreeopt.tree.PTree object at 0x1555286a8820>]",3,9,30,3,10
+2800,140,0.95,"[<ptreeopt.tree.PTree object at 0x1555286a8940>
+ <ptreeopt.tree.PTree object at 0x1555286a8070>
+ <ptreeopt.tree.PTree object at 0x1555286a8820>]",3,9,30,3,10
+2900,145,0.95,"[<ptreeopt.tree.PTree object at 0x1555286a8940>
+ <ptreeopt.tree.PTree object at 0x1555286a8070>
+ <ptreeopt.tree.PTree object at 0x1555286a8820>]",3,9,30,3,10
+3000,150,0.95,"[<ptreeopt.tree.PTree object at 0x1555286a8940>
+ <ptreeopt.tree.PTree object at 0x1555286a8070>
+ <ptreeopt.tree.PTree object at 0x1555286a8820>]",3,9,30,3,10
+3100,155,0.95,"[<ptreeopt.tree.PTree object at 0x1555286a8940>
+ <ptreeopt.tree.PTree object at 0x1555286a8070>
+ <ptreeopt.tree.PTree object at 0x1555286a8820>]",3,9,30,3,10
+3200,160,0.95,"[<ptreeopt.tree.PTree object at 0x1555286a8940>
+ <ptreeopt.tree.PTree object at 0x1555286a8070>
+ <ptreeopt.tree.PTree object at 0x1555286a8820>]",3,9,30,3,10
+3300,165,0.95,"[<ptreeopt.tree.PTree object at 0x1555286a8940>
+ <ptreeopt.tree.PTree object at 0x1555286a8070>
+ <ptreeopt.tree.PTree object at 0x1555286a8820>]",3,9,30,3,10
+3400,170,0.95,"[<ptreeopt.tree.PTree object at 0x1555286a8940>
+ <ptreeopt.tree.PTree object at 0x1555286a8070>
+ <ptreeopt.tree.PTree object at 0x1555286a8820>]",3,9,30,3,10
+3500,175,0.95,"[<ptreeopt.tree.PTree object at 0x1555286a8940>
+ <ptreeopt.tree.PTree object at 0x1555286a8070>
+ <ptreeopt.tree.PTree object at 0x1555286a8820>]",3,9,30,3,10
+3600,180,0.95,"[<ptreeopt.tree.PTree object at 0x1555286a8940>
+ <ptreeopt.tree.PTree object at 0x1555286a8070>
+ <ptreeopt.tree.PTree object at 0x1555286a8820>]",3,9,30,3,10
+3700,184,0.95,"[<ptreeopt.tree.PTree object at 0x1555286a8940>
+ <ptreeopt.tree.PTree object at 0x1555286a8070>
+ <ptreeopt.tree.PTree object at 0x1555286a8820>]",3,9,30,3,10
+3800,189,0.95,"[<ptreeopt.tree.PTree object at 0x1555286a8940>
+ <ptreeopt.tree.PTree object at 0x1555286a8070>
+ <ptreeopt.tree.PTree object at 0x1555286a8820>]",3,9,30,3,10
+3900,195,0.95,"[<ptreeopt.tree.PTree object at 0x1555286a8940>
+ <ptreeopt.tree.PTree object at 0x1555286a8070>
+ <ptreeopt.tree.PTree object at 0x1555286a8820>]",3,9,30,3,10
+4000,200,0.95,"[<ptreeopt.tree.PTree object at 0x1555286a8940>
+ <ptreeopt.tree.PTree object at 0x1555286a8070>
+ <ptreeopt.tree.PTree object at 0x1555286a8820>]",3,9,30,3,10
+4100,205,0.95,"[<ptreeopt.tree.PTree object at 0x1555286a8940>
+ <ptreeopt.tree.PTree object at 0x1555286a8070>
+ <ptreeopt.tree.PTree object at 0x1555286a8820>]",3,9,30,3,10
+4200,209,0.95,"[<ptreeopt.tree.PTree object at 0x1555286a8940>
+ <ptreeopt.tree.PTree object at 0x1555286a8070>
+ <ptreeopt.tree.PTree object at 0x1555286a8820>]",3,9,30,3,10
+4300,214,0.95,"[<ptreeopt.tree.PTree object at 0x1555286a8940>
+ <ptreeopt.tree.PTree object at 0x1555286a8070>
+ <ptreeopt.tree.PTree object at 0x1555286a8820>]",3,9,30,3,10
+4400,219,0.95,"[<ptreeopt.tree.PTree object at 0x1555286a8940>
+ <ptreeopt.tree.PTree object at 0x1555286a8070>
+ <ptreeopt.tree.PTree object at 0x1555286a8820>]",3,9,30,3,10
+4500,224,0.95,"[<ptreeopt.tree.PTree object at 0x1555286a8940>
+ <ptreeopt.tree.PTree object at 0x1555286a8070>
+ <ptreeopt.tree.PTree object at 0x1555286a8820>]",3,9,30,3,10
+4600,229,0.95,"[<ptreeopt.tree.PTree object at 0x1555286a8940>
+ <ptreeopt.tree.PTree object at 0x1555286a8070>
+ <ptreeopt.tree.PTree object at 0x1555286a8820>]",3,9,30,3,10
+4700,234,0.95,"[<ptreeopt.tree.PTree object at 0x1555286a8940>
+ <ptreeopt.tree.PTree object at 0x1555286a8070>
+ <ptreeopt.tree.PTree object at 0x1555286a8820>]",3,9,30,3,10
+4800,239,0.95,"[<ptreeopt.tree.PTree object at 0x1555286a8940>
+ <ptreeopt.tree.PTree object at 0x1555286a8070>
+ <ptreeopt.tree.PTree object at 0x1555286a8820>]",3,9,30,3,10
+4900,244,0.95,"[<ptreeopt.tree.PTree object at 0x1555286a8940>
+ <ptreeopt.tree.PTree object at 0x1555286a8070>
+ <ptreeopt.tree.PTree object at 0x1555286a8820>]",3,9,30,3,10
+5000,249,0.95,"[<ptreeopt.tree.PTree object at 0x1555286a8940>
+ <ptreeopt.tree.PTree object at 0x1555286a8070>
+ <ptreeopt.tree.PTree object at 0x1555286a8820>]",3,9,30,3,10
+5100,254,0.95,"[<ptreeopt.tree.PTree object at 0x1555286a8940>
+ <ptreeopt.tree.PTree object at 0x1555286a8070>
+ <ptreeopt.tree.PTree object at 0x1555286a8820>]",3,9,30,3,10
+5200,259,0.95,"[<ptreeopt.tree.PTree object at 0x1555286a8940>
+ <ptreeopt.tree.PTree object at 0x1555286a8070>
+ <ptreeopt.tree.PTree object at 0x1555286a8820>]",3,9,30,3,10
+5300,265,0.95,"[<ptreeopt.tree.PTree object at 0x1555286a8940>
+ <ptreeopt.tree.PTree object at 0x1555286a8070>
+ <ptreeopt.tree.PTree object at 0x1555286a8820>]",3,9,30,3,10
+5400,269,0.95,"[<ptreeopt.tree.PTree object at 0x1555286a8940>
+ <ptreeopt.tree.PTree object at 0x1555286a8070>
+ <ptreeopt.tree.PTree object at 0x1555286a8820>]",3,9,30,3,10
+5500,274,0.95,"[<ptreeopt.tree.PTree object at 0x1555286a8940>
+ <ptreeopt.tree.PTree object at 0x1555286a8070>
+ <ptreeopt.tree.PTree object at 0x1555286a8820>]",3,9,30,3,10
+5600,280,0.95,"[<ptreeopt.tree.PTree object at 0x1555286a8940>
+ <ptreeopt.tree.PTree object at 0x1555286a8070>
+ <ptreeopt.tree.PTree object at 0x1555286a8820>]",3,9,30,3,10
+5700,284,0.95,"[<ptreeopt.tree.PTree object at 0x1555286a8940>
+ <ptreeopt.tree.PTree object at 0x1555286a8070>
+ <ptreeopt.tree.PTree object at 0x1555286a8820>]",3,9,30,3,10
+5800,289,0.95,"[<ptreeopt.tree.PTree object at 0x1555286a8940>
+ <ptreeopt.tree.PTree object at 0x1555286a8070>
+ <ptreeopt.tree.PTree object at 0x1555286a8820>]",3,9,30,3,10
+5900,294,0.95,"[<ptreeopt.tree.PTree object at 0x1555286a8940>
+ <ptreeopt.tree.PTree object at 0x1555286a8070>
+ <ptreeopt.tree.PTree object at 0x1555286a8820>]",3,9,30,3,10
+6000,299,0.95,"[<ptreeopt.tree.PTree object at 0x1555286a8940>
+ <ptreeopt.tree.PTree object at 0x1555286a8070>
+ <ptreeopt.tree.PTree object at 0x1555286a8820>]",3,9,30,3,10
+6100,304,0.95,"[<ptreeopt.tree.PTree object at 0x1555286a8940>
+ <ptreeopt.tree.PTree object at 0x1555286a8070>
+ <ptreeopt.tree.PTree object at 0x1555286a8820>]",3,9,30,3,10
+6200,309,0.95,"[<ptreeopt.tree.PTree object at 0x1555286a8940>
+ <ptreeopt.tree.PTree object at 0x1555286a8070>
+ <ptreeopt.tree.PTree object at 0x1555286a8820>]",3,9,30,3,10
+6300,314,0.95,"[<ptreeopt.tree.PTree object at 0x1555286a8940>
+ <ptreeopt.tree.PTree object at 0x1555286a8070>
+ <ptreeopt.tree.PTree object at 0x1555286a8820>]",3,9,30,3,10
+6400,319,0.95,"[<ptreeopt.tree.PTree object at 0x1555286a8940>
+ <ptreeopt.tree.PTree object at 0x1555286a8070>
+ <ptreeopt.tree.PTree object at 0x1555286a8820>]",3,9,30,3,10
+6500,325,0.95,"[<ptreeopt.tree.PTree object at 0x1555286a8940>
+ <ptreeopt.tree.PTree object at 0x1555286a8070>
+ <ptreeopt.tree.PTree object at 0x1555286a8820>]",3,9,30,3,10
+6600,330,0.95,"[<ptreeopt.tree.PTree object at 0x1555286a8940>
+ <ptreeopt.tree.PTree object at 0x1555286a8070>
+ <ptreeopt.tree.PTree object at 0x1555286a8820>]",3,9,30,3,10
+6700,335,0.95,"[<ptreeopt.tree.PTree object at 0x1555286a8940>
+ <ptreeopt.tree.PTree object at 0x1555286a8070>
+ <ptreeopt.tree.PTree object at 0x1555286a8820>]",3,9,30,3,10
+6800,340,0.95,"[<ptreeopt.tree.PTree object at 0x1555286a8940>
+ <ptreeopt.tree.PTree object at 0x1555286a8070>
+ <ptreeopt.tree.PTree object at 0x1555286a8820>]",3,9,30,3,10
+6900,345,0.95,"[<ptreeopt.tree.PTree object at 0x1555286a8940>
+ <ptreeopt.tree.PTree object at 0x1555286a8070>
+ <ptreeopt.tree.PTree object at 0x1555286a8820>]",3,9,30,3,10
+7000,350,0.95,"[<ptreeopt.tree.PTree object at 0x1555286a8940>
+ <ptreeopt.tree.PTree object at 0x1555286a8070>
+ <ptreeopt.tree.PTree object at 0x1555286a8820>]",3,9,30,3,10
+7100,355,0.95,"[<ptreeopt.tree.PTree object at 0x1555286a8940>
+ <ptreeopt.tree.PTree object at 0x1555286a8070>
+ <ptreeopt.tree.PTree object at 0x1555286a8820>]",3,9,30,3,10
+7200,359,0.95,"[<ptreeopt.tree.PTree object at 0x1555286a8940>
+ <ptreeopt.tree.PTree object at 0x1555286a8070>
+ <ptreeopt.tree.PTree object at 0x1555286a8820>]",3,9,30,3,10
+7300,364,0.95,"[<ptreeopt.tree.PTree object at 0x1555286a8940>
+ <ptreeopt.tree.PTree object at 0x1555286a8070>
+ <ptreeopt.tree.PTree object at 0x1555286a8820>]",3,9,30,3,10
+7400,369,0.95,"[<ptreeopt.tree.PTree object at 0x1555286a8940>
+ <ptreeopt.tree.PTree object at 0x1555286a8070>
+ <ptreeopt.tree.PTree object at 0x1555286a8820>]",3,9,30,3,10
+7500,374,0.95,"[<ptreeopt.tree.PTree object at 0x1555286a8940>
+ <ptreeopt.tree.PTree object at 0x1555286a8070>
+ <ptreeopt.tree.PTree object at 0x1555286a8820>]",3,9,30,3,10
+7600,380,0.95,"[<ptreeopt.tree.PTree object at 0x1555286a8940>
+ <ptreeopt.tree.PTree object at 0x1555286a8070>
+ <ptreeopt.tree.PTree object at 0x1555286a8820>]",3,9,30,3,10
+7700,385,0.95,"[<ptreeopt.tree.PTree object at 0x1555286a8940>
+ <ptreeopt.tree.PTree object at 0x1555286a8070>
+ <ptreeopt.tree.PTree object at 0x1555286a8820>]",3,9,30,3,10
+7800,390,0.95,"[<ptreeopt.tree.PTree object at 0x1555286a8940>
+ <ptreeopt.tree.PTree object at 0x1555286a8070>
+ <ptreeopt.tree.PTree object at 0x1555286a8820>]",3,9,30,3,10
+7900,395,0.95,"[<ptreeopt.tree.PTree object at 0x1555286a8940>
+ <ptreeopt.tree.PTree object at 0x1555286a8070>
+ <ptreeopt.tree.PTree object at 0x1555286a8820>]",3,9,30,3,10
+8000,400,0.95,"[<ptreeopt.tree.PTree object at 0x1555286a8940>
+ <ptreeopt.tree.PTree object at 0x1555286a8070>
+ <ptreeopt.tree.PTree object at 0x1555286a8820>]",3,9,30,3,10
+8100,405,0.95,"[<ptreeopt.tree.PTree object at 0x1555286a8940>
+ <ptreeopt.tree.PTree object at 0x1555286a8070>
+ <ptreeopt.tree.PTree object at 0x1555286a8820>]",3,9,30,3,10
+8200,411,0.95,"[<ptreeopt.tree.PTree object at 0x1555286a8940>
+ <ptreeopt.tree.PTree object at 0x1555286a8070>
+ <ptreeopt.tree.PTree object at 0x1555286a8820>]",3,9,30,3,10
+8300,416,0.95,"[<ptreeopt.tree.PTree object at 0x1555286a8940>
+ <ptreeopt.tree.PTree object at 0x1555286a8070>
+ <ptreeopt.tree.PTree object at 0x1555286a8820>]",3,9,30,3,10
+8400,421,0.95,"[<ptreeopt.tree.PTree object at 0x1555286a8940>
+ <ptreeopt.tree.PTree object at 0x1555286a8070>
+ <ptreeopt.tree.PTree object at 0x1555286a8820>]",3,9,30,3,10
+8500,425,0.95,"[<ptreeopt.tree.PTree object at 0x1555286a8940>
+ <ptreeopt.tree.PTree object at 0x1555286a8070>
+ <ptreeopt.tree.PTree object at 0x1555286a8820>]",3,9,30,3,10
+8600,430,0.95,"[<ptreeopt.tree.PTree object at 0x1555286a8940>
+ <ptreeopt.tree.PTree object at 0x1555286a8070>
+ <ptreeopt.tree.PTree object at 0x1555286a8820>]",3,9,30,3,10
+8700,436,0.95,"[<ptreeopt.tree.PTree object at 0x1555286a8940>
+ <ptreeopt.tree.PTree object at 0x1555286a8070>
+ <ptreeopt.tree.PTree object at 0x1555286a8820>]",3,9,30,3,10
+8800,440,0.95,"[<ptreeopt.tree.PTree object at 0x1555286a8940>
+ <ptreeopt.tree.PTree object at 0x1555286a8070>
+ <ptreeopt.tree.PTree object at 0x1555286a8820>]",3,9,30,3,10
+8900,445,0.95,"[<ptreeopt.tree.PTree object at 0x1555286a8940>
+ <ptreeopt.tree.PTree object at 0x1555286a8070>
+ <ptreeopt.tree.PTree object at 0x1555286a8820>]",3,9,30,3,10
+9000,450,0.95,"[<ptreeopt.tree.PTree object at 0x1555286a8940>
+ <ptreeopt.tree.PTree object at 0x1555286a8070>
+ <ptreeopt.tree.PTree object at 0x1555286a8820>]",3,9,30,3,10
+9100,455,0.95,"[<ptreeopt.tree.PTree object at 0x1555286a8940>
+ <ptreeopt.tree.PTree object at 0x1555286a8070>
+ <ptreeopt.tree.PTree object at 0x1555286a8820>]",3,9,30,3,10
+9200,460,0.95,"[<ptreeopt.tree.PTree object at 0x1555286a8940>
+ <ptreeopt.tree.PTree object at 0x1555286a8070>
+ <ptreeopt.tree.PTree object at 0x1555286a8820>]",3,9,30,3,10
+9300,466,0.95,"[<ptreeopt.tree.PTree object at 0x1555286a8940>
+ <ptreeopt.tree.PTree object at 0x1555286a8070>
+ <ptreeopt.tree.PTree object at 0x1555286a8820>]",3,9,30,3,10
+9400,470,0.95,"[<ptreeopt.tree.PTree object at 0x1555286a8940>
+ <ptreeopt.tree.PTree object at 0x1555286a8070>
+ <ptreeopt.tree.PTree object at 0x1555286a8820>]",3,9,30,3,10
+9500,475,0.95,"[<ptreeopt.tree.PTree object at 0x1555286a8940>
+ <ptreeopt.tree.PTree object at 0x1555286a8070>
+ <ptreeopt.tree.PTree object at 0x1555286a8820>]",3,9,30,3,10
+9600,480,0.95,"[<ptreeopt.tree.PTree object at 0x1555286a8940>
+ <ptreeopt.tree.PTree object at 0x1555286a8070>
+ <ptreeopt.tree.PTree object at 0x1555286a8820>]",3,9,30,3,10
+9700,485,0.95,"[<ptreeopt.tree.PTree object at 0x1555286a8940>
+ <ptreeopt.tree.PTree object at 0x1555286a8070>
+ <ptreeopt.tree.PTree object at 0x1555286a8820>]",3,9,30,3,10
+9800,490,0.95,"[<ptreeopt.tree.PTree object at 0x1555286a8940>
+ <ptreeopt.tree.PTree object at 0x1555286a8070>
+ <ptreeopt.tree.PTree object at 0x1555286a8820>]",3,9,30,3,10
+9900,495,0.95,"[<ptreeopt.tree.PTree object at 0x1555286a8940>
+ <ptreeopt.tree.PTree object at 0x1555286a8070>
+ <ptreeopt.tree.PTree object at 0x1555286a8820>]",3,9,30,3,10
+10000,500,0.95,"[<ptreeopt.tree.PTree object at 0x1555286a8940>
+ <ptreeopt.tree.PTree object at 0x1555286a8070>
+ <ptreeopt.tree.PTree object at 0x1555286a8820>]",3,9,30,3,10
